@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/hdekk/hdekk.github.io.git
+	branch = master
