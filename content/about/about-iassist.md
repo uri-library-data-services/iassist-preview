@@ -4,7 +4,7 @@ uid = "1"
 author = "administrator"
 title = "About IASSIST"
 oldpath = "/about/index.html"
-postdate = "2012-03-19 17:12:52 -0700"
+date = "2012-03-19 17:12:52 -0700"
 draft = "false"
 +++
 Overview
@@ -17,10 +17,10 @@ support research and teaching in the social sciences.
 
 ### 300+  Members from a variety of settings
 
-[![](/img/about/trial2.jpg){width="466" height="233"}\
-\
-\
-\
+[![](/img/about/trial2.jpg){width="466" height="233"}
+
+
+
 [Join IASSIST](membership.html "Join IASSIST"){#joinlnk}]{.image-right}
 
 -   Academia
@@ -87,15 +87,15 @@ Media
 -----
 
 -   **[IASSIST
-    Factsheet](/file/about/iassist_factsheet_2016.pdf) (PDF)**
+    Factsheet](/files/about/iassist_factsheet_2016.pdf) (PDF)**
 
 [![](/img/about/brochurethumb_2.png "IASSIST tri-fold brochure"){width="200"
 height="155"}]{.image-left .image-right}
 
 **IASSIST tri-fold brochure** (PDF):
 
--   [English](/file/about/printiassistbrochure_2013.pdf)
--   [French](/file/about/printiassistbrochurefrench_2012.pdf)
--   [German](/file/about/printiassistbrochuregerman_2013.pdf)
--   [Portuguese](/file/about/printiassistbrochureport_2012.pdf)
--   [Spanish](/file/about/printiassistbrochurespanish_2012.pdf)
+-   [English](/files/about/printiassistbrochure_2013.pdf)
+-   [French](/files/about/printiassistbrochurefrench_2012.pdf)
+-   [German](/files/about/printiassistbrochuregerman_2013.pdf)
+-   [Portuguese](/files/about/printiassistbrochureport_2012.pdf)
+-   [Spanish](/files/about/printiassistbrochurespanish_2012.pdf)
