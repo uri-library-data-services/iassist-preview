@@ -16,7 +16,7 @@ the Institute for the Study of Labor in Germany (IZA). At the 2008
 IASSIST conference he presented what is here an article on the ["Data
 Documentation and Remote Computing at the International Data Service
 Center of
-IZA.\"](http://www.iassistdata.org/publications/iq/iq32/iqvol321_4askitas.pdf)
+IZA."](http://www.iassistdata.org/publications/iq/iq32/iqvol321_4askitas.pdf)
 The data documentation of the IDSC that started with translation of
 German metadata into English has developed into a detailed, in depth,
 searchable and standardized information service, especially helpful for
@@ -70,14 +70,14 @@ relevant for the archival society. The UKDA had an audit of its
 identified and additional methods developed. These were collated into a
 comprehensive set of data security procedures with effect for both UKDA
 staff and the users. At the same IASSIST conference in the session
-\"Sharing Data: High Rewards, Formidable Barriers\" Carina Carlhed and
+"Sharing Data: High Rewards, Formidable Barriers" Carina Carlhed and
 Iris Alfredsson from respectively Mälardalen University, Sweden and the
 Swedish National Data Service (SND) presented a report from an
 investigation carried out earlier in 2009. The report has been turned
-into an article for the IQ with the title: \"[Swedish National Data
-Service\'s Strategy for Sharing and Mediating Data. Practices of Open
+into an article for the IQ with the title: "[Swedish National Data
+Service's Strategy for Sharing and Mediating Data. Practices of Open
 Access to and Reuse of Research Data - The State of the Art in Sweden
-2009](http://www.iassistdata.org/publications/iq/iq32/iqvol321_4alfredsson.pdf)\".
+2009](http://www.iassistdata.org/publications/iq/iq32/iqvol321_4alfredsson.pdf)".
 The report is based upon a joint project between SND and four university
 libraries that carried out a national survey of existing databases and
 database research, as well as attitudes towards data sharing among
@@ -100,9 +100,9 @@ initiative has been the formation of the Swedish National Data Service
 describes the procedures of the surveys and there might be followers for
 doing similar user investigations among other data organizations. The
 survey contains questions as to the knowledge of plans such as the
-roadmap \"The Swedish Research Council´s Guide to Infrastructure\"
-(2007) and the \"OECD Guidelines on Open Access to Research Data from
-Public Funding\" (2007). Answers to these questions exhibited a low
+roadmap "The Swedish Research Council´s Guide to Infrastructure"
+(2007) and the "OECD Guidelines on Open Access to Research Data from
+Public Funding" (2007). Answers to these questions exhibited a low
 level of knowledge, as did questions about making own data available.
 Read more in the article, and also about reasons given for not reusing
 digital data, and the seven suggested obstacles to sharing digital data.

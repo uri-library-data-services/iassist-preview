@@ -36,8 +36,8 @@ various data quality checks we undertake at the ISPS Data Archive. The
 ISPS Data Archive is a small archive, for a small and specialized
 community of researchers, containing mostly small data. We made a [key
 decision](http://www.ijdc.net/index.php/ijdc/article/view/212)early on
-to make it a \"[replication
-archive](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1931048),\"
+to make it a "[replication
+archive](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1931048),"
 by which we mean a repository that holds data and code for the purpose
 of being used to replicate and verify published results.
 
@@ -50,7 +50,7 @@ outputs. In practice, this means running the code against the data to
 validate published results. These steps in effect expand the role of the
 repository and more closely integrate it into the research process, with
 implications for resources, expertise, and relationships, which I will
-explain here.\
+explain here.
 First, a word about what data repositories usually do, the special
 obligations reproducibility imposes, and who is fulfilling them now.
 This ties in with a discussion of data quality, data review, and the

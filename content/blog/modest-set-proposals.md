@@ -8,9 +8,9 @@ oldpath = "/blog/modest-set-proposals"
 date = "2007-05-16 18:18:48 -0700"
 draft = "false"
 +++
-The conference is on and I\'m hoping to see lots of blog entries from
-the interesting sessions today. I\'m expecting some details on session
-A1 from another contributor but\.... I\'ve been asked by Kristin Partlo
+The conference is on and I'm hoping to see lots of blog entries from
+the interesting sessions today. I'm expecting some details on session
+A1 from another contributor but.... I've been asked by Kristin Partlo
 to pass along the proposals she and Rachael Barlow outlined at the end
 of their presentation for further comment. So here they are! This part
 of the session was on social bookmarking using sites such as del.icio.us
@@ -20,7 +20,7 @@ that end. Comment away and let the blogging begin!
 
 ### Proposals for IASSIST
 
-How can IASSIST use these \[social bookmarking\] technologies to create
+How can IASSIST use these [social bookmarking] technologies to create
 a more interactive community of data providers, users, and seekers?
 
 Here are some ways we could start:

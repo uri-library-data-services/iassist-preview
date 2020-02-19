@@ -11,10 +11,10 @@ draft = "false"
 [Vintage Infographics From the
 1930s](http://flowingdata.com/2009/09/11/vintage-infographics-from-the-1930s/),
 *Flowing Data* (Sept. 11, 2009). Some examples from Willard Cope
-Brinton\'s 1939 book *Graphic Presentation.*
+Brinton's 1939 book *Graphic Presentation.*
 
  
 
-\- jim
+- jim
 
  

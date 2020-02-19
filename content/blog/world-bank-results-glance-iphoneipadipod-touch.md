@@ -9,8 +9,8 @@ date = "2011-04-20 13:47:50 -0700"
 draft = "false"
 +++
 The World Bank has developed an iPhone/iPad/etc application called
-\"[World Bank Results at a
-Glance](http://itunes.apple.com/us/app/world-bank-results-at-a-glance/id430736330?mt=8)\".
+"[World Bank Results at a
+Glance](http://itunes.apple.com/us/app/world-bank-results-at-a-glance/id430736330?mt=8)".
 These results are indicators related to either UN Millenium Development
 Goals (where the World Bank has partnered with the UN) or outcomes from
 exclusively World Bank projects.
@@ -44,9 +44,9 @@ All are free via the iTunes store.
 
 As the owner of an Android phone & an iPad who works in an office in
 which wireless signals go to die, I have mixed feelings about and
-limited experience with these applications. I suspect I\'d find an
+limited experience with these applications. I suspect I'd find an
 Android version of all of the applications useful as I use my phone for
-both work and personal purposes. If it were easy to do so, I\'d probably
+both work and personal purposes. If it were easy to do so, I'd probably
 answer reference questions using a World Bank application from my phone.
 
 My iPad is a purely personal toy which is why I have yet to try any of
@@ -54,15 +54,15 @@ these tools on it - watching movies, reading books and playing
 Civilization all come first there. However, the iPad, with a bigger
 screen, might well be a good match to data displays.
 
-An interesting element in the Results application is the \"Random\"
-feature. Since I\'m working from screenshots, I\'m not entirely sure of
+An interesting element in the Results application is the "Random"
+feature. Since I'm working from screenshots, I'm not entirely sure of
 the function, but then, even if I had the software installed, I still
-would question the usefulness of the \"Random\" results feature. If
-there\'s one thing that mobile technology supports, it\'s task-driven
-activities and a random result doesn\'t seem to fit that model. On the
+would question the usefulness of the "Random" results feature. If
+there's one thing that mobile technology supports, it's task-driven
+activities and a random result doesn't seem to fit that model. On the
 other hand, I also spent a half an hour poking around an application for
 the US Congress last night with no particular purpose or task in mind.
-It\'s entirely possible that the target audience for this application is
+It's entirely possible that the target audience for this application is
 just as likely as I am to engage in similarly non-task-driven
 explorations.
 

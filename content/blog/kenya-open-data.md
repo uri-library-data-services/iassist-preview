@@ -34,11 +34,11 @@ Explorer](http://www.google.com/publicdata/explore?ds=br3o0jm5iquuf_&ctype=b&str
 Access is freely available with a request for attribution according to
 the [Terms and Conditions](http://opendata.go.ke/page/terms-of-service).
 
-The US site, <http://www.data.gov> also runs on Socrata. What\'s
+The US site, <http://www.data.gov> also runs on Socrata. What's
 interesting to me is how few of the Socrata features are used on
-Data.gov as opposed to Kenya Open Data. Kenya\'s implementation is
+Data.gov as opposed to Kenya Open Data. Kenya's implementation is
 really impressive.
 
-I look forward to using this resource and am very glad that it\'s makes
+I look forward to using this resource and am very glad that it's makes
 so much data, especially sub-national data, readily available to me here
 in the middle of the US!

@@ -12,9 +12,9 @@ Shawn Nicholson pointed out on the IASSIST list:
 
  
 
-\"As a follow on to the talk we heard in Ann Arbor, this set of
+"As a follow on to the talk we heard in Ann Arbor, this set of
 PowerPoint presentations might be of interest:
-<http://www.arl.org/info/events/ncr>[\"](http://www.arl.org/info/events/ncr "http://www.arl.org/info/events/ncr")
+<http://www.arl.org/info/events/ncr>["](http://www.arl.org/info/events/ncr "http://www.arl.org/info/events/ncr")
 
  
 

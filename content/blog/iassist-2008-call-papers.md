@@ -12,7 +12,7 @@ draft = "false"
 Preservation*** The 34th International Association for Social Science
 Information Services and Technology (IASSIST) annual conference will be
 held at the Stanford University, Palo Alto, California, USA, May 27-30,
-2008. This year\'s conference, Technology of Data: Collection,
+2008. This year's conference, Technology of Data: Collection,
 Communication, Access and Preservation, examines the role of technology
 and tools in various aspects of the data life cycle.
 
@@ -29,8 +29,8 @@ role of technology -- past, present, and future -- in all of these
 arenas. We seek submissions of papers, poster/demonstration sessions,
 and panel sessions on the following topics:
 
--   Issues and techniques for preserving \"old\" data as well as
-    information \"born digital\"
+-   Issues and techniques for preserving "old" data as well as
+    information "born digital"
 -   Methods, technology and questions surrounding data dissemination,
     including best practices and innovations
 -   Archival and preservation challenges presented by new processes
@@ -43,7 +43,7 @@ and panel sessions on the following topics:
 -   Changes in resource discovery methods
 -   Data services in virtual spaces
 -   Providing services to users with different degrees of technical
-    \"savvy\"
+    "savvy"
 -   Tools and spaces for research collaboration
 
 Papers on other topics related to the conference theme will also be
@@ -74,4 +74,4 @@ Proposals can be submitted via email to: <iassist08@gmail.com>
 A conference website with on-line submission form will be available
 shortly. A separate call for workshops is also forthcoming.
 
-\-- IASSIST 2008 Palo Alto, CA 27-30 May 2008
+-- IASSIST 2008 Palo Alto, CA 27-30 May 2008

@@ -12,13 +12,13 @@ Several weeks ago, Google contacted me at BLS to let us know they were
 using some of our data in a launch of a new service in data
 visualization.  Their plan is to make as much data available as possible
 with as rich a tool set as they can provide.  To see an example, enter
-the phrase \"US Unemployment Rate\" in the Google search box.  The top
+the phrase "US Unemployment Rate" in the Google search box.  The top
 link sends you to a page that allows you to superimpose historical
 graphs of unemployment rates down to any county in the US.  There is a
-link at the bottom of the page for \"Information for Publishers\" for
+link at the bottom of the page for "Information for Publishers" for
 people interested in letting Google know about their own data.
 
-Google\'s inquiry took us by surprise, as we have no working
+Google's inquiry took us by surprise, as we have no working
 relationship with them.  Our main concern was whether their launch would
 impose an undue burden on our web servers, but we decided it would not. 
 Every time we release a new estimate for the Unemployment Rate or the
@@ -35,6 +35,6 @@ visualization.
 
 The world seems to be getting smaller every day.
 
-\- Dan Gillman
+- Dan Gillman
 
 US Bureau of Labor Statistics

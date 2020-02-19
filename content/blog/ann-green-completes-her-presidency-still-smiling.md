@@ -19,9 +19,9 @@ Plan](http://www.iassistdata.org/membership/plan_june2004.pdf) released
 in May 2004. This Plan is now being integrated into the directions of
 our Standing Committees and Action Groups. During her two terms, IASSIST
 held four of its finest conferences in the cities of Storrs, Ottawa,
-Madison and Edinburgh. Under Ann\'s leadership, IASSIST continued its
+Madison and Edinburgh. Under Ann's leadership, IASSIST continued its
 outreach to build relationships with the staff in new national data
-archives. IASSIST\'s firm commitment to the development of the Data
+archives. IASSIST's firm commitment to the development of the Data
 Documentation Initiative is a tribute to the founding role Ann played in
 the formation of the DDI standard.
 

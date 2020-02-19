@@ -17,12 +17,12 @@ September 12, 2007 at 1:53 AM EDT
 In Canada, census releases are no dreary catalogue of numbers. They
 spark debate and fuel conversation about the country. Statistics Canada
 has released the results of the 2006 census on marital status, families
-and housing, and we\'re at it again. So important is the census that we
+and housing, and we're at it again. So important is the census that we
 debate not only its findings, but also access to its content. The latter
 debate, decades old, has resurfaced again in 2007. Let me explain why.
 
 The census is the only complete inventory of our population, an
-indispensable historical record of the Canadian people. It\'s critical
+indispensable historical record of the Canadian people. It's critical
 to genealogy, our most popular form of history. Of all visitors to our
 national archives today, half are doing genealogical research. If you
 had ancestors in Canada in 1901 or 1911, you can find them in the
@@ -41,21 +41,21 @@ years. Just 56 per cent of Canadians agreed.
 
 The question was presented with virtually no context or explanation. How
 many read the fine print explaining that consent was being sought for
-\"important historical and genealogical research\"? How many read
-Statistics Canada\'s \"genealogy corner,\" where \"yes\" responses were
+"important historical and genealogical research"? How many read
+Statistics Canada's "genealogy corner," where "yes" responses were
 clearly encouraged? Likely many respondents transferred to the census a
-general anxiety about privacy. An instinctive \"no\" may easily result
+general anxiety about privacy. An instinctive "no" may easily result
 from inapposite fears about identity theft or suspicion of government.
 
 The effect is that the 2006 census has been seriously impaired as a
 historical record, and if nothing changes, all future censuses are
 likely to be similarly damaged. We bequeath to our descendants no
-complete record of the country\'s population, and to future governments,
+complete record of the country's population, and to future governments,
 we bequeath a political and legal nightmare. In 2098, our descendants
-will surely insist that a family\'s right to know their ancestors takes
+will surely insist that a family's right to know their ancestors takes
 precedence over uninformed responses to an ill-framed consent question
 in the distant past. And why, after 92 years, should Canadians be denied
-access to their ancestors\' names, when people inside a government
+access to their ancestors' names, when people inside a government
 agency can see those names? Statistics Canada does an impressive job in
 making information from recent censuses available, in ways that prevent
 identification or personal details. But census information, with names
@@ -66,8 +66,8 @@ nominal information in studying genetic responses to drugs.
 
 Our American neighbours are much more enlightened than we are on this
 issue. They release census information through their National Archives
-after a delay of 72 years. They apply the principle of \"implied
-consent\" --- a principle well known to privacy experts. When completing
+after a delay of 72 years. They apply the principle of "implied
+consent" --- a principle well known to privacy experts. When completing
 their census forms, Americans are consenting to the present-day use of
 their information by the Census Bureau, and to its use by other
 researchers in the distant future. Americans do not complain about the
@@ -88,7 +88,7 @@ created by an incomplete application of its recommendations. We do not
 ask individual citizens to consent to paying taxes; individual interest
 is served by tax revenues and the common goods obtained from public
 spending. Censuses are similar. We contribute, and the benefit --- a
-complete historical record of the country\'s population --- is a common
+complete historical record of the country's population --- is a common
 good overriding any claim of individual harm.
 
 I will not be alive in 2098 to see what happens if we fail to strike an

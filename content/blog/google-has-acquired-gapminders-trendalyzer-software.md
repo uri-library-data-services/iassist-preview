@@ -13,7 +13,7 @@ motion](http://googleblog.blogspot.com/2007/03/world-in-motion.html),
 *The official Google Blog*, March 16, 2007, by Marissa Mayer
 
 > In this regard, we are excited to announce that we have acquired
-> Gapminder\'s Trendalyzer software, and we welcome the Trendalyzer team
+> Gapminder's Trendalyzer software, and we welcome the Trendalyzer team
 > to Google. Trendalyzer generates moving graphics and other novel
 > effects in the display of facts, figures, and statistics in
 > presentations. In its nimble hands, Trendalyzer views development
@@ -31,4 +31,4 @@ motion](http://googleblog.blogspot.com/2007/03/world-in-motion.html),
 See also: [Data Video at Gapminder](http://iassistblog.org/?p=52) for
 background on Gapminder.
 
-\-- jajacobs
+-- jajacobs

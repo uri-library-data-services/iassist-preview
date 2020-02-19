@@ -8,7 +8,7 @@ oldpath = "/blog/iassist-sigdmc-annual-report-2013-2014"
 date = "2014-05-30 09:57:31 -0700"
 draft = "false"
 +++
-By Carol Perry & Stefan Kramer, co-chairs\
+By Carol Perry & Stefan Kramer, co-chairs
 Last updated: 2014-05-29 by CP
 
 -   The major activity of the Data Management & Curation Interest Group
@@ -31,6 +31,6 @@ Last updated: 2014-05-29 by CP
     been invited to participate in an in-person meeting on June 4, where
     the election outcome of the successor of Carol Perry as co-chair
     will first be announced, and future goals for the group be
-    discussed.**\
-    \
+    discussed.**
+    
     **

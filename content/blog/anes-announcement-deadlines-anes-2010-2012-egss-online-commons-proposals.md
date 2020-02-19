@@ -60,7 +60,7 @@ items on one or more surveys, we are providing the capacity to survey on
 a diverse set of topics that are relevant to a wide set of research
 communities. Lastly, the flexibility of these surveys as to both content
 and timing will allow the ANES to respond promptly to emerging political
-issues in this volatile period in our country\'s history.
+issues in this volatile period in our country's history.
 
 About the Online Commons
 

@@ -35,8 +35,8 @@ listserv, the [QSSHDIG google
 group](https://groups.google.com/forum/#!forum/iassist-qualdata), or
 directly to the authors, and/or comments in this ["Blog Conversations"
 doc](https://sites.google.com/uncg.edu/iassistqsshdig/blog-conversations) embedded
-in the QSSHDIG website. Also, there\'s a section at the bottom of the
-\"Blog Conversations\" doc for suggesting future QSSDHIG posts - please
+in the QSSHDIG website. Also, there's a section at the bottom of the
+"Blog Conversations" doc for suggesting future QSSDHIG posts - please
 do!
 
 ***Why have this conversation?***
@@ -59,7 +59,7 @@ software (such as
 [NVivo](http://www.qsrinternational.com/what-is-nvivo),[Atlas.ti](http://atlasti.com/),
 [Quirkos](https://www.quirkos.com/index.html), or
 [Dedoose](http://www.dedoose.com/)) often experience researchers coming
-to these sessions without the methodological background to \*do\*
+to these sessions without the methodological background to *do*
 qualitative research or understand what the software can/cannot do for
 them - sometimes hoping that the software will have the "magic button"
 to solve their lack of training. Similarly, as social science liaison
@@ -79,15 +79,15 @@ their qualitative research and methodologies skills:
 -   **[Jill Conte's
     post](http://iassistdata.org/blog/how-do-i-do-qualitative-research-bridging-gap-between-qualitative-researchers-and-methods-res-0)**
     will offer suggestions for connecting researchers with secondary and
-    tertiary sources for qualitative research training. \[to be posted
-    Monday, July 24\] 
+    tertiary sources for qualitative research training. [to be posted
+    Monday, July 24] 
 -   **[Mandy Swygart-Hobaugh's
     post](http://iassistdata.org/blog/how-do-i-do-qualitative-research-bridging-gap-between-qualitative-researchers-and-methods-res-1)**
     will share ideas for developing and providing training resources in
     collaboration with faculty and academic departments that are mindful
-    of this methods gap. \[to be posted Monday, July 31\] 
+    of this methods gap. [to be posted Monday, July 31] 
 -   **[Liz Cooper's
     post](http://iassistdata.org/blog/how-do-i-do-qualitative-research-bridging-gap-between-qualitative-researchers-and-methods-res-2)**
     will address how librarians and other data-support professionals can
     help build community at their institutions around qualitative
-    research. \[to be posted Monday, August 7\] 
+    research. [to be posted Monday, August 7] 

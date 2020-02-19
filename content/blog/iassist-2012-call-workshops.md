@@ -19,8 +19,8 @@ below:
 Call for Workshops
 ------------------
 
-**Data Science for a Connected World:\
-Unlocking and Harnessing the Power\
+**Data Science for a Connected World:
+Unlocking and Harnessing the Power
 of Information**
 
 The 38th International Association for Social Science Information
@@ -28,7 +28,7 @@ Services and Technology (IASSIST) annual conference will be hosted by
 NORC at the University of Chicago and will be held at the George
 Washington University in Washington DC, June 4 - 8, 2012. 
 
-The theme of this year\'s conferences is *Data Science for a Connected
+The theme of this year's conferences is *Data Science for a Connected
 World: Unlocking and Harnessing the Power of Information*. This theme
 reflects the growing desire of research communities, government agencies
 and other organizations to build connections and benefit from the better
@@ -37,7 +37,7 @@ preservation techniques. Submissions are encouraged that offer
 improvements for creating, documenting, submitting, describing,
 disseminating, and preserving scientific research data. 
 
-Workshops details:\
+Workshops details:
 The conference committee seeks workshops that highlight this year's
 theme *Data Science for a Connected World: Unlocking and Harnessing the
 Power of Information*.  Below is a sample of possible workshop topics
@@ -82,12 +82,12 @@ submission please include a preliminary list of requirements including:
 -   software and hardware requirements
 -   any additional expected requirements
 
-*Deadline for submission*:  **January 16, 2012**\
-*Notification of acceptance*: **March 2, 2012**\
-\
+*Deadline for submission*:  **January 16, 2012**
+*Notification of acceptance*: **March 2, 2012**
+
 Please contact Lynda Kellam, IASSIST workshop Coordinator, if you have
-any questions regarding workshop submissions at lmkellam\@uncg.edu\
-\
+any questions regarding workshop submissions at lmkellam@uncg.edu
+
 IASSIST is an international organization of professionals working in and
 with information technology and data services to support research and
 teaching in the social sciences.  Typical workplaces include data
@@ -95,10 +95,10 @@ archives/libraries, statistical agencies, research
 centers, libraries, academic departments, government departments, and
 non‐profit organizations.  Visit
 [iassistdata.org](http://www.iassistdata.org "iassistdata.org")  for
-further information. \
-\
-**IASSIST 2012\
-**June 4 - 8, 2012\
+further information. 
+
+**IASSIST 2012
+**June 4 - 8, 2012
 Washington DC, USA
 
 -IASSIST 2012 Program Chairs: Jake Carlson, Pascal Heus and Oliver

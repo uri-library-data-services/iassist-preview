@@ -8,7 +8,7 @@ oldpath = "/blog/iassist-quarterly-volume-422-now-available"
 date = "2018-07-19 06:13:26 -0700"
 draft = "false"
 +++
-### Editor\'s notes:  Metadata is key - the most important data after data
+### Editor's notes:  Metadata is key - the most important data after data
 
 Welcome to the [second issue of volume 42 of the IASSIST
 Quarterly](https://iassistquarterly.com/index.php/iassist/issue/view/3 "2")
@@ -27,12 +27,12 @@ describing the data, without which the data are useless. Therefore, it
 comes as no surprise that the IASSIST Quarterly is devoted partly to the
 presentation of papers related to documentation. The question of
 documentation or data resembles the question of the chicken or the egg.
-Don\'t mistake the keys for your car. The metadata and the data belong
+Don't mistake the keys for your car. The metadata and the data belong
 together and should not be separated.
 
 DDI now is a standard, but as with other standards it continues to
-evolve. The argument about why standards are good comes to mind: \'The
-nice thing about standards is that you have so many to choose from!\'.
+evolve. The argument about why standards are good comes to mind: 'The
+nice thing about standards is that you have so many to choose from!'.
 DDI is the de facto standard for most social science data at data
 archives and university data libraries.
 
@@ -49,7 +49,7 @@ DDI. However, the paper certainly does mention metadata - it is the key
 to all data.
 
 The winner of the paper competition of the IASSIST 2017 conference is
-presented in this issue. \'Flexible DDI Storage\' is authored by Oliver
+presented in this issue. 'Flexible DDI Storage' is authored by Oliver
 Hopt, Claus-Peter Klas, Alexander Mühlbauer, all affiliated with GESIS -
 the Leibniz-Institute for the Social Sciences in Germany. The authors
 argue that the current usage of DDI is heterogeneous and that this
@@ -67,9 +67,9 @@ to the export of questionnaire, DDI XML, and SPSS. The development is
 continuing and it will be published as open source. 
 
 The second paper is also focused on DDI, now in relation to a new data
-archive. \'Elaborating a Crosswalk Between Data Documentation Initiative
+archive. 'Elaborating a Crosswalk Between Data Documentation Initiative
 (DDI) and Encoded Archival Description (EAD) for an Emerging Data
-Archive Service Provider\' is by Benjamin Peuch who is a researcher at
+Archive Service Provider' is by Benjamin Peuch who is a researcher at
 the State Archives of Belgium. It is expected that the future Belgian
 data archive will be part of the State Archives, and because DDI is the
 most widespread metadata standard in the social sciences, the State
@@ -84,10 +84,10 @@ The third paper is by a group of scholars connected to the Informatics
 Engineering Department of University of Porto and the INESC TEC in
 Portugal. Cristina Ribeiro, João Rocha da Silva, João Aguiar Castro,
 Ricardo Carvalho Amorim, João Correia Lopes, and Gabriel David are the
-authors of \'Research Data Management Tools and Workflows: Experimental
-Work at the University of Porto\'. The authors start with the statement
-that \'Research datasets include all kinds of objects, from web pages to
-sensor data, and originate in every domain\'. The task is to make these
+authors of 'Research Data Management Tools and Workflows: Experimental
+Work at the University of Porto'. The authors start with the statement
+that 'Research datasets include all kinds of objects, from web pages to
+sensor data, and originate in every domain'. The task is to make these
 data visible, described, preserved, and searchable. The focus is on data
 preparation, dataset organization and metadata creation. Some groups
 were proposed a developed open-source research data management platform
@@ -104,7 +104,7 @@ turning your one-time presentation into a lasting contribution. Doing
 that after the event also gives you the opportunity of improving your
 work after feedback. We encourage you to login or create an author login
 to <https://www.iassistquarterly.com> (our Open Journal System
-application). We permit authors \'deep links\' into the IQ as well as
+application). We permit authors 'deep links' into the IQ as well as
 deposition of the paper in your local repository. Chairing a conference
 session with the purpose of aggregating and integrating papers for a
 special issue IQ is also much appreciated as the information reaches
@@ -115,7 +115,7 @@ look at the instructions and layout:
 
 <https://www.iassistquarterly.com/index.php/iassist/about/submissions>
 
-Authors can also contact me directly via e-mail: kbr\@sam.sdu.dk. Should
+Authors can also contact me directly via e-mail: kbr@sam.sdu.dk. Should
 you be interested in compiling a special issue for the IQ as guest
 editor(s) I will also be delighted to hear from you.
 

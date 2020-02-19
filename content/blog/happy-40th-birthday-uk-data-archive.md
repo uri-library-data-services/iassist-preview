@@ -16,9 +16,9 @@ retirement or other fields. See press release at
 <http://www.jisc.ac.uk/news/stories/2007/07/news_ukda.aspx> The occasion
 called for reflection on the past, as the news story illuminates:
 
-> \"Jointly funded by JISC and the ESRC, the UKDA is now an
+> "Jointly funded by JISC and the ESRC, the UKDA is now an
 > internationally renowned centre of expertise in data acquisition and
-> is curator of the UK\'s largest collection of digital data in the
+> is curator of the UK's largest collection of digital data in the
 > social sciences and humanities. But as the booklet highlights, the
 > development of the Archive has not always gone smoothly and in the
 > early years even its strongest supporters could scarcely have imagined
@@ -33,9 +33,9 @@ called for reflection on the past, as the news story illuminates:
 > The breakthrough came in the 1970s with the acquisition of data
 > collected in large government surveys including the General Household
 > Survey, the Labour Force Survey, and the Family Expenditure Survey.
-> Since then, the Archive\'s holdings have grown from strength to
+> Since then, the Archive's holdings have grown from strength to
 > strength and its data are in high demand both nationally and
-> internationally.\"
+> internationally."
 
 The Archive staff produced a booklet for the occasion, which is mirrored
 in a content-rich anniversary website here

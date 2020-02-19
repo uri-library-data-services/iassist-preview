@@ -11,25 +11,25 @@ draft = "false"
 Regardless of the institutional setting in which we work, more and more
 of us are having to address researcher access to restricted or
 confidential datasets.  This post focuses on sessions at Stanford that
-covered this important topic\--or rather, group of topics because there
+covered this important topic--or rather, group of topics because there
 are so many intersecting responsibilities to actually making such
 access a reality for our users.
 
-Lisa Neider\'s poster session focused on the practicalities of
-\"Administering Restricted Data Contracts.\"  In particular, her handout
-provided \"natural language\" tips when working with the agreements
+Lisa Neider's poster session focused on the practicalities of
+"Administering Restricted Data Contracts."  In particular, her handout
+provided "natural language" tips when working with the agreements
 required by data distributors.
 
-I also attended Friday\'s paper session, \"Licensing, Privacy, and
-Protection. \" Many of us now interact with Institutional Review Boards
-(IRB) in our respective institutions.  It\'s not easy to balance the
+I also attended Friday's paper session, "Licensing, Privacy, and
+Protection. " Many of us now interact with Institutional Review Boards
+(IRB) in our respective institutions.  It's not easy to balance the
 needs of researchers, expectations of the IRBs, and requirements of data
 collectors and distributors.  Summaries of the presentations follow.
-Admittedly, they focus on the things that **I** found interesting\--so
-do comment on the points I\'ve missed!
+Admittedly, they focus on the things that **I** found interesting--so
+do comment on the points I've missed!
 
 Amy Pienta (ICPSR) was unable to present in person, but session chair
-Libbie Stephenson discussed the high points and forwarded Amy\'s
+Libbie Stephenson discussed the high points and forwarded Amy's
 excellent handouts.  They review the many (*many*) issues involved with
 data deposit and retention, ownership and distribution rights, and
 respondent protection.  Although the paper focused on retention and
@@ -45,8 +45,8 @@ Thomas Lindsay (University of Minnesota) started with an historical
 overview on evolution of IRBs in the United States.  Review panels are
 largely populated by senior researchers. Although they bring substantial
 research experience to the table, their perspectives regarding security
-measures (the \"locked file cabinet\" approach) reflect traditional
-methodologies that don\'t translate completely to the digital age.  The
+measures (the "locked file cabinet" approach) reflect traditional
+methodologies that don't translate completely to the digital age.  The
 result of IRB deliberations is, too often, inconsistent application of
 guidelines.  Such case-by-case review can inadvertently feed
 investigator disillusionment with the IRB process.  Data professionals
@@ -57,7 +57,7 @@ Libbie Stephenson (UCLA) discussed institutional review processes from
 the perspective of a service that supports public-use data products. 
 Based on interactions with a variety of players (data users,
 researchers seeking funding, IRB members, university legal counsel
-staff, and others), she\'s compiled an excellent resource, Guidelines
+staff, and others), she's compiled an excellent resource, Guidelines
 for Data Sharing and Access.  See the link from here: 
 <http://www.sscnet.ucla.edu/issr/da/resource.htm>
 

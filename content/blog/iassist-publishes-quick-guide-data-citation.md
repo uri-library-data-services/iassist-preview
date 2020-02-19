@@ -18,7 +18,7 @@ pick up your complimentary copies!
 [![](/img/blog/quickguideicon.jpg "IASSIST Quick Guide to Data Citation"){width="241"
 height="79"}](/files/blog/quick_guide_to_data_citation_high-res_printer-ready.pdf)
 
-[http://iassistdata.org/files/blog/quick\_guide\_to\_data\_citation\_high-res\_printer-ready.pdf](http://iassistdata.org/files/blog/quick_guide_to_data_citation_high-res_printer-ready.pdf)
+[http://iassistdata.org/files/blog/quick_guide_to_data_citation_high-res_printer-ready.pdf](http://iassistdata.org/files/blog/quick_guide_to_data_citation_high-res_printer-ready.pdf)
 
 Learn more about printing or downloading more copies
 at[http://iassistdata.org/community/sigdc.](/community/sigdc)
@@ -26,6 +26,6 @@ at[http://iassistdata.org/community/sigdc.](/community/sigdc)
 In other SIGDC news, Elizabeth Moss and Hailey Mooney will be taking
 over as co-chairs from Mary Vardigan and Michael Witt. As we head into
 our second year, thanks to everyone for their continued interest and
-participation in the group.\
+participation in the group.
 
-\
+

@@ -28,11 +28,11 @@ the app. 
 
  A one-page installation, setup and use guide can be found at this link,
 with a link to more descriptive documentation if
-necessary: <https://docs.google.com/document/d/135Eq2fwVRtlMdENpQjmZe5Zjm1OFGImCxtyWeV_7sdI> \[[docs.google.com](http://docs.google.com/)\]
+necessary: <https://docs.google.com/document/d/135Eq2fwVRtlMdENpQjmZe5Zjm1OFGImCxtyWeV_7sdI> [[docs.google.com](http://docs.google.com/)]
 
 The application is open-source software, so please contact Metadata
-Technology NA if you\'re interested in contracting them to customize
+Technology NA if you're interested in contracting them to customize
 this application for your own organization.
 
-Please contact Dave Haans (dave.haans\@utoronto.ca) for more
+Please contact Dave Haans (dave.haans@utoronto.ca) for more
 information.

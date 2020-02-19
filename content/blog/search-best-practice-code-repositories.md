@@ -34,7 +34,7 @@ most journal requirements, including one that pointed out a "replication
 archive" at Yale (<http://isps.yale.edu/research/data>).  I was also
 pointed to an interested paper that questions whether such archives
 promote replicable research
-([http://www.pages.drexel.edu/\~bdm25/cje.pdf](http://www.pages.drexel.edu/%7Ebdm25/cje.pdf))
+([http://www.pages.drexel.edu/~bdm25/cje.pdf](http://www.pages.drexel.edu/%7Ebdm25/cje.pdf))
 but that's a discussion for another post.
 
 By far, the most common reference I received was for the repositories

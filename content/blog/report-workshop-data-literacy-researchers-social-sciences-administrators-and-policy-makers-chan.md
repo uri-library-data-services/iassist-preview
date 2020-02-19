@@ -64,8 +64,8 @@ make data meaningful and use in decision making. She also discussed
 about how data is important for every organizations, researchers and for
 policymaking.
 
-In another session entitled \'Finding the right numbers for research,
-advocacy and impact\' she described various web-based resources which
+In another session entitled 'Finding the right numbers for research,
+advocacy and impact' she described various web-based resources which
 are rich repositories of data that social scientists need, and shared a
 few examples of how data presented by CSE in its reports and
 publications is collected.

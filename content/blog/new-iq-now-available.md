@@ -107,7 +107,7 @@ Authors can also contact me via e-mail: <kbr@sam.sdu.dk>. Should you be
 interested in compiling a special issue for the IQ as guest editor(s) I
 will also be delighted to hear from you.
 
-\
-Karsten Boye Rasmussen\
-March 2015\
+
+Karsten Boye Rasmussen
+March 2015
 Editor

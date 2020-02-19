@@ -14,16 +14,16 @@ IASSIST 2011 Conference!**
 -   IASSIST 2011 conference
     site: [www.rdl.sfu.ca/IASSIST](http://www.rdl.sfu.ca/IASSIST)/
 -   Conference e-mail
-    address: [iassistvancouver\@gmail.com](mailto:iassistvancouver@gmail.com)
+    address: [iassistvancouver@gmail.com](mailto:iassistvancouver@gmail.com)
 -   Conference Theme: ***Data Science Professionals: a Global Community
     of Sharing ***
 -   ***Date:**** 31 May - 3 June 2011 Vancouver, British Columbia,
     Canada. *
 
-This will be IASSIST\'s 37th annual meeting, co-hosted by the Libraries
+This will be IASSIST's 37th annual meeting, co-hosted by the Libraries
 of Simon Fraser University and the University of British Columbia. Join
 us in Vancouver :  Bordered by the Coast Mountain Range and the Pacific
-Ocean, Vancouver is recognized as one of the world\'s most liveable
+Ocean, Vancouver is recognized as one of the world's most liveable
 cities.
 
 *Register before April 1* to take advantage of special conference rates
@@ -32,7 +32,7 @@ and workshops:
 Registration fees and other details are on the registration fees
 page: [http://www.rdl.sfu.ca/IASSIST/index.php/Register/category/register/](http://www.rdl.sfu.ca/IASSIST/index.php/Register/category/register/)The
 workshop schedule and a preliminary program are on the conference site.
-We\'ll update it frequently, so check back often. You will also find
+We'll update it frequently, so check back often. You will also find
 information about the official conference hotel *Delta Vancouver
 Suites* and area hotels that are convenient to the conference venues. 
 

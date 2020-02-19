@@ -38,7 +38,7 @@ Resource types currently include:
 -   Tutorials and Learning Resources
 -   Websites
 
-There are too many categories of content to list here, but it\'s worth
+There are too many categories of content to list here, but it's worth
 noting that the home page highlights education resources, policy
 resources and applications. 
 

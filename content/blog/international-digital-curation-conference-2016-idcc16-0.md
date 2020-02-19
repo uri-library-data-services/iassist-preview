@@ -18,7 +18,7 @@ activities. In addition, plenty of familiar faces were present including
 our current IASSIST president and three former ones.
 
 This year's conference was the eleventh IDCC and took the title of
-\"Visible data, invisible infrastructure\". This asks what can we do to
+"Visible data, invisible infrastructure". This asks what can we do to
 make the hard work of preserving data and making it and keeping it
 usable as easy as possible for researchers to use and as unobtrusive as
 possible in their work.

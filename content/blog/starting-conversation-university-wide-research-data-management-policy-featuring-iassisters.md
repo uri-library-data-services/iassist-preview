@@ -9,9 +9,9 @@ date = "2013-12-19 12:38:32 -0700"
 draft = "false"
 +++
 [Starting the Conversation: University-wide Research Data Management
-Policy](http://www.oclc.org/content/dam/research/publications/library/2013/2013-08.pdf)\
-An OCLC Research Report by: Ricky Erway, OCLC Research\
-\
+Policy](http://www.oclc.org/content/dam/research/publications/library/2013/2013-08.pdf)
+An OCLC Research Report by: Ricky Erway, OCLC Research
+
 **Key highlights:**
 
 -   The benefits of funder-required data management planning should

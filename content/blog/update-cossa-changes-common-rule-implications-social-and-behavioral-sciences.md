@@ -22,10 +22,10 @@ George Alter spoke on the panel on Data Security and Sharing.
 
 **Here is a summary of the COSSA report:**
 
-On March 21 and 22, the National Academies\' Board on Behavioral,
+On March 21 and 22, the National Academies' Board on Behavioral,
 Cognitive, and Sensory Sciences (BBCSS) held a workshop on the
-\"Proposed Revisions to the Common Rule in Relation to the Behavioral
-and Social Sciences.\" In 2011, the Department of Health and Human
+"Proposed Revisions to the Common Rule in Relation to the Behavioral
+and Social Sciences." In 2011, the Department of Health and Human
 Services proposed changes to the Common Rule, the regulations governing
 the protection of human subjects in research, in an Advanced Notice of
 Proposed Rulemaking (ANPRM). (For more information, see [Update, January
@@ -35,7 +35,7 @@ and click
 [here](http://r20.rs6.net/tn.jsp?e=001pjpj4X4L3L1iUMc67cvrCRQvaTd0cxvHq8Zr3xz1t_bnjKN4zkEo-2DbbtJ0FQjNJoaN5PReAIa4XdyDE28ig53QLpXk1zIEAIAMQCStELJ-xmJ91OkafnHdtJq-EEKAvZX2zMkJUde6Bpa0bEeYDeSHW3MJu44iIpdkfjjYpzMmPa-Yy9E0LA==)
 for a response to the ANPRM from the social and behavioral science
 community.) Several COSSA member organizations helped sponsor the
-workshop. More information about the workshop, including presenters\'
+workshop. More information about the workshop, including presenters'
 slides and an archived webcast, is available
 [here](http://r20.rs6.net/tn.jsp?e=001pjpj4X4L3L3LRK3KDrtz0hPwfYj9iql0axHAJwf5Dc4CNwvikh2SyYexJuiGXJ17rr4P1gGoFahUOwZeRVqzdA7G0rUUZpl67j60k287lHtazGwAG07VuwjMRdtZAih_iNDbO38Xh1ymz2wisa5i7Opu0sqZ6PvDl7OMfw2wr2mYI4nvUjd8YfZY3l-pILRxLD5AQuic-cc=).
 BBCSS will publish a summary report of the workshop. According to Robert
@@ -46,15 +46,15 @@ recommendations.
 
  
 
-The workshop\'s opening session reviewed existing knowledge and evidence
+The workshop's opening session reviewed existing knowledge and evidence
 about the functioning of the Common Rule and Institutional Review Boards
 (IRBs). Connie Citro, Director of the Committee on National Statistics
 at the National Academies, gave an overview of the many National
-Academies\' reports on human subjects protection published since 1979
+Academies' reports on human subjects protection published since 1979
 and summarized the lessons learned. She pointed to four major takeaways
 from the existing literature. First, one-size-fits-all approaches often
 have unanticipated negative consequences. Second, there is no need to
-reinvent the wheel regarding human subjects\' protection. Third, a
+reinvent the wheel regarding human subjects' protection. Third, a
 balance needs to be struck between leaving subjects vulnerable and
 handicapping researchers. Finally, the social and behavioral sciences
 (SBS) are often not given the same consideration as the biomedical
@@ -68,41 +68,41 @@ the Common Rule and IRBs, Jeffrey Rodamar, Department of Education,
 reviewed some of the existing data. He found that despite popular
 perception, IRBs function pretty well. They are generally no more of an
 administrative burden than other grant-related activities; on average,
-review takes less than three percent of a study\'s time; a majority of
+review takes less than three percent of a study's time; a majority of
 studies are approved; expedited review takes less than a month on
 average and full review takes less than two months; and extreme delays
 are statistically uncommon. Rodamar described data showing that both SBS
 and biomedical researchers generally approve of the IRB system. He
 conceded that there are some problems with the Common Rule regulations
 and IRBs, but, paraphrasing Winston Churchill, suggested that perhaps
-\"IRBs are worst form of governing research except for all those other
-forms that have been tried from time to time.\"
+"IRBs are worst form of governing research except for all those other
+forms that have been tried from time to time."
 
  
 
-**The \"Minimal Risk\" Standard**
+**The "Minimal Risk" Standard**
 
  
 
 The second session, moderated by Celia Fischer, Fordham University,
-focused on the types of \"risks and harms\" encountered in SBS research.
-Richard T. Campbell delved into the concept of \"minimal risk,\" an
+focused on the types of "risks and harms" encountered in SBS research.
+Richard T. Campbell delved into the concept of "minimal risk," an
 important area for researchers dealing with human subjects. The
-determination of whether participation in a study represents a \"minimal
-risk\" dictates the level of IRB review that takes place. Under the
-Common Rule, a study represents minimal risk if \"the probability and
+determination of whether participation in a study represents a "minimal
+risk" dictates the level of IRB review that takes place. Under the
+Common Rule, a study represents minimal risk if "the probability and
 magnitude of harm or discomfort anticipated in the research are not
 greater in and of themselves than those ordinarily encountered in daily
 life or during the performance of routine physical or psychological
-examinations or tests.\" Noting that it is a \"cognitively complex\"
+examinations or tests." Noting that it is a "cognitively complex"
 concept, Campbell suggested that risk can be thought of as the
 relationship between the probability of harm occurring and the severity
 of potential harm. Thus, the Common Rule provides some flexibility in
 that it does not dictate that both probability severity must be
-\"minimal,\" just that, as probability increases, the severity of
+"minimal," just that, as probability increases, the severity of
 possible harm must decrease (and vice versa). Given that other parts of
-the definition are also thorny (such as what is meant by \"daily
-life\"), Campbell suggested that the Office of Human Research Protection
+the definition are also thorny (such as what is meant by "daily
+life"), Campbell suggested that the Office of Human Research Protection
 (OHRP) could provide guidance to facilitate more consistent application
 of the minimal risk benchmark.
 
@@ -113,7 +113,7 @@ spoke about his research on risky and sensitive behavior (such as drug
 use, sexual behavior, and HIV) in youth, which are topics that often
 make IRBs skittish. He conducted a study that was reviewed by two IRBs.
 One board approved it immediately, while the other delayed the study for
-six months because it was felt to be a \"slight increase\" over minimal
+six months because it was felt to be a "slight increase" over minimal
 risk. However, when Mustanski surveyed his subjects, a large majority
 felt that their participation was less uncomfortable than a routine
 medical exam (the minimal risk standard). Mustanski argued that such
@@ -145,9 +145,9 @@ a survey of economics, political science, and judgment and decision
 making associations, Plott found very low numbers of adverse incidents
 and reports of harm, all of which were low-magnitude events (such as
 feelings of stress or frustration). He argued that some research
-topics\-- markets, committees and voting, games, processes, and
-decisions\-- and some research methods\-- questionnaires, computer
-games, etc.\-- can be said to pose no potential harm to subjects and
+topics-- markets, committees and voting, games, processes, and
+decisions-- and some research methods-- questionnaires, computer
+games, etc.-- can be said to pose no potential harm to subjects and
 should thus be exempted from consideration under the Common Rule.
 
  
@@ -159,7 +159,7 @@ should thus be exempted from consideration under the Common Rule.
 A session on the consent process and special populations was moderated
 by Margaret Foster Riley, University of Virginia. Sally Powers,
 University of Massachusetts, Amherst, discussed how consent operates in
-her research on depression, which collects \"rich\" behavioral and
+her research on depression, which collects "rich" behavioral and
 biospecimen data (which can be recoded and analyzed as part of future
 analysis). The proposed changes to the Common Rule would require that
 prior consent is obtained for re-analysis of biospecimens, but that
@@ -202,7 +202,7 @@ minors.
  
 
 David Weir, University of Michigan Survey Research Center, moderated a
-panel on \"Data Use and Sharing and Technological Advancement.\" The
+panel on "Data Use and Sharing and Technological Advancement." The
 proposals in the ANPRM would mandate that all studies that collect
 identifiable or potentially identifiable data to have data security
 plans. George Alter, University of Michigan Interuniversity Consortium
@@ -231,14 +231,14 @@ without having to go through the same hurdles as researchers.
  
 
 Susan Bouregy, Yale University Human Research Protection Program, raised
-concerns about the ANPRM\'s proposal to apply HIPAA standards for
+concerns about the ANPRM's proposal to apply HIPAA standards for
 deidentification of data (requiring removal of 18 specific identifiers).
 Bouregy noted such standards may make some data sets unusable while
 ignoring other ways individuals could be identified. She also argued
 that some of the mandated HIPAA security elements are not appropriate
 for certain types of social science research. Furthermore, it ignored
 that not all identified data is risky. Finally, Boregy suggested that
-the ANPRM\'s requirement that all suspected data breaches be reported
+the ANPRM's requirement that all suspected data breaches be reported
 should be made more flexible and allow IRBs to tailor reporting to the
 context of each situation.
 
@@ -249,11 +249,11 @@ context of each situation.
  
 
 Robert Levine, Yale, University, moderated a session focused on
-multi-disciplinary and multi-site studies. Pearl O\'Rourke, Partners
+multi-disciplinary and multi-site studies. Pearl O'Rourke, Partners
 Health Care System, discussed the requirement that multi-site studies
 use a single IRB of record. She noted that having a central IRB does not
 absolve the individual institutions of fulfilling a number of
-responsibilities in overseeing and approving research. O\'Rourke was
+responsibilities in overseeing and approving research. O'Rourke was
 concerned that mandating a central IRB would not address the complexity
 of each situation. Furthermore, the requirement underestimates the costs
 and time involved in running a central IRB.
@@ -263,8 +263,8 @@ and time involved in running a central IRB.
 Laura Stark, Vanderbilt University Center for Medicine Health and
 Society, gave an ethnographic perspective on IRB decision-making. As an
 explanation for why IRBs reach different conclusions regarding the risk
-level of similar research, Stark suggested the concept of \"local
-precedents,\" or allowing past decisions to govern the evaluation of
+level of similar research, Stark suggested the concept of "local
+precedents," or allowing past decisions to govern the evaluation of
 subsequent research. Such precedents may lead to faster decisions and
 internal consistency, but they can be problematic for researchers
 working with multiple IRBs. Stark offered three strategies to work
@@ -292,10 +292,10 @@ U.S.-based IRBs.
  
 
 A final session, moderated by Yonette Thomas, Howard University and a
-COSSA board member, focused on the \"Purview and Roles of IRBs.\" Lois
-Brako, University of Michigan, discussed the ANPRM\'s proposed changes
+COSSA board member, focused on the "Purview and Roles of IRBs." Lois
+Brako, University of Michigan, discussed the ANPRM's proposed changes
 from the perspective of an IRB that has made strides to become more
-innovative and flexible. Brako praised the ANPRM\'s proposals to reduce
+innovative and flexible. Brako praised the ANPRM's proposals to reduce
 the oversight burden for minimal risk studies, eliminate annual review,
 and harmonize federal regulations (so long as the harmonization does not
 take the form of a unilateral one-size-fits-all approach). However, she
@@ -303,7 +303,7 @@ argued that some of the proposals are unnecessarily burdensome,
 including requiring all institutions that receive Common Rule funding to
 be subject to federal oversight, some of the information security
 provisions, requiring reports of all adverse events to be submitted and
-stored in a central database, and expanding \"human subjects\" to
+stored in a central database, and expanding "human subjects" to
 include deidentified biospeicimens. Brako also suggested that in some
 cases, clearer guidance from OHRP would be more helpful than changed
 regulations.
@@ -315,9 +315,9 @@ regulations were written from a biomedical perspective and are
 particularly unsuited for certain types of SBS research, such as
 anthropological fieldwork. Anthropologists establish thick relationships
 with their subjects, immerse themselves in other cultures, and do not
-test hypotheses or run controlled experiments. The ANPRM\'s requirements
+test hypotheses or run controlled experiments. The ANPRM's requirements
 for informational security could cripple anthropological research
-(anthropologists\' detailed fields notes would treated as data with
+(anthropologists' detailed fields notes would treated as data with
 informational risks under the new rules, raising the question of how
 such notes could be deidentified). Rather than trying to adapt the
 Common Rule to fit SBS research, Lederman proposed that it be only
@@ -328,11 +328,11 @@ SBS research risks.
  
 
 Cheryl Crawford Watson, National Institute of Justice (NIJ), discussed
-the Department of Justice\'s (DOJ) approach to confidentiality and how
+the Department of Justice's (DOJ) approach to confidentiality and how
 it differs from other regulations regarding human subjects protection.
 Researchers funded by DOJ must submit a Privacy Certificate, which
 protects researchers and data from subpoena. It also prevents the
-researcher from violating subjects\' privacy for any reason other than
+researcher from violating subjects' privacy for any reason other than
 future criminal conduct. The DOJ privacy certificate differs from the
 certificate of confidentiality mandated by other agencies (like Health
 and Human Services) in that it prohibits researchers from reporting
@@ -340,7 +340,7 @@ child abuse, reportable communicable diseases, and threatened harm to
 self or others. In order to be allowed to report such abuse, researchers
 must get the subjects to sign a separate consent-to-report form. The
 certificate is so strict due to concerns that few of the subjects under
-DOJ\'s purview would consent to participate in research otherwise.
+DOJ's purview would consent to participate in research otherwise.
 
-\
-\
+
+

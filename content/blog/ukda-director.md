@@ -12,7 +12,7 @@ Congratulations to IASSIST members Kevin Schürer and Matthew Woollard!
 
 Professor Schürer has
 [announced](http://www.data-archive.ac.uk/news/newsdetail.asp?id=2435)
-he\'ll be leaving the directorship of the UK Data Archive in order to
+he'll be leaving the directorship of the UK Data Archive in order to
 take up a new post at the University of Leicester as Pro-Vice Chancellor
 of Research later this year.
 

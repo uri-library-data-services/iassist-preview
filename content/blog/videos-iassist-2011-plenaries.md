@@ -14,7 +14,7 @@ Plenaries from IASSIST 2011 are now available for viewing:
 
 **Chuck Humphrey - Data Library Coordinator, University of
 Alberta[![](https://iassistdata.org/img/blog/ckh2010b.jpg){width="140"
-height="163"}]{.image-right}\
+height="163"}]{.image-right}
 **Research Data Infrastructure: Are the Social Sciences on Main Street
 or a Side Road?
 
@@ -31,15 +31,15 @@ Date: Thursday, June 02 
 
  
 
-****Andrea Reimer - Councillor, City of Vancouver**\
+****Andrea Reimer - Councillor, City of Vancouver**
 **Open Data in Vancouver: The Inspiration and the Vision
 
-\
+
 [![](https://iassistdata.org/img/blog/reimer.jpg){width="132"
 height="159"}]{.image-left}Andrea Reimer is a Councillor for the city of
 Vancouver and is a passionate advocate for democracy and civic
 engagement. The City of Vancouver has led the way with the adoption of a
-resolution in May \[2009\] that endorsed open and accessible data,
+resolution in May [2009] that endorsed open and accessible data,
 open standards, and open source software. Ms Reimer has been heavily
 involved in this initiative and will share her passion with IASSIST.
 
@@ -58,4 +58,4 @@ We have had various and mixed reports on streaming successes. These are
 large Video files (each over an Hour in length), so patience is
 required.
 
-\
+

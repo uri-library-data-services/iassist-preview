@@ -8,7 +8,7 @@ oldpath = "/blog/official-release-data-documentation-initiative-30"
 date = "2008-05-26 18:43:32 -0700"
 draft = "false"
 +++
-May 21, 2008 \-- The Alliance for the Data Documentation Initiative
+May 21, 2008 -- The Alliance for the Data Documentation Initiative
 (DDI) is pleased to announce the official release of Version 3.0 of the
 DDI XML specification for documenting social science data. This long
 awaited version of the DDI represents a major advance by fully

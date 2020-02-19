@@ -25,16 +25,16 @@ NSO and a cross-section of Mongolian government agencies focusing on
 data.  
 
 IASSIST generously provided sponsorship to cover the cost of
-participants\' lunches during the event, which were held at the
-delightful \"Modern Nomads\" restaurant, serving traditional Mongolian
+participants' lunches during the event, which were held at the
+delightful "Modern Nomads" restaurant, serving traditional Mongolian
 cuisine.  While the workshop participants were refreshed by the meals,
 this event also gave the opportunity to familiarize a group of Mongolian
 data professionals with the work of IASSIST.
 
 A key organizer of the event on the Mongolian side was **Ch.
 Davaasuren**, Research and Development Director of the **[Mongolian
-Marketing Consulting Group](http://www.mmcg.mn/) **\[pictured at the
-left in the video above\].  His assistance was invaluable in arranging
+Marketing Consulting Group](http://www.mmcg.mn/) **[pictured at the
+left in the video above].  His assistance was invaluable in arranging
 all of the contacts, schedules, meals, translations, and other details
 of the visit.  His expertise and concern for data issues was also
 evident throughout.  MMCG is the leading survey research organization in
@@ -52,16 +52,16 @@ to IASSIST.  Further details and photos from that visit are
 **Spring 2018**
 
 Flash forward to this year.  Ch. Davaasuren maintained his interest in
-IASSIST that had begun from the prior year\'s meeting.  
+IASSIST that had begun from the prior year's meeting.  
 
 Ch. Davaasuren applied for and was selected as an **IASSIST Fellow**,
-and will attend IASSIST/CARTO 2018 in Montréal.  Davaasuren\'s most
+and will attend IASSIST/CARTO 2018 in Montréal.  Davaasuren's most
 recent conference experience was as the lead organizer for the first
 **A[sia Pacific Research
 Committee](http://aprc-research.com/)**conference ever to be held in
 Mongolia.  APRC is focused on developing market research methodology in
 the Asia-Pacific region, and may be a useful partner in extending
-IASSIST\'s outreach in Asia. Davaasuren is also Chair of the Mongolian
+IASSIST's outreach in Asia. Davaasuren is also Chair of the Mongolian
 Marketing Research Association.
 
 Ryan Womack has also continued his interest in Mongolia, and was invited

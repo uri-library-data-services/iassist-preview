@@ -8,15 +8,15 @@ oldpath = "/blog/iassist-letter-canadian-government-loss-2011-census-long-form"
 date = "2010-10-05 13:44:28 -0700"
 draft = "false"
 +++
-Industry Canada\
-Office of the Honourable Tony Clement\
-Minister of Industry\
-C.D. Howe Building\
-235 Queen Street\
-Ottawa, ON K1A 0H5                                25 July 2010\
-\
-\
-\
+Industry Canada
+Office of the Honourable Tony Clement
+Minister of Industry
+C.D. Howe Building
+235 Queen Street
+Ottawa, ON K1A 0H5                                25 July 2010
+
+
+
 Dear Minister Clement
 
 We write on behalf of the International Association of Social Science
@@ -28,7 +28,7 @@ data archives, statistical agencies, research centers, libraries,
 academic departments, government departments, and non-profit
 organizations.
 
-\
+
 We respectfully express our concern about the recent decision of the
 Canadian Federal Government to eliminate the long-form questionnaire as
 part of the 2011 Census of Population. We encourage the Government of
@@ -37,7 +37,7 @@ about the value of the Census.   Data from the Census Long Form are
 unique, and are a critical source of information related to evidenced
 based policy development, not only within Canada but beyond.  
 
-\
+
 In our organization we are exposed to data gathering from many countries
 and we have seen many good decisions and we have seen many poor
 decisions.  It is not always clear up front what the long term
@@ -46,16 +46,16 @@ Canada in general, are looked up to in terms of the wealth of
 information available, the participation rate of the citizenry and the
 privacy framework around survey data.  That is not to say all is
 perfect, but there is certainly something valuable, that is worth
-protecting.\
+protecting.
 We have watched many thoughtful comments being made around the
 importance of the long form census in Canada.  Canada needs to ensure
 that they make the right decision, because if you eliminate the 2011
 long form, you cannot go back and replace it.  It will be lost forever.
 
-\
+
 IASSIST can offer comment on a few key issues:
 
-\
+
 •    There are several international projects linking census data across
 countries, that allow for a rich comparison.   We are concerned that if
 Canada eliminates the Long Form Questionnaire, it will become much more
@@ -89,39 +89,39 @@ survey respondents.  Canada is in an enviable position when it comes to
 the survey response rate of it's citizens.  We see this as a direct
 reflection of the trust that the general public places in the
 institution.  For the government to jeopardize this trust, in such a
-public forum is irresponsible and of great concern to us.\
-\
+public forum is irresponsible and of great concern to us.
+
 The  Census is unique, and a recognized building block for creating
 evidence-based public policy.  We feel strongly that there needs to be
 more dialogue before undertaking the irreversible decision of
 eliminating the long form.   The impacts will be far reaching, beyond
 the census itself.  Eliminating Canada 2011 long form census will erode
 Canada's ability to participate in international comparative analysis
-and will leave Canada at a disadvantage relative to other countries.  \
-\
-Yours sincerely,\
-\
-\
-\
-Melanie F. Wright\
-President\
+and will leave Canada at a disadvantage relative to other countries.  
+
+Yours sincerely,
+
+
+
+Melanie F. Wright
+President
 International Association for Social Science Information Service and
-Technology\
-\
-\
-\
-\
-William C. Block\
-Vice President\
+Technology
+
+
+
+
+William C. Block
+Vice President
 International Association for Social Science Information Service and
-Technology\
-\
-\
-\
-c.c.  \
+Technology
+
+
+
+c.c.  
 Industry Science and Technology Committee ----.
-http://www2.parl.gc.ca/CommitteeBusiness/CommitteeMembership.aspx?Cmte=INDU&Language=E&Mode=1&Parl=40&Ses=3\
-The Rt. Hon. Stephen Harper;\
+http://www2.parl.gc.ca/CommitteeBusiness/CommitteeMembership.aspx?Cmte=INDU&Language=E&Mode=1&Parl=40&Ses=3
+The Rt. Hon. Stephen Harper;
  Opposition critics for Industry Canada :  Robert Bouchard (Bloc); Marc
-Garneau (Liberal); Brian Masse (NDP)\
-\
+Garneau (Liberal); Brian Masse (NDP)
+

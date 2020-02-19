@@ -21,16 +21,16 @@ Google will be hosting terabytes of science data.
 > original launch date this week, but will debut soon.
 
 Google may have just violated one of its operating principles, namely,
-\"do no harm.\" I am concerned that Google\'s treatment of data as just
+"do no harm." I am concerned that Google's treatment of data as just
 another Internet commodity may undermine the work that data archivists
 have been labouring over recent decades to get researchers and research
 councils to take data preservation and access seriously. While the
-announcement does not address Google\'s approach to data preservation,
+announcement does not address Google's approach to data preservation,
 it is clear that the author sees this as an open access success story.
 How will data be transferred to Google?
 
 > (Google people) are providing a 3TB drive array (Linux RAID5). The
-> array is provided in \"suitcase\" and shipped to anyone who wants to
+> array is provided in "suitcase" and shipped to anyone who wants to
 > send they data to Google. Anyone interested gives Google the file
 > tree, and they SLURP the data off the drive. I believe they can extend
 > this to a larger array (my memory says 20TB).
@@ -52,18 +52,18 @@ Google.
 
 > The launch follows high profile criticism by a senior academic at
 > Brighton University, who argued that students need to be taught to
-> challenge the facts taken from Google or Wikipedia\... \[Executive
-> Director Caroline Williams\] said, \"Google isn\'t discriminating
+> challenge the facts taken from Google or Wikipedia... [Executive
+> Director Caroline Williams] said, "Google isn't discriminating
 > about the material it chooses - and with no systematic quality control
 > processes it is very difficult for people to explore and discover
 > trusted information. But automation combined with human value
 > judgments, can be more responsive and dynamic in meeting the needs of
-> higher and further education.\"
+> higher and further education."
 
-Time for a rhetorical question: if the academic community can\'t trust
+Time for a rhetorical question: if the academic community can't trust
 Google to deliver scholarly search results, why would this community
 trust Google with research data?
 
-\- submitted by Chuck Humphrey
+- submitted by Chuck Humphrey
 
 

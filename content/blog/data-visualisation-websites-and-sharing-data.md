@@ -23,10 +23,10 @@ included some data with their software. I remember Minitab shipping a
 variety of data files with its program. To some extent, data have been
 used to market products. However, now it seems that all these new
 visualization tools are getting into data repository services as part of
-their promotion strategy. I\'m not a fan of this approach. Instead of
+their promotion strategy. I'm not a fan of this approach. Instead of
 each new tool site building its own data repository, I wish the vendors
 would promote the establishment and use of open data repositories.
 Encourage people to share their data with services that are foremost
 *data* services and not software services.
 
-\- Chuck Humphrey
+- Chuck Humphrey

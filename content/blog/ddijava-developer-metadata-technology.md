@@ -21,23 +21,23 @@ socio-economic and health statistical data and metadata, leveraging the
 Data Documentation Initiative (DDI), the Statistical Data and Metadata
 Exchange (SDMX), and related XML specifications.
 
-Candidates must have the following qualifications:\
-- Strong Java development in a client / server environment\
-- Creative, quick learner, independent\
+Candidates must have the following qualifications:
+- Strong Java development in a client / server environment
+- Creative, quick learner, independent
 - Solid expertise with XML and related technologies (XSL, XPath/XQuery,
-XSchema, SOAP, etc.)\
-- Development web service based J2EE applications\
+XSchema, SOAP, etc.)
+- Development web service based J2EE applications
 - Experience with the Eclipse Integrated Development Environment,
 including JUnit, Subversion, and JavaDocs
 
-Familiarity with the following is desired but not required:\
-- Eclipse RCP framework\
-- Google Web Toolkit\
-- Spring framework\
-- Relational and/or native XML databases\
-- Apache XMLBeans\
-- Statistical data and software\
-- DDI, SDMX and related specifications\
+Familiarity with the following is desired but not required:
+- Eclipse RCP framework
+- Google Web Toolkit
+- Spring framework
+- Relational and/or native XML databases
+- Apache XMLBeans
+- Statistical data and software
+- DDI, SDMX and related specifications
 - Pentaho or similar BI/ETL platform
 
 Positions are local to Knoxville, TN or Washington, DC metropolitan

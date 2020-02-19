@@ -14,7 +14,7 @@ Centre](http://www.lib.uoguelph.ca/resources/data_resource_centre/) and
 the creative people who work there.   If you link to the picasa album
 below you will see some awesome posters they have made to showcase
 services and bring people into the world of Data and GIS. The images on
-some of the posters are really powerful\....
+some of the posters are really powerful....
 
 [posters on
 picasa](https://picasaweb.google.com/bo.wandschneider/DataPosters?authuser=0&authkey=Gv1sRgCO_K-Mff1tSqxQE&feat=directlink)

@@ -10,7 +10,7 @@ draft = "false"
 +++
 I wanted to share a blog post from our local Data and GIS blog that may
 be of interest to the IASSIST community.  Each of the tools varies in
-it\'s focus and applicability for data work- but they might be helpful
+it's focus and applicability for data work- but they might be helpful
 for various data tasks focusing on cleaning and representing data
 online.
 

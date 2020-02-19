@@ -13,8 +13,8 @@ source technology and hosted by LIS-host. The new logo and website
 artwork was commissioned by the Publications Chair, Walter Piovesan, and
 done by Josh Laidlaw, from British Columbia.
 
-Harrison Dekker, from University of California-Berkeley, is our \'drupal
-guru\' who has done the lion\'s share of the work, porting over the old
+Harrison Dekker, from University of California-Berkeley, is our 'drupal
+guru' who has done the lion's share of the work, porting over the old
 content and setting up the new format.
 
 As appointed Website Editor, I worked with Harrison and Walter

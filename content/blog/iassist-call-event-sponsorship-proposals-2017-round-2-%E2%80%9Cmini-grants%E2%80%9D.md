@@ -11,8 +11,8 @@ draft = "false"
 The IASSIST Liaison and Organizational Sponsorship Task Force is seeking
 proposals for sponsorships of regional or local events during calendar
 year 2017. In this second round of sponsorships we will be awarding up
-to four grants of \$500 USD each, but requests for any amount up to
-\$500 USD will be considered.
+to four grants of $500 USD each, but requests for any amount up to
+$500 USD will be considered.
 
 The goal of these sponsorships is to support local networks of data
 professionals and data-related activities across the globe in order to
@@ -62,8 +62,8 @@ Form](https://docs.google.com/forms/d/e/1FAIpQLSfCLhrrypR3USOLALM1ManLgqN3uGpRxd
 Notification of sponsorship awards will be by July 21 2017. The number
 and monetary extent of awarded sponsorships will depend on the number
 and quality of applications received within a total budgeted limit.
-Individual sponsorship requests may range from \$0 USD (request for
-mentorship only) to \$500 USD.
+Individual sponsorship requests may range from $0 USD (request for
+mentorship only) to $500 USD.
 
 Please direct questions to Jen Doty, IASSIST Membership Chair
 (<jennifer.doty@emory.edu>).

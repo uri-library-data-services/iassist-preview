@@ -20,7 +20,7 @@ attend and important articles you should take a look at.
 The second segment (BONUS!) of the list includes a number of art and
 design resources the infographic designers might like including color
 palette generators and image searches. There are also some invisible web
-resources (if you\'re looking for something data-related on Google and
+resources (if you're looking for something data-related on Google and
 not finding it) and metadata resources so you can appropriately curate
 your data. This is in no way a complete list so please [contact me
 here](http://kitlas.com/contact-me) with any suggestions!
@@ -35,12 +35,12 @@ here](http://kitlas.com/contact-me) with any suggestions!
     document and data sets. Whether from government transparency
     initiatives, leaks or Freedom of Information requests, journalists
     are drowning in more documents than they can ever hope to read.
-3.  [Refine, reuse and request data \|
+3.  [Refine, reuse and request data |
     ScraperWiki](http://scraperwiki.com/) - ScraperWiki is an online
     tool to make acquiring useful data simpler and more collaborative.
     Anyone can write a screen scraper using the online editor. In the
     free version, the code and data are shared with the world. Because
-    it\'s a wiki, other programmers can contribute to and improve the
+    it's a wiki, other programmers can contribute to and improve the
     code.
 4.  [Data Curation Profiles](http://www4.lib.purdue.edu/dcp/) - This
     website is an environment where academic librarians of all kinds,
@@ -107,8 +107,8 @@ here](http://kitlas.com/contact-me) with any suggestions!
     interactive analysis of very large datasets stored in SQL databases
     without writing SQL.
 14. [The Comprehensive R Archive Network](http://cran.r-project.org/) -
-    R is \`[GNU
-    S](http://www.r-project.org/ "R (programming language)"){.zem_slink}\',
+    R is `[GNU
+    S](http://www.r-project.org/ "R (programming language)"){.zem_slink}',
     a freely available language and environment for statistical
     computing and graphics which provides a wide variety of statistical
     and graphical techniques: linear and nonlinear modelling,
@@ -156,13 +156,13 @@ here](http://kitlas.com/contact-me) with any suggestions!
     ?The Google Public Data Explorer makes large datasets easy to
     explore, visualize and communicate. As the charts and maps animate
     over time, the changes in the world become easier to understand. You
-    don\'t have to be a data expert to navigate between different views,
+    don't have to be a data expert to navigate between different views,
     make your own comparisons, and share your findings.
 29. [Fathom](http://fathom.info/) Fathom Information Design helps
     clients understand and express complex data through information
     graphics, interactive tools, and software for installations, the
     web, and mobile devices. Led by Ben Fry. Enough said!
-30. [healthymagination \| GE Data
+30. [healthymagination | GE Data
     Visualization](http://visualization.geblogs.com/healthymagination/)
     Visualizations that advance the conversation about issues that shape
     our lives, and so we encourage visitors to download, post and share
@@ -235,7 +235,7 @@ here](http://kitlas.com/contact-me) with any suggestions!
     support of teaching, learning and research. VUE provides a flexible
     visual environment for structuring, presenting, and sharing digital
     information.
-41. [Bime - Cloud Business Intelligence \| Analytics &
+41. [Bime - Cloud Business Intelligence | Analytics &
     Dashboards](http://bimeanalytics.com/) Bime is a revolutionary
     approach to data analysis and dashboarding. It allows you to analyze
     your data through interactive data visualizations and create
@@ -310,16 +310,16 @@ Data Mining
     important differences, but much code written for S runs unaltered
     under R. R provides a wide variety of statistical (linear and
     nonlinear modelling, classical statistical tests, time-series
-    analysis, classification, clustering, \...) and graphical
+    analysis, classification, clustering, ...) and graphical
     techniques, and is highly extensible. The S language is often the
     vehicle of choice for research in statistical methodology, and R
     provides an Open Source route to participation in that activity.One
-    of R\'s strengths is the ease with which well-designed
+    of R's strengths is the ease with which well-designed
     publication-quality plots can be produced, including mathematical
     symbols and formulae where needed. Great care has been taken over
     the defaults for the minor design choices in graphics, but the user
     retains full control.R is available as Free Software under the terms
-    of the [Free Software Foundation](http://www.gnu.org)\'s [GNU
+    of the [Free Software Foundation](http://www.gnu.org)'s [GNU
     General Public License](http://www.r-project.org/COPYING) in source
     code form. It compiles and runs on a wide variety of UNIX platforms
     and similar systems (including FreeBSD and Linux), Windows and
@@ -330,13 +330,13 @@ Data Mining
 1.  [Data.gov](http://www.data.gov/)
 2.  [SDM group at LBNL](https://sdm.lbl.gov//)
 3.  [Open Archives Initiative](http://www.openarchives.org/)
-4.  [Code for America \| A New Kind of Public
+4.  [Code for America | A New Kind of Public
     Service](http://codeforamerica.org/)
-5.  [The \# DataViz Daily](http://paper.li/tag/DataViz)
-6.  [Institute for Advanced Analytics \| North Carolina State University
-    \| Professor Michael Rappa · MSA
+5.  [The # DataViz Daily](http://paper.li/tag/DataViz)
+6.  [Institute for Advanced Analytics | North Carolina State University
+    | Professor Michael Rappa · MSA
     Curriculum](http://analytics.ncsu.edu/?page_id=123)
-7.  [BuzzData \| Blog, 25 great links for data-lovin\'
+7.  [BuzzData | Blog, 25 great links for data-lovin'
     journalists](http://blog.buzzdata.com/post/7535032009/25-great-links-for-data-lovin-journalists)
 8.  [MetaOptimize - Home - Machine learning, natural language
     processing, predictive analytics, business intelligence, artificial
@@ -349,10 +349,10 @@ Data Mining
 
 ### Repositories
 
-1.  [Repositories \| DataCite](http://www.datacite.org/repolist)
-2.  [Data \| The World Bank](http://data.worldbank.org/)
+1.  [Repositories | DataCite](http://www.datacite.org/repolist)
+2.  [Data | The World Bank](http://data.worldbank.org/)
 3.  [Infochimps Data Marketplace + Commons: Download Sell or Share
-    Databases, statistics, datasets for free \|
+    Databases, statistics, datasets for free |
     Infochimps](http://www.infochimps.com/)
 4.  [Factual Home - Factual](http://www.factual.com/)
 5.  [Flowing Media: Your Data Has Something To
@@ -366,9 +366,9 @@ Data Mining
 
 ### Events
 
-1.  [Welcome \| Visweek
+1.  [Welcome | Visweek
     2011](http://www.visweek.org/visweek/2011/info/visweek-welcome/welcome)
-2.  [O\'Reilly Strata: O\'Reilly
+2.  [O'Reilly Strata: O'Reilly
     Conferences](http://strataconf.com/public/content/home)
 3.  [IBM Information On Demand 2011 and Business Analytics
     Forum](http://www-01.ibm.com/software/data/2011-conference/)
@@ -382,9 +382,9 @@ Data Mining
 
 ### Articles
 
-1.  [Data Science: a literature review \| (R news &
+1.  [Data Science: a literature review | (R news &
     tutorials)](http://www.r-bloggers.com/data-science-a-literature-review/)
-2.  [What is \"Data Science\"
+2.  [What is "Data Science"
     Anyway?](https://docs.google.com/present/view?id=0AXaXKp9bt6OXZGd4YzlnYmRfNThjMmo4dm5yaA&hl=en_US)
 3.  [Hal Varian on how the Web challenges managers - McKinsey
     Quarterly - Strategy -
@@ -399,7 +399,7 @@ Data Mining
     Agents](http://www.drewconway.com/zia/?p=2378)
 8.  [Revolutions: Growth in data-related
     jobs](http://blog.revolutionanalytics.com/2011/07/growth-in-data-related-jobs.html)
-9.  [Building data startups: Fast, big, and focused - O\'Reilly
+9.  [Building data startups: Fast, big, and focused - O'Reilly
     Radar](http://radar.oreilly.com/2011/08/building-data-startups.html)
 
 ### BONUS! Art Design
@@ -422,7 +422,7 @@ Data Mining
     American experience. American Memory offers primary source materials
     that chronicle historical events, people, places, and ideas that
     continue to shape America.
-2.  [Galaxy of Images \| Smithsonian Institution
+2.  [Galaxy of Images | Smithsonian Institution
     Libraries](http://www.sil.si.edu/imagegalaxy/)
 3.  [Flickr Search](http://www.flickr.com/search/advanced/)
 4.  [50 Websites For Free Vector Images
@@ -454,12 +454,12 @@ Data Mining
 
 1.  [10 Search Engines to Explore the Invisible
     Web](http://www.makeuseof.com/tag/10-search-engines-explore-deep-invisible-web/)
-    Like the header says\...
+    Like the header says...
 2.  [Scirus - for scientific information](http://www.scirus.com/srsapp/)
     The most comprehensive scientific research tool on the web. With
     over 410 million scientific items indexed at last count, it allows
     researchers to search for not only journal content but also
-    scientists\' homepages, courseware, pre-print server material,
+    scientists' homepages, courseware, pre-print server material,
     patents and institutional repository and website information.
 3.  [TechXtra: Engineering, Mathematics, and
     Computing](http://www.techxtra.ac.uk/index.html) TechXtra is a
@@ -481,7 +481,7 @@ Data Mining
     creator of HTML and of the Web itself, in 1991 at CERN in Geneva.
     Unlike commercial catalogues, it is run by a loose confederation of
     volunteers, who compile pages of key links for particular areas in
-    which they are expert; even though it isn\'t the biggest index of
+    which they are expert; even though it isn't the biggest index of
     the Web, the VL pages are widely recognised as being amongst the
     highest-quality guides to particular sections of the Web.
 6.  [Intute](http://www.intute.ac.uk/) Intute is a free online service
@@ -499,7 +499,7 @@ Data Mining
     content. CompletePlanet is the front door to these Deep Web
     databases on the Web and to the thousands of regular search engines
     --- it is the first step in trying to find highly topical
-    information. By tracing through CompletePlanet\'s subject structure
+    information. By tracing through CompletePlanet's subject structure
     or searching Deep Web sites, you can go to various topic areas, such
     as energy or agriculture or food or medicine, and find rich content
     sites not accessible using conventional search engines. BrightPlanet
@@ -541,16 +541,16 @@ Data Mining
     MetadataObject](http://www.loc.gov/standards/mods/mods-outline.html)
     This document contains a listing of elements and their related
     attributes in MODS Version 3.4 with values or value sources where
-    applicable. It is an \"outline\" of the schema. Items highlighted in
+    applicable. It is an "outline" of the schema. Items highlighted in
     red indicate changes made to MODS in Version 3.4.All top-level
     elements and all attributes are optional, but you must have at least
     one element. Subelements are optional, although in some cases you
     may not have empty containers. Attributes are not in a mandated
-    sequence and not repeatable (per XML rules). \"Ordered\" below means
+    sequence and not repeatable (per XML rules). "Ordered" below means
     the subelements must occur in the order given. Elements are
-    repeatable unless otherwise noted.\"Authority\" attributes are
+    repeatable unless otherwise noted."Authority" attributes are
     either followed by codes for authority lists (e.g., iso639-2b) or
-    \"see\" references that link to documents that contain codes for
+    "see" references that link to documents that contain codes for
     identifying authority lists.For additional information about any
     MODS elements (version 3.4 elements will be added soon), please see
     the [MODS User
@@ -575,7 +575,7 @@ Data Mining
     technologies enable people to create data stores on the Web, build
     vocabularies, and write rules for handling data. Linked data are
     empowered by technologies such as RDF, SPARQL, OWL, and SKOS.
-4.  [RDA: Resource Description & Access \|
+4.  [RDA: Resource Description & Access |
     www.rdatoolkit.org](http://www.rdatoolkit.org/) Designed for the
     digital world and an expanding universe of metadata users, RDA:
     Resource Description and Access is the new, unified cataloging
@@ -608,13 +608,13 @@ Data Mining
     Learn about the purpose, scope and structure of the AAT. The AAT is
     an evolving vocabulary, growing and changing thanks to contributions
     from Getty projects and other institutions. Find out more about the
-    AAT\'s contributors.
+    AAT's contributors.
 9.  [Getty Thesaurus of Geographic Names (Getty Research
     Institute)](http://www.getty.edu/research/tools/vocabularies/tgn/?find=Mountain+View&place=&nation=&english=Y)
     Learn about the purpose, scope and structure of the TGN. The TGN is
     an evolving vocabulary, growing and changing thanks to contributions
     from Getty projects and other institutions. Find out more about the
-    TGN\'s contributors.
+    TGN's contributors.
 10. [DCMI Metadata
     Terms](http://dublincore.org/documents/dcmi-terms/#terms-type)
 11. [The Digital Object Identifier System](http://www.doi.org/)

@@ -10,7 +10,7 @@ draft = "false"
 +++
 This year the IASSIST Fellows Committee received a grand total of 44
 Fellows applications from a strong range of candidates from 28 countries
-around the globe:[ ]{.Apple-converted-space}[\
+around the globe:[ ]{.Apple-converted-space}[
 ]{.Apple-converted-space}
 
 -   18 Asia    
@@ -28,8 +28,8 @@ around the globe:[ ]{.Apple-converted-space}[\
 Applications have been evaluated by the IASSIST Fellows Committee and
 offers have been made to a number of prospective Fellows to attend the
 annual conference in Cologne, Germany. We shall announce the names of
-those who have accepted the Fellows awards shortly.\
-\
+those who have accepted the Fellows awards shortly.
+
 We look forward to welcoming the new members at what will no doubt be
 the best IASSIST ever!
 

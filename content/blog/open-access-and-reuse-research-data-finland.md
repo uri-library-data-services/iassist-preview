@@ -29,7 +29,7 @@ alarming majority (90%) said no.
 What then happens to research data? Most common practise seems to be
 that the data remains in the hand of the original researcher(s). Even if
 the data are stored in the department or research insitute, no further
-processing nor documentation takes place. FSD\'s influence could be seen
+processing nor documentation takes place. FSD's influence could be seen
 in social sciences, making archiving at a data archive a bit more
 frequent than in other sciences.
 
@@ -56,7 +56,7 @@ Finnish universities and other Finnish research organisations
 constitutes one of the key goals in the national implementation of the
 OECD Recommendation.
 
-An abridged version of the report is available in English:\
+An abridged version of the report is available in English:
 Arja Kuula & Sami Borg (2008). Open Access to and Reuse of Research Data
 - The State of the Art in Finland. University of Tampere. Finnish Social
 Science Data Archive; 7. ISBN:
@@ -65,10 +65,10 @@ Science Data Archive; 7. ISBN:
 [Download the report as a PDF
 file.](http://www.fsd.uta.fi/fi/julkaisut/julkaisusarja/FSDjs07_OECD_en.pdf "OA Report")
 
-The survey data is naturally available, too:[\
+The survey data is naturally available, too:[
 FSD2268 Open Access to and Reuse of Research Data
 2006](http://www.fsd.uta.fi/en/data/catalogue/FSD2268/meF2268e.html "FSD2268 Description")
 
-Mari Kleemola\
-Finnish Social Science Data Archive\
+Mari Kleemola
+Finnish Social Science Data Archive
 IASSIST European Regional Secretary

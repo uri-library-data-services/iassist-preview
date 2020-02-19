@@ -117,7 +117,7 @@ reference and/or in-depth, self-guided learning, and these serve as rich
 fonts of information about qualitative methods.  Three possible
 resources that fit this bill are:   
 
--   [Credo Reference\
+-   [Credo Reference
     ](http://search.credoreference.com/)While not specific to research
     methods, Credo is a multidisciplinary, searchable collection of
     digitized reference works (e.g., dictionaries, encyclopedias, and
@@ -129,7 +129,7 @@ resources that fit this bill are:   
 
 <!-- -->
 
--   [Sage Research Methods Online (SRM)\
+-   [Sage Research Methods Online (SRM)
     ](http://methods.sagepub.com/)SRM is an online multimedia collection
     devoted to research methods (qualitative and quantitative), with a
     special emphasis on research skills training.  It includes
@@ -140,9 +140,9 @@ resources that fit this bill are:   
     and journal sources that allow users to deep-dive into a particular
     method at each stage of the research lifecycle.  SRM also provides
     resources for teaching qualitative methods, including case studies,
-    sample datasets, and instructional videos.\
-    \
--   [Oxford Bibliographies Online (OBO)\
+    sample datasets, and instructional videos.
+    
+-   [Oxford Bibliographies Online (OBO)
     ](http://www.oxfordbibliographies.com/)OBO offers access to online,
     peer-reviewed, annotated bibliographies that are organized by
     discipline and are written by experts in their fields.  One can find
@@ -174,7 +174,7 @@ take the following forms:
 -   webinars (e.g., ["Successful Qualitative Research: Don't Get Too
     Comfortable!"](http://connection.sagepub.com/blog/sage-connection/2015/06/02/successful-qualitative-research-webinar-recording-with-extended-qa/)
     by Kristi Jackson)
--   workshops (e.g., courses offered at[ResearchTalk\'s Qualitative
+-   workshops (e.g., courses offered at[ResearchTalk's Qualitative
     Research Summer
     Intensive](http://researchtalk.com/upcoming-events/))
 -   local communities of practice (e.g., CIRA's [IRM Core Qualitative
@@ -199,8 +199,8 @@ google group](https://groups.google.com/forum/#!forum/iassist-qualdata),
 or directly to the authors, and/or comments in this ["Blog
 Conversations"
 doc](https://sites.google.com/uncg.edu/iassistqsshdig/blog-conversations)
-embedded in the QSSHDIG website. Also, there\'s a section at the bottom
-of the \"Blog Conversations\" doc for suggesting future QSSDHIG posts -
+embedded in the QSSHDIG website. Also, there's a section at the bottom
+of the "Blog Conversations" doc for suggesting future QSSDHIG posts -
 please do!
 
 Stayed tuned for Part 3 of our blog series next week when Mandy

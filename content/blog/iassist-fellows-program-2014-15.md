@@ -11,23 +11,23 @@ draft = "false"
 The IASSIST Fellows Program is pleased to announce that it is now
 accepting applications for financial support to attend the IASSIST 2015
 conference in Minneapolis
-\[<https://sites.google.com/a/umn.edu/iassist-2015/>\], from data
+[<https://sites.google.com/a/umn.edu/iassist-2015/>], from data
 professionals who are developing, supporting and managing data
-infrastructures at their home institutions.\
-\
+infrastructures at their home institutions.
+
 Please be aware that funding is not intended to cover the entire cost of
-attending the conference. The applicant\'s home institution must provide
+attending the conference. The applicant's home institution must provide
 some level of financial support to supplement an IASSIST Fellow award.
 Strong preference will be given to first time participants and
 applicants from those countries currently with insufficient
 representation at IASSIST. Only fully completed applications will be
 considered. Applicants submitting a paper for the conference will be
-given priority consideration for funding.\
-\
+given priority consideration for funding.
+
 You may apply for funding via this form
-\<<https://docs.google.com/spreadsheet/viewform?usp=drive_web&formkey=dEhLcnNIcE4xWW9NUzBwZnViNy1sUWc6MA#gid=0>\>.The
-deadline for applications is the 31st of January 2015.\
-\
+<<https://docs.google.com/spreadsheet/viewform?usp=drive_web&formkey=dEhLcnNIcE4xWW9NUzBwZnViNy1sUWc6MA#gid=0>>.The
+deadline for applications is the 31st of January 2015.
+
 For more information, to apply for funding or nominate a person for a
 Fellowship, please send an email to the Fellows Committee chairs, Florio
 Arguillas (<foa2@cornell.edu>) and Stuart Macdonald

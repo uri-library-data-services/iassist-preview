@@ -37,13 +37,13 @@ hear more about stories that may not be included in those collections.
 There is a very simple form at the blog post linked above.  We are
 basically interested in:
 
-1\) What made the data that you re-used valuable for your own research?
+1) What made the data that you re-used valuable for your own research?
 
-2\) What made the data easy or challenging to re-use?
+2) What made the data easy or challenging to re-use?
 
 and
 
-3\) Your advice to researchers who are sharing their data for re-use.  
+3) Your advice to researchers who are sharing their data for re-use.  
 
 The deadline for submitting case studies is **March 10, 2016**.  We will
 make all responses publicly available in a report after an analysis of
@@ -54,7 +54,7 @@ would be interested in participating.  
 
 If you have questions, feel free to tweet or email either [Stephanie
 Wykstra](mailto:stephanie.wykstra@gmail.com "Stephanie Wykstra email")
-([\@Swykstr](https://twitter.com/Swykstr)) or myself, [Stephanie
+([@Swykstr](https://twitter.com/Swykstr)) or myself, [Stephanie
 Wright](mailto:steph@mozillafoundation.org "Stephanie Wright email")
-([\@shefw](https://twitter.com/shefw)).  We appreciate any support you
-can provide!\
+([@shefw](https://twitter.com/shefw)).  We appreciate any support you
+can provide!

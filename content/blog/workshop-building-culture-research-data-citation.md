@@ -17,14 +17,14 @@ Thursday 10 November 2011: 9:00-12:30
 <http://conference.eresearch.edu.au/workshops/#8>
 
 The Australian National Data Service (ANDS) is currently developing a
-service called \"Cite My Data\" \[1\], which uses the international
-DataCite infrastructure \[2\] to support the citation of Australian
+service called "Cite My Data" [1], which uses the international
+DataCite infrastructure [2] to support the citation of Australian
 research sector datasets.  The DataCite infrastructure is built on the
-Digital Object Identifier (DOI) system \[3\]\--widely used for citation
+Digital Object Identifier (DOI) system [3]--widely used for citation
 and tracking of scholarly publications.  The ANDS Cite My Data service
 will allow Australian research data publishers and users to uniquely
 identify research data and cite data from publications or other datasets
-\[4\].
+[4].
 
 ANDS is hosting a workshop at the eResearch Australasia 2011 conference
 based around data citation and the Cite My Data service. The workshop is
@@ -35,17 +35,17 @@ organizations.
 
 Highlights of the workshop include:
 
-\- An overview of the DataCite initiative from Jan Brase, Managing Agent
+- An overview of the DataCite initiative from Jan Brase, Managing Agent
 of DataCite
 
-\- An overview of ANDS services related to data citation and tracking
+- An overview of ANDS services related to data citation and tracking
 
-\- A practical look at the ANDS Cite My Data service
+- A practical look at the ANDS Cite My Data service
 
-\- Experience reports from institutions currently implementing data
+- Experience reports from institutions currently implementing data
 citation policies
 
-\- Opportunity for question and answers with key ANDS and DataCite
+- Opportunity for question and answers with key ANDS and DataCite
 representatives
 
 The workshop will be held on Thursday 10 November 2011 (during the

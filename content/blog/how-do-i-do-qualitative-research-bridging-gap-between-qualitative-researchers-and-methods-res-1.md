@@ -33,7 +33,7 @@ for additional resources. For example:
     unaware:
     -   "Did you know that the College of Education offers a qualitative
         methods class that's open to any discipline?"
-    -   "Do you know about [ResearchTalk\'s Qualitative Research Summer
+    -   "Do you know about [ResearchTalk's Qualitative Research Summer
         Intensive](http://researchtalk.com/upcoming-events/)?"
     -   "Professor X does narrative analysis - maybe you should contact
         them to see if they'd be on your dissertation committee?"
@@ -48,9 +48,9 @@ for additional resources. For example:
         workshops want this training integrated into their qualitative
         methods class.
     -   Contact the Graduate School and recommend they coordinate
-        student support groups focused on qualitative research \[Liz's
+        student support groups focused on qualitative research [Liz's
         post next week will have even more community-building
-        suggestions\].
+        suggestions].
     -   Share information gleaned from research consultations and/or
         instruction sessions with your library administrators to
         advocate for funds for qualitative-research
@@ -114,8 +114,8 @@ google group](https://groups.google.com/forum/#!forum/iassist-qualdata),
 or directly to the authors, and/or comments in this ["Blog
 Conversations"
 doc](https://sites.google.com/uncg.edu/iassistqsshdig/blog-conversations)
-embedded in the QSSHDIG website. Also, there\'s a section at the bottom
-of the \"Blog Conversations\" doc for suggesting future QSSDHIG posts -
+embedded in the QSSHDIG website. Also, there's a section at the bottom
+of the "Blog Conversations" doc for suggesting future QSSDHIG posts -
 please do!
 
 Stayed tuned for Part 4 of our blog series next week, when [Liz

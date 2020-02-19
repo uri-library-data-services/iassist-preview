@@ -10,7 +10,7 @@ draft = "false"
 +++
 Luis Martinez-Uribe, Digital Repositories Research Co-ordinator, is
 based at the Oxford e-Research Centre and will be conducting a scoping
-study to capture researcher\'s needs for repository services to manage,
+study to capture researcher's needs for repository services to manage,
 curate, preserve and disseminate research data generated in Oxford.
 
 A new blog (<http://oxdrrc.blogspot.com/>) has been set-up to record the

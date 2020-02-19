@@ -51,7 +51,7 @@ aren't relevant or not engaged with data, in fact they did so at our
 conference](http://blogs.lse.ac.uk/library/2014/07/11/think-global-but-act-local-information-service-conference-briefing-2014-part-i/).
 
 Melissa Terras, (UCL) did a fantastic job
-[presenting](http://www.dcc.ac.uk/webfm_send/1880) \[PDF\] work in the
+[presenting](http://www.dcc.ac.uk/webfm_send/1880) [PDF] work in the
 digital humanities that is innovative in not only preserving, but
 rescuing objects -- and all done on small change research budgets. I
 hope a future IDCC finds space for a social sciences person to present

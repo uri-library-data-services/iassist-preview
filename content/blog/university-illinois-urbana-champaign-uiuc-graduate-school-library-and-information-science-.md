@@ -8,7 +8,7 @@ oldpath = "/resources/university-illinois-urbana-champaign-uiuc-graduate-school-
 date = "2011-04-25 14:01:28 -0700"
 draft = "false"
 +++
-The [UIUC Graduate School of Library and Information Science\'s Data
+The [UIUC Graduate School of Library and Information Science's Data
 Curation Education
 Program](http://www.lis.illinois.edu/academics/programs/specializations/data_curation),
 a specialization within the Master of Library Science program, offers a

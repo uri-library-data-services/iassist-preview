@@ -10,8 +10,8 @@ draft = "false"
 +++
 In the [March 27, 2010 issue of Science
 News](http://www.sciencenews.org/view/feature/id/57091/title/Odds_Are,_Its_Wrong),
-this article talks about how \"widespread misuse of statistical methods
-makes science more like a crapshoot\". The problem appears to be based
+this article talks about how "widespread misuse of statistical methods
+makes science more like a crapshoot". The problem appears to be based
 in the misunderstanding and misuse of the concept of statistical
 significance. The comments at the end of the article make interesting
 reading, as do those at the end of the [Slashdot posting on the same

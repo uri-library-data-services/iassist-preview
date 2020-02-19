@@ -8,7 +8,7 @@ oldpath = "/resources/government-canada-access-research-results-guiding-principl
 date = "2011-04-27 12:12:47 -0700"
 draft = "false"
 +++
-The Government of Canada\'s principal funders of research and
+The Government of Canada's principal funders of research and
 scholarship in higher education collaborated to produce [Government of
 Canada: Access to Research Results: Guiding
 Principles](http://www.science.gc.ca/default.asp?Lang=En&n=9990CB6B-1)

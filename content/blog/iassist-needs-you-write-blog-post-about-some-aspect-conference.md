@@ -8,8 +8,8 @@ oldpath = "/blog/iassist-needs-you-write-blog-post-about-some-aspect-conference"
 date = "2013-06-04 10:10:18 -0700"
 draft = "false"
 +++
-I could say this is needed because the videos and wifi weren\'t working,
-but in fact I\'d be asking anyway.
+I could say this is needed because the videos and wifi weren't working,
+but in fact I'd be asking anyway.
 
 Just think how helpful it is for members who could not be with us (and
 potential
@@ -22,7 +22,7 @@ welcome.
 Turn your personal notes into a gift that keeps on giving.
 
 If you have any trouble posting (as a member) simply contact
-iassistwebmaster\@gmail.com and we\'ll sort you out.
+iassistwebmaster@gmail.com and we'll sort you out.
 
 Robin Rice
 

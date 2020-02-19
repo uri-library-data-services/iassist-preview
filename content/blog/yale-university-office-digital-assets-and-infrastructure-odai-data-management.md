@@ -8,7 +8,7 @@ oldpath = "/resources/yale-university-office-digital-assets-and-infrastructure-o
 date = "2011-04-30 00:37:58 -0700"
 draft = "false"
 +++
-\
+
 [Yale University ODAI: Data
 Management](http://odai.yale.edu/documentation/data-management) provides
 researchers with reasons for, and resources to, manage their research

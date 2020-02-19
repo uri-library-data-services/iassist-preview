@@ -8,7 +8,7 @@ oldpath = "/resources/uk-data-service-esds-manage-data"
 date = "2011-04-27 12:10:41 -0700"
 draft = "false"
 +++
-The [UK Data Service\'s Manage
+The [UK Data Service's Manage
 data](http://ukdataservice.ac.uk/manage-data.aspx "UK Data Service Manage Data") site
 contains data management guidance for researchers, data creators, data
 managers and data curators, on best strategies and methods for creating,

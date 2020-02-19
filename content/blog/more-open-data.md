@@ -18,12 +18,12 @@ them?](http://www.sennoma.net/main/archives/2006/12/where_are_the_data_can_i_hav
 He takes a practical approach based on the perspective of a researcher.
 His title says it all.
 
-> \...an Open Data addendum must at least answer my opening questions:
+> ...an Open Data addendum must at least answer my opening questions:
 > it must point to the online, freely accessible location of the raw,
 > un-hamburgered data; it should make clear that yes, you can have them;
 > and it should state clearly what you can do with them.
 
-Although he mentions \"public repositories\" for data, he does not
+Although he mentions "public repositories" for data, he does not
 address long-term preservation and usability issues.
 
-\- Jim Jacobs
+- Jim Jacobs

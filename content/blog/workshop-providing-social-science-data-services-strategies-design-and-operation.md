@@ -63,11 +63,11 @@ touch with ICPSR directly:
 If you have any questions about the workshop content, please feel free
 to send email to Chuck or Jim:
 
-Chuck: humphrey\@datalib.library.ualberta.ca Jim:   jajacobs\@ucsd.edu
+Chuck: humphrey@datalib.library.ualberta.ca Jim:   jajacobs@ucsd.edu
 
 Dates: August 9-13, 2010 Location: University of Michigan, Ann Arbor MI.
-Fees (Participants from ICPSR member institutions): \$1,500 Fees
-(Participants from institutions that are not members of ICPSR): \$3,000
+Fees (Participants from ICPSR member institutions): $1,500 Fees
+(Participants from institutions that are not members of ICPSR): $3,000
 <http://www.icpsr.umich.edu/icpsrweb/sumprog/2010/application.jsp>
 
 List of ICPSR member institutions and Official Representatives:
@@ -80,4 +80,4 @@ This workshop is part of the ICPSR Summer Program in Quantitative
 Methods of Social Research
 <http://www.icpsr.umich.edu/icpsrweb/sumprog/index.jsp>
 
-\-\-- Jim Jacobs
+--- Jim Jacobs

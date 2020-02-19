@@ -67,5 +67,5 @@ laid out most of the standards it helped people to realise how far well
 created data can actually go.
 
 Check out the
-hashtag [\#ALIADW2017](https://twitter.com/search?q=%23ALIADW2017&src=typd) on
+hashtag [#ALIADW2017](https://twitter.com/search?q=%23ALIADW2017&src=typd) on
 twitter to see what people were tweeting on the day.

@@ -18,26 +18,26 @@ draft plans?
 
 -   18% (4) - Yes, as a matter of  policy.
 -   36% (8) - Not a policy, but I have reviewed them in the past.
--   36% (8) - Not a policy, but I\'d seriously consider doing it.
--   9% (2) - Not a policy but I most likely wouldn\'t do it.
+-   36% (8) - Not a policy, but I'd seriously consider doing it.
+-   9% (2) - Not a policy but I most likely wouldn't do it.
 -   0% (0) - No, as a matter of policy.
 
 Several repondents posted the following  comments. (All commenters
-identified themselves by name in the poll, but I\'ll keep their
+identified themselves by name in the poll, but I'll keep their
 identities anonymous here, just in case.)
 
--   I coordinate development of the DCC\'s DMP Online data management
+-   I coordinate development of the DCC's DMP Online data management
     planning tool. One of the functions we are adding for v3.0 (which is
     set to launch this Spring) is a facility to share read/write
-    permissions with other users. We\'ll be very interested in seeing
+    permissions with other users. We'll be very interested in seeing
     how popular this proves, as it will enable more collaborative
     development of DMPs by the researchers AND the research support
     staff, data librarians, IT people, etc who are also stakeholders in
     the data management endeavour.
 -   We are on record as making the offer to help formulate and/or review
-    DM plans. No written policy as yet, but it\'s something we\'re
+    DM plans. No written policy as yet, but it's something we're
     targetting as a service.
--   I\'ve always offered this service in my dept. The LSE is currently
+-   I've always offered this service in my dept. The LSE is currently
     looking at formalising a data management policy. One of the main
     aims of this is supporting researchers who need to make data
     available for reuse as part of their funding conditions. As part of
@@ -46,12 +46,12 @@ identities anonymous here, just in case.)
     has not been decided yet.
 -   We offer this as an optional service had about 70 such reviews in
     our first year. We do have a caveat about the service on our
-    website - see \"limitations to services\" on
+    website - see "limitations to services" on
     https://confluence.cornell.edu/display/rdmsgweb/About.
 -   The review is optional, not mandatory, and offered as an advertised
     service.
 -   I have read through a few plans when people have asked me to but I
-    don\'t edit them and have commented when asked directly but have
+    don't edit them and have commented when asked directly but have
     concerns about doing that. I usually state what I can and cannot
     give advice on and refer to appropriate office on campus when
     necessary (e.g., technology transfer for IP issues). Fortunately,
@@ -62,9 +62,9 @@ identities anonymous here, just in case.)
     just find that when researchers ask me to look at their plans, most
     of the time they are really asking me questions about specific
     details with data management and not so much with editing the plan.
-    If they did want me to edit it I would say no.\
+    If they did want me to edit it I would say no.
 
-Many thanks to all of you who took the time to respond. I\'m sure many
+Many thanks to all of you who took the time to respond. I'm sure many
 will find this information useful.
 
 Harrison Dekker, UC Berkeley Data Lab

@@ -27,7 +27,7 @@ shows, then you would not be wrong to think that. Beginning with an open
 call, some 70 proposals were available online for voting and comments.
 These reduced to 44 by the time of a
 [workshop](http://www.dcc.ac.uk/files/blog/IDCC%20Research%20Data%20Spring%20programme%20Jisc.pdf)
-\[PDF\] at the recent IDCC conference. At the "Sandpit" (metaphorical,
+[PDF] at the recent IDCC conference. At the "Sandpit" (metaphorical,
 not literal, sadly), these proposals had to fit 27 available slots to
 proceed to the next stage. Through a process of negotiation, mergers and
 acquisitions, and hasty matchmaking, all 44 managed to get through in
@@ -54,7 +54,7 @@ and outside the UK.
 You can review projects at the Data Spring
 [ideascale](http://researchatrisk.ideascale.com/) and
 [figshare](http://figshare.com/articles/search?q=tag%3A+Research%20Data%20Spring&quick=1)
-pages and tweet about them using \#dataspring.
+pages and tweet about them using #dataspring.
 
 UPDATE: a
 [storify](https://storify.com/martin_hamilton/dataspring-sandpit1) of

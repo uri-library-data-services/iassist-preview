@@ -8,11 +8,11 @@ oldpath = "/blog/opportunity-suggest-enhancements-american-factfinder"
 date = "2008-03-11 14:40:19 -0700"
 draft = "false"
 +++
-\[copied from a post to the IASSIST membership list by Terrence
-Bennett.\] I\'m sure that this announcement will show up on a lot of
-lists, but in case you haven\'t yet seen it elsewhere, here it is.
+[copied from a post to the IASSIST membership list by Terrence
+Bennett.] I'm sure that this announcement will show up on a lot of
+lists, but in case you haven't yet seen it elsewhere, here it is.
 
-The Census Bureau is enhancing \"American FactFinder,\" the Internet
+The Census Bureau is enhancing "American FactFinder," the Internet
 gateway for downloading data from the Census, the American Community
 Survey, and other selected Census Bureau resources.
 
@@ -39,7 +39,7 @@ link below. Please review them and then provide up to five additional
 items you would like to see incorporated into the new system. (Note: The
 survey will be available for comments beginning today, March 10 - March
 31, 2008.) Given the limited resources available for enhancing the AFF,
-the Census\< Bureau may not be able to implement all the suggestions.
+the Census< Bureau may not be able to implement all the suggestions.
 
 <https://questionweb.com/63144/>
 
@@ -47,6 +47,6 @@ In an effort to reach as many users as possible, please forward this
 information to your colleagues and others who use data from the Census
 Bureau.
 
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+*******************************************
 Nancy M. Gordon Associate Director for Strategic Planning and Innovation
 U.S. Census Bureau[](https://questionweb.com/63144/)

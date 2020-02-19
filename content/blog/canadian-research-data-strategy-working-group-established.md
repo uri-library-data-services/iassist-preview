@@ -9,21 +9,21 @@ date = "2008-08-26 09:37:46 -0700"
 draft = "false"
 +++
 Research Data Strategy Working Group Established [http
-://cisti-icist.nrc-cnrc.gc.ca/media/press/rds\_group\_e.html](//cisti-icist.nrc-cnrc.gc.ca/media/press/rds_group_e.html),
+://cisti-icist.nrc-cnrc.gc.ca/media/press/rds_group_e.html](//cisti-icist.nrc-cnrc.gc.ca/media/press/rds_group_e.html),
 press release, August 12, 2008.
 
 The research process generates huge amounts of data that are an
-important part of Canada\'s scholarly record and hold enormous potential
+important part of Canada's scholarly record and hold enormous potential
 as an additional discovery and problem-solving tool for researchers.
 Unfortunately, Canada has no nationally adopted standards or policies
 governing how this data is collected, catalogued, or preserved.
 
 Research Data Strategy Working Group Established [http
-://cisti-icist.nrc-cnrc.gc.ca/media/press/rds\_group\_e.html](//cisti-icist.nrc-cnrc.gc.ca/media/press/rds_group_e.html),
+://cisti-icist.nrc-cnrc.gc.ca/media/press/rds_group_e.html](//cisti-icist.nrc-cnrc.gc.ca/media/press/rds_group_e.html),
 press release, August 12, 2008.
 
 The research process generates huge amounts of data that are an
-important part of Canada\'s scholarly record and hold enormous potential
+important part of Canada's scholarly record and hold enormous potential
 as an additional discovery and problem-solving tool for researchers.
 Unfortunately, Canada has no nationally adopted standards or policies
 governing how this data is collected, catalogued, or preserved.
@@ -38,7 +38,7 @@ deal with Canadian data management issues.
 
 Together, the Working Group is focusing on the necessary actions, next
 steps and leadership roles that researchers and institutions can take to
-ensure Canada\'s research data is accessible and usable for current and
+ensure Canada's research data is accessible and usable for current and
 future generations of researchers.
 
 To support this effort, the Working Group has launched the Research Data

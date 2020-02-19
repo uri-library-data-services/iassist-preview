@@ -12,8 +12,8 @@ The Qualitative Social Science and Humanities Data Interest Group
 (QSSHDIG) was formed in fall 2016. We decided to focus our efforts on
 the conference this year. We have some continuing projects planned for
 next year. **We are meeting at the conference on Tuesday, May 22 at 4pm
-in the Oread Lobby.\
-** IASSIST 2017 Conference activities:\
+in the Oread Lobby.
+** IASSIST 2017 Conference activities:
 
 -    Two workshops: (1) [Dueling CAQDAS -- Using Atlas.ti and NVivo for
     Qualitative Data
@@ -29,10 +29,10 @@ in the Oread Lobby.\
     Building Bridges for Qualitative Social Science and Humanities
     Researchers](https://www.openconf.org/IASSIST2017/modules/request.php?module=oc_program&action=summary.php&id=36 "view info")
 
-Continuing Projects:\
+Continuing Projects:
 
 -   We are developing a blog post series on the challenges of balancing
-    teaching/providing resources for qualitative \*software\* against
+    teaching/providing resources for qualitative *software* against
     teaching/providing resources for qualitative methods. Mandy is
     currently leading that effort.
 -   We have been working on developing a LibGuide compiling qualitative

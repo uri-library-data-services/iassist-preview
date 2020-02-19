@@ -36,7 +36,7 @@ for users.
 
 Looking ahead, the archive plans to acquire commercial data, especially
 of the financial and marketing variety, being both rich in information
-and expensive in €   ₤   \$.   (In the case of Datastream, content is
+and expensive in €   ₤   $.   (In the case of Datastream, content is
 limited to historical data due to the cost.) These have represented new
 challenges in the form of negotiating rather tight and specific access
 contracts. Future sustainability remains a question.  (Read:  How
@@ -109,4 +109,4 @@ distribution, via secure data lab in Luxembourg, remote system), and
 difficulties regarding getting data cleared for release by Eurostat
 statisticians.  (Nope, not going near that last one in print.)
 
-Submitted by Pam  Baxter (the one behind the plant\....)
+Submitted by Pam  Baxter (the one behind the plant....)

@@ -41,12 +41,12 @@ ending up with a much better product.
 
  
 
-At the IASSIST 2007 conference in Montreal in a session named \"New
-Discovery Tools: Thinking Outside the Catalogue\" Taina Jääskeläinen and
+At the IASSIST 2007 conference in Montreal in a session named "New
+Discovery Tools: Thinking Outside the Catalogue" Taina Jääskeläinen and
 Tuomas J. Alaterä from the Finnish Social Science Data Archive gave a
-presentation on \"Multilingual Web Services - Possibilities and
-Pitfalls\". In turning this presentation into an article they qualified
-the first part into \"Multilingual Web Services of Data Archives\". In
+presentation on "Multilingual Web Services - Possibilities and
+Pitfalls". In turning this presentation into an article they qualified
+the first part into "Multilingual Web Services of Data Archives". In
 their article, the first in this issue of the IQ, they share their
 experience of setting up a website supporting the Finnish, English and
 also Swedish languages. One serious problem of multilingual websites
@@ -62,12 +62,12 @@ the datasets.
  
 
 The second article is from Eun-ha Hong at Wilfred Laurier University and
-Linda Lowry at Brock University. They are both employed as \"business
-and economics librarians\" at their respective universities and they
-present \"Business data: issues and challenges from the Canadian
-perspective\". The article was presented at the IASSIST 2007 conference
-in the session on \"Data Services mash-ups: Maps, Research and
-Everything!\". I find that the Hong and Lowry paper is mostly about
+Linda Lowry at Brock University. They are both employed as "business
+and economics librarians" at their respective universities and they
+present "Business data: issues and challenges from the Canadian
+perspective". The article was presented at the IASSIST 2007 conference
+in the session on "Data Services mash-ups: Maps, Research and
+Everything!". I find that the Hong and Lowry paper is mostly about
 research. Their goal is to start a discussion about key challenges in
 supporting the teaching and research use of business data. They refer to
 observations about the growing importance of datasets, and continue with
@@ -79,15 +79,15 @@ of four core numeric business databases among Ontario universities.
 Within the business school area, there is the same discussion as
 elsewhere concerning support for data users when most librarians are not
 sufficiently educated in that type of data use. A "community of
-practice\" is proposed; IASSIST is seen as a natural home for this and
+practice" is proposed; IASSIST is seen as a natural home for this and
 also as reaching a critical mass for convincing the commercial data
 vendors. I hope the article will bring fruitful discussions at the
 coming conference.
 
  
 
-The last article in this issue is \"A Survey Data Archive Network in
-Africa - Possibilities and Practicalities\" by Lynn Woolfrey from the
+The last article in this issue is "A Survey Data Archive Network in
+Africa - Possibilities and Practicalities" by Lynn Woolfrey from the
 University of Cape Town. Woolfrey is the Data Manager at the DataFirst
 Survey Data Archive at the university. The point of departure for the
 article is that survey data archives have two central functions; they
@@ -121,7 +121,7 @@ Happy reading.
 Articles for the IASSIST Quarterly are very welcome. Articles can be
 papers from IASSIST conferences, from other conferences, from local
 presentations, discussion input, etc. Contact the editor via e-mail:
-kbr\@sam.sdu.dk.
+kbr@sam.sdu.dk.
 
  
 
@@ -130,5 +130,5 @@ Best regards, Karsten
  
 
 Karsten Boye Rasmussen, editor of the IASSIST Quarterly,
-kbr\@sam.sdu.dk, Marketing & Management, SDU, University of Southern
+kbr@sam.sdu.dk, Marketing & Management, SDU, University of Southern
 Denmark +45 6550 2115

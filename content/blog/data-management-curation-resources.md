@@ -68,6 +68,6 @@ aspect of the project, please feel free to contact us. We are looking
 forward to receiving your input. Again, our deadline for input on this
 phase of the project should be sent to us **by May 13, 2011**.
 
-\
-Carol Perry\
+
+Carol Perry
 On behalf of the DMAG team

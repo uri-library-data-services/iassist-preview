@@ -23,7 +23,7 @@ Announcing new deliverables from the DISC-UK DataShare project:
 Both briefing papers can be retrieved from
 <http://www.disc-uk.org/deliverables.html> .
 
-There is also a new \"Collective Intelligence\" page with a tag cloud to
+There is also a new "Collective Intelligence" page with a tag cloud to
 links from our social bookmarks of reports, websites, and blogs related
 to the project themes. <http://www.disc-uk.org/collective.html>
 

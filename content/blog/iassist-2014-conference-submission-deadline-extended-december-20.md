@@ -26,26 +26,26 @@ Best,
 
 Program Chairs
 
-Jen Green\
-Johan Fihn\
+Jen Green
+Johan Fihn
 Chuck Humphrey
 
-(And in case this is new to you\...)
+(And in case this is new to you...)
 
-The theme of the conference  is \"Aligning Data and Research
-Infrastructure\" and the meeting will be held in Toronto, Canada 3-6
+The theme of the conference  is "Aligning Data and Research
+Infrastructure" and the meeting will be held in Toronto, Canada 3-6
 June 2014.  The conference program emphasizes three tracks:  Research
 Data Management, Professional Development, and Data Developers and
 Tools.  Participants may propose individual papers, complete sessions,
 poster/demonstrations, Pecha Kucha, roundtable discussions, and
 workshops.
 
-Conference overview:[](mailto:iassist40@gmail.com%3EIASSIST%2040%3C/a%3E%3Cspan%20style=)<http://www.library.yorku.ca/cms/iassist>/\
+Conference overview:[](mailto:iassist40@gmail.com%3EIASSIST%2040%3C/a%3E%3Cspan%20style=)<http://www.library.yorku.ca/cms/iassist>/
 Call for
-Papers: <http://www.library.yorku.ca/cms/iassist/call-for-papers>/\
-Online submissions: <http://staff.lib.muohio.edu/~sekyerk/iassist14>/\
+Papers: <http://www.library.yorku.ca/cms/iassist/call-for-papers>/
+Online submissions: <http://staff.lib.muohio.edu/~sekyerk/iassist14>/
 Workshop proposals: email Workshop Coordinator [Lynda
 Kellam](mailto:lmkellam@uncg.edu)
 
 Please spread the word about the impending submission deadline and
-IASSIST\'s exciting 40th Anniversary conference!
+IASSIST's exciting 40th Anniversary conference!

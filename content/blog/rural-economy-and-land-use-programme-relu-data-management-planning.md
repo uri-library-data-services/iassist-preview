@@ -8,7 +8,7 @@ oldpath = "/resources/rural-economy-and-land-use-programme-relu-data-management-
 date = "2011-04-30 00:22:45 -0700"
 draft = "false"
 +++
-[Relu\'s Data Management
+[Relu's Data Management
 Planning](http://relu.data-archive.ac.uk/data-sharing/planning) site has
 data management planning guidance, template and real-case examples of
 data management plans from the UK-based cross-disciplinary Rural Economy

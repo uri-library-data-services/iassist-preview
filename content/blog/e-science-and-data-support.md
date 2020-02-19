@@ -13,7 +13,7 @@ Research Libraries Member Institutions
 <http://bit.ly/cKmaO6>]{.entry-content}]{.status-content}]{.status-body}
 .
 
-This was tweeted to our site last week, but in case you weren\'t
+This was tweeted to our site last week, but in case you weren't
 following the tweets, this is  worth a read.  There are quotes from
 IASSIST folks, and there is some interesting information in it, in terms
 of what people are doing.  This  may help shape what you are doing.   It
@@ -21,8 +21,8 @@ has been blogged and tweeted elsewhere and is now posted on the Educause
 site.
 
 I think there is some interesting information in the section on
-\"staffing e-science Activities\" that might help define a what a
-\'designation\' for someone in this field may look like.  It may also
+"staffing e-science Activities" that might help define a what a
+'designation' for someone in this field may look like.  It may also
 help outline what sort of training we could do when moving individuals
 into e-sciences.   This is something that I know we have tallked about
 at IASSIST.

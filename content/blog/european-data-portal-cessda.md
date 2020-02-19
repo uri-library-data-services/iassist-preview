@@ -15,10 +15,10 @@ In addition to the new layout, the site has several new features
 including the CESSDA Data Portal which allows easy access to the
 catalogues of member organisations. Other pages provide a central news
 forum about CESSDA activities, links to official documents, contact
-details and other relevant information. The site\'s content will
-continue to be developed and will include a members\' section.
+details and other relevant information. The site's content will
+continue to be developed and will include a members' section.
 
-CESSDA also has a new email address: cessda\@cessda.org.
+CESSDA also has a new email address: cessda@cessda.org.
 
 The CESSDA Data Portal provides a seamless interface to datasets from
 social science data archives across Europe. The data may be located in
@@ -39,5 +39,5 @@ Language Social Science Thesaurus (ELSST) enabling multilingual
 functionality, and the Nesstar technology providing functionality for
 browsing and analysing data.
 
-\- as announced by Sharon Jack, UK Data Archive, on ESDS-News email
+- as announced by Sharon Jack, UK Data Archive, on ESDS-News email
 list.

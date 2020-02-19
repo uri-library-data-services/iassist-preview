@@ -50,7 +50,7 @@ the attendance is limited to the first 80 individuals that register. 
 After that, you may request to be placed on the waiting list.
 
 To follow the event on Twitter and all updates from the DIL project,
-please search the hashtag \#datainfolit.  Updates from the event will be
+please search the hashtag #datainfolit.  Updates from the event will be
 posted throughout the day September 23-24.
 
 More information about the Data Information Literacy Project can be

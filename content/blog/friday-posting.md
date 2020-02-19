@@ -10,7 +10,7 @@ draft = "false"
 +++
 One of the highlights of the after hours hanging out during IASSIST
 conferences is getting to play some pool and make geeky data jokes you
-don\'t have to explain to anyone.  
+don't have to explain to anyone.  
 
 For you pool-playing enthusiasts, I share[this YouTube of a potential
 future IASSIST conference

@@ -8,13 +8,13 @@ oldpath = "/resources/data-curation-bibliography-2012"
 date = "2012-05-29 10:15:47 -0700"
 draft = "false"
 +++
-\"Digital Scholarship has released the Research Data Curation
+"Digital Scholarship has released the Research Data Curation
 Bibliography. It includes over 100 selected English-language articles
 and technical reports that are useful in understanding the curation of
-digital research data in academic and other research institutions.\"
+digital research data in academic and other research institutions."
 
-\"Most sources have been published from 2000 through 2011; however, a
-limited number of earlier key sources are also included.\"
+"Most sources have been published from 2000 through 2011; however, a
+limited number of earlier key sources are also included."
 
 [View the Data Curation
 Bibliography.](http://digital-scholarship.org/rdcb/rdcb.htm)

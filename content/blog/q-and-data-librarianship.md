@@ -19,7 +19,7 @@ repository of scientific data.
 
  
 
-\-- jim jacobs
+-- jim jacobs
 
  
 
@@ -27,7 +27,7 @@ Excerpts:
 
  
 
-Question from Lila Guterman, The Chronicle of Higher Education: I\'m
+Question from Lila Guterman, The Chronicle of Higher Education: I'm
 curious about how scientists and librarians are trained to deal with all
 these data sets. Do library students have to take statistics? Do science
 graduate students take computer science?
@@ -47,7 +47,7 @@ related to metadata, ontologies, data management, etc. Thanks!
 
  
 
-Question from Sarah Everts, Chemical & Engineering News: I\'m interested
+Question from Sarah Everts, Chemical & Engineering News: I'm interested
 in the people who might consider a career trying to solve this problem.
 What skills are required to handle this data? If someone gets training
 in digital science data storage (ie, to handle the tech side of things),
@@ -73,7 +73,7 @@ and techniques to make this doable for the future.
 
 Question from Charon, Research Institution: Do you believe that
 librarians have the necessary skills to build data repositories for such
-disperate data? Archiving the data as a single \"blob\" will not provide
+disperate data? Archiving the data as a single "blob" will not provide
 the value that archiving via a relational data would.
 
  
@@ -103,7 +103,7 @@ We've tried to provide the tools they need and support for them.
 
  
 
-Question from Brian Simboli: As a librarian, I know that we\'re already
+Question from Brian Simboli: As a librarian, I know that we're already
 quite busy with many other things. Specifically, what will the staff
 costs be? Do you see dedicating someone to maintain this at least part
 time?

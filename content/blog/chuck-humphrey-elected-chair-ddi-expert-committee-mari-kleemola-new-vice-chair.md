@@ -11,7 +11,7 @@ draft = "false"
 From the[DDI Directions
 Newsletter](http://ddi.icpsr.umich.edu/files/blog/ddidirections7.pdf "DDI Directions Newsletter"):
 
-\"The DDI Alliance is pleased to announce that Chuck Humphrey (Chair),
+"The DDI Alliance is pleased to announce that Chuck Humphrey (Chair),
 University of Alberta, and Mari Kleemola (Vice Chair), Finnish Social
 Science Data Archive, have been elected to lead the DDI Expert
 Committee, beginning January 1, 2010.  Chuck has been the Head of the
@@ -22,6 +22,6 @@ Mari is Information Services Manager at the Finnish Social Science Data
 Archive (FSD) in the areas of User Services, Data Processing, and
 Documentation.  Congratulations, Chuck and Mari, and thank you for being
 willing to serve in this capacity.  We look forward to a productive year
-ahead!\"
+ahead!"
 
 Great news!

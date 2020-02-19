@@ -17,4 +17,4 @@ Humanities Research Council (SSHRC) from Canada.
 
 For more details: <http://www.diggingintodata.org/>
 
-\-- Joel Herndon
+-- Joel Herndon

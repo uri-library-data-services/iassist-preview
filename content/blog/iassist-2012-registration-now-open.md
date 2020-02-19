@@ -31,8 +31,8 @@ good management, dissemination and preservation techniques.
 Information about the papers, panels, and other events can be found at:
 <http://www.iassist2012.org/indexfolder/program>
 
-The theme for IASSIST 2012 is also reflective of this year\'s host city
-and nation\'s capital: Washington, DC. The seat of many US government
+The theme for IASSIST 2012 is also reflective of this year's host city
+and nation's capital: Washington, DC. The seat of many US government
 agencies, as well as major international institutions like the World
 Bank and IMF, Washington is an ideal backdrop for discussing the
 importance of data sharing and management or international best

@@ -24,14 +24,14 @@ Their articles are available at the [SOSIG
 website](http://www.sosig.ac.uk/socsciweek/) and are listed individually
 for your convenience here:
 
-1.  [e-Government Information: the same old problem \... newly
-    digitized!](http://www.sosig.ac.uk/socsciweek/blog/?p=24)\
+1.  [e-Government Information: the same old problem ... newly
+    digitized!](http://www.sosig.ac.uk/socsciweek/blog/?p=24)
     Alastair Allan
 2.  [The Internet and democratisation of access to
-    data](http://www.sosig.ac.uk/socsciweek/blog/?p=22)\
+    data](http://www.sosig.ac.uk/socsciweek/blog/?p=22)
     Robin Rice
 3.  [How has the internet changed the way we access
-    data?](http://www.sosig.ac.uk/socsciweek/blog/?p=27)\
+    data?](http://www.sosig.ac.uk/socsciweek/blog/?p=27)
     Melanie Wright
 
 Congratulations Melanie, Robin and Alastair!

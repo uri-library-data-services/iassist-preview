@@ -18,6 +18,6 @@ Oxford: Chandos Publishing. 
 
 Earlier this summer, Lynda [discussed the book, data, data literacy and
 instruction](http://adlibinstruction.blogspot.com/2011/07/episode-28-she-got-data.html)
-with the folks at \"Adventures in Library Instruction\".
+with the folks at "Adventures in Library Instruction".
 
 Highly recommended!

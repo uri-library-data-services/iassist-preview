@@ -47,7 +47,7 @@ Although recognizing the importance of continuity, ANES has also sought
 to develop the time series in innovative ways. The non-standard
 component of each questionnaire has routinely focused on matters of
 interest to the current election cycle. These items are often selected
-from an \"ANES Question Inventory,\" which includes the standard
+from an "ANES Question Inventory," which includes the standard
 questions and questions that have been asked in past ANES surveys but
 are not part of the standard battery of questions.  Researchers can
 access the question inventory at:
@@ -113,7 +113,7 @@ evaluating proposals made through the Online Commons. We strongly
 encourage anyone who is considering making a proposal to read the
 following carefully.
 
-1\. Problem-Relevant. Are the theoretical motivations, proposed concepts
+1. Problem-Relevant. Are the theoretical motivations, proposed concepts
 and survey items relevant to ongoing controversies among researchers?
 How will the data that the proposers expect to observe advance the
 debate?
@@ -122,17 +122,17 @@ What specific analyses of the data will be performed? What might these
 analyses reveal? How would these findings be relevant to specific
 questions or controversies?
 
-2\. Suitability to ANES. The primary mission of the ANES is to advance
+2. Suitability to ANES. The primary mission of the ANES is to advance
 our understanding of voter choice and electoral participation. Ceteris
 paribus, concepts and instrumentation that are relevant to our
 understanding of these phenomena will be considered more favorably than
 items tapping other facets of politics, public opinion, American culture
 or society.
 
-3\. Building on Solid Theoretical Footing. Does the proposed
+3. Building on Solid Theoretical Footing. Does the proposed
 instrumentation follow from a plausible theory of political behavior?
 
-4\. Demonstrated Validity and Reliability of Proposed Items. Proposed
+4. Demonstrated Validity and Reliability of Proposed Items. Proposed
 items should be accompanied by evidence demonstrating their validity and
 reliability. Validity has various facets: e.g., construct validity,
 concurrent validity, discriminant validity and predictive validity. Any
@@ -142,14 +142,14 @@ above.
 Reliability can be demonstrated in various ways; one example is
 test-retest reliability. We understand that proposals for novel concepts
 and/or instrumentation will almost always lack empirical evidence
-demonstrating validity and/or reliability. Proposals for truly \"novel\"
+demonstrating validity and/or reliability. Proposals for truly "novel"
 instrumentation might be best suited for the series of smaller,
 cross-sectional studies ANES will field in the period 2010 through the
 summer of 2012; as a general matter, we are highly unlikely to field
 untested instrumentation on the Fall 2012 pre-election and post-election
 surveys.
 
-5\. Breadth of Relevance and Generalizability. Will the research that
+5. Breadth of Relevance and Generalizability. Will the research that
 results from the proposed instrumentation be useful to many scholars?
 
 Given the broad usage of ANES data, we may be unable to accommodate
@@ -160,7 +160,7 @@ items that would seem to have less applicability.
 
 When the 2012 questionnaires are designed, the status of the standard
 questions will be central considerations. Standard questions do not have
-an infinite shelf life \-- Science advances and new insights can reveal
+an infinite shelf life -- Science advances and new insights can reveal
 more effective ways of asking important questions or can show that some
 questions do not in fact meet the requirements of remaining a standard
 question.  However, proposed changes made to standard questions will be

@@ -20,7 +20,7 @@ can we observe the emergence of a pan-European informational system?
  
 
 Full Text (PDF, 31 pages, 157.2 KB)
-http://www.arena.uio.no/publications/working-papers2005/papers/wp05\_27.pdfTitle:
+http://www.arena.uio.no/publications/working-papers2005/papers/wp05_27.pdfTitle:
 Administering information: Eurostat and statistical integration
 
  
@@ -33,7 +33,7 @@ European Research Papers Archive
 
  
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+--------------------------------------------------------------------------------
 Abstract
 
  

@@ -13,6 +13,6 @@ work. Raises some important issues about preserving research data and
 researchers perceptions. Chuck Humphrey also raises the profile of a NDA
 in Canada.
 
-[http://www.universityaffairs.ca/issues/2007/june\_july/datastorage\_01.html](http://www.universityaffairs.ca/issues/2007/june_july/datastorage_01.html)
+[http://www.universityaffairs.ca/issues/2007/june_july/datastorage_01.html](http://www.universityaffairs.ca/issues/2007/june_july/datastorage_01.html)
 
 Posted on behalf of Bo Wandschneider

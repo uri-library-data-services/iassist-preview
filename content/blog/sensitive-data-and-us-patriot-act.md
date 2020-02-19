@@ -17,7 +17,7 @@ data](http://www.zdnet.com/blog/igeneration/microsoft-admits-patriot-act-can-acc
 [](http://www.zdnet.com/blog/igeneration/microsoft-admits-patriot-act-can-access-eu-based-cloud-data/11225)See
 also ZDNet's Patriot Act series:
 
--   [ZDNet\'s USA PATRIOT Act series
+-   [ZDNet's USA PATRIOT Act series
     Summary](http://www.zdnet.com/blog/igeneration/summary-zdnets-usa-patriot-act-series/9233)
 -   [Part 1: USA PATRIOT Act and the controversy of
     Canada](http://www.zdnet.com/blog/igeneration/usa-patriot-act-and-the-controversy-of-canada/8803)
@@ -26,5 +26,5 @@ also ZDNet's Patriot Act series:
 -   [Part 3: How the USA PATRIOT Act can be used to access EU
     data](http://www.zdnet.com/blog/igeneration/case-study-how-the-usa-patriot-act-can-be-used-to-access-eu-data/8805)
 -   [Part 4: USA PATRIOT Act: The myth of a secure European
-    cloud](http://www.zdnet.com/blog/igeneration/usa-patriot-act-the-myth-of-a-secure-european-cloud/8807)\
-    \
+    cloud](http://www.zdnet.com/blog/igeneration/usa-patriot-act-the-myth-of-a-secure-european-cloud/8807)
+    

@@ -15,7 +15,7 @@ Danny Kingsley gave an overview of why data sharing is important, which
 was useful as introduction for those new to this, and a refresher of
 first principles to the more experienced.
 
-The day then moved into parallel sessions on aspects of the network\'s
+The day then moved into parallel sessions on aspects of the network's
 activity.
 
 The Research Data Shared Service is an initiative to help intuitions
@@ -24,7 +24,7 @@ universities is addressing the digital preservation gap. Consequently,
 Jisc are looking at providing data repository and long-term preservation
 services as well as considering how a service could integrate with
 existing CRIS systems and repositories. This will take place in a
-\"University of Jisc\" that allows a testing environment using research
+"University of Jisc" that allows a testing environment using research
 data.
 
 Jisc are developing templates and guidance for publishers on creating a
@@ -33,21 +33,21 @@ working with Springer Nature who are trying to fit their 3000 journals
 to into one of four types of data policy, ranging from encouraged to
 mandatory sharing and availability criteria.
 
-Cambridge\'s Research Data support service provided insight into
+Cambridge's Research Data support service provided insight into
 engaging researchers in research data management. Their initial
 compliance message was not working, so they switched to a positive
-benefits message. This is underpinned by \"adequate provisions\": online
+benefits message. This is underpinned by "adequate provisions": online
 information, consultancies, reviewing data management plan, and training
 sessions. They also invest resources in advocacy and outreach including
-a \"democratic\" approach involving researchers in shaping the service
+a "democratic" approach involving researchers in shaping the service
 and policies.
 
-Jisc are developing a \"core\" metadata profile for research data. The
+Jisc are developing a "core" metadata profile for research data. The
 profile is based on focus group testing, and integration with existing
 standards. The aim is to encourage better quality metadata submissions
-from researchers, with \"gold, silver, and bronze\" thresholds.
+from researchers, with "gold, silver, and bronze" thresholds.
 
-The final session introduced Jisc\'s template business case for RDM
+The final session introduced Jisc's template business case for RDM
 support. This is intended to allow institutions to adapt a structured
 case for supporting RDM services that can be presented to university
 management. The case covers the economic benefits of data sharing and

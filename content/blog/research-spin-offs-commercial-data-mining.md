@@ -10,15 +10,15 @@ draft = "false"
 +++
 Edmonton Journal technology columnist Steve Makris wrote about recent
 developments in data mining that could have potential implications for
-providing access to confidential social survey data (see \"Hot Data,\"
+providing access to confidential social survey data (see "Hot Data,"
 Edmonton Journal, Business, G1, May 17, 2006.) Makris mentioned some
-major companies raiding each other\'s data mining experts, such as
+major companies raiding each other's data mining experts, such as
 Google hiring Kai-Fu Lee away from Microsoft only to see Microsoft swoop
 up Rakesh Agrawal from IBM. Can these companies capitalize on the
 massive data accumulated by private companies and governments through
 data mining technology?
 
-> \[Makris\] chatted with Agrawal in his tiny and very busy office at
+> [Makris] chatted with Agrawal in his tiny and very busy office at
 > IBM's San Jose Almaden Research Centre during a Silicon Valley tour
 > last year. He was taking data mining to the next level: Sovereign
 > Information Integration ... a cryptographic-like way of allowing
@@ -32,4 +32,4 @@ While short on actual detail, the news of commercial investment in
 technology to share private information is worth monitoring for the
 social data research community.
 
-\- Contributed by Chuck Humphrey
+- Contributed by Chuck Humphrey

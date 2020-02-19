@@ -10,7 +10,7 @@ draft = "false"
 +++
 This is a truly fascinating set of events unfurling in Canada.   I
 thought I would add a bit (in too many words) for those of you who
-don\'t have the pleasure of Canadian media outlets. J
+don't have the pleasure of Canadian media outlets. J
 
 Parliament recently resumed and there have been a number of significant
 issues, like abolishing the LONG Gun Registry,  G8/G20 spending and a

@@ -20,7 +20,7 @@ topic could also be spelled "involvement". The hope is that these
 articles will carry involvement to the IASSIST community, so that the
 gained knowledge can be shared and practised widely.
 
-\
+
 "Mind the gap" is a caveat to passengers on the London Underground. The
 authors of this article are Susan Noble, Celia Russell and Richard
 Wiseman, all affiliated with ESDS-International hosted by Mimas at the
@@ -46,7 +46,7 @@ of e-learning materials that can raise awareness and ease access to
 international data. In this case the example is e-learning for the
 "United Nations Millennium Development Goals".
 
-\
+
 The second paper is also related to the sharing of data with an
 introduction to the international level. "The Research-Data-Centre in
 Research-Data-Centre Approach: A First Step Towards Decentralised
@@ -63,7 +63,7 @@ in other countries and has a special focus on the German solution. The
 project will gain experience in the complex balance between
 confidentiality and analysis, and the differences between national laws.
 
-\
+
 The paper by Stuart Macdonald from EDINA in Scotland originated as a
 poster session at the IASSIST 2010 conference. The name of the paper is
 "AddressingHistory: a Web2.0 community engagement tool and API". The
@@ -88,11 +88,11 @@ information in the form of an IQ issue reaches many more people than the
 session participants and will be readily available on the IASSIST
 website at http://www.iassistdata.org.
 
-Authors are very welcome to take a look at the instructions and layout:\
+Authors are very welcome to take a look at the instructions and layout:
 <http://iassistdata.org/iq/instructions-authors>
 
-\
-Authors can also contact me via e-mail: kbr\@sam.sdu.dk. Should you be
+
+Authors can also contact me via e-mail: kbr@sam.sdu.dk. Should you be
 interested in compiling a special issue for the IQ as guest editor(s) I
 will also be delighted to hear from you.
 

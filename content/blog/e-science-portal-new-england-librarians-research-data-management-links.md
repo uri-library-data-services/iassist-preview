@@ -11,8 +11,8 @@ draft = "false"
 [e-Science Portal for New England
 Librarians](http://esciencelibrary.umassmed.edu/index) has been
 gathering comprehensive resources links to keep librarians updated about
-e-Science issues and library\'s new roles and functions. There is a
-\"Data Management\" section of the portal gathering publications,
+e-Science issues and library's new roles and functions. There is a
+"Data Management" section of the portal gathering publications,
 guides, tools, and other resources falling under the following general
 data management topics:
 

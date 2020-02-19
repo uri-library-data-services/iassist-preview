@@ -14,7 +14,7 @@ Portuguese speaking educational institutions, namely:
 
 [![](http://www.iassistdata.org/img/blog/pat_mcdonald-flickr-cc-by-nc.jpg "Toledo"){.imagecache-inline_horizontal}]{.image-right}
 
-1\. Research Data Management Webinars (complete with IASSIST
+1. Research Data Management Webinars (complete with IASSIST
 contribution) for Spanish/Portuguese data specialists
 (<http://www.recolecta.net/buscador/webminars.jsp>)
 
@@ -40,7 +40,7 @@ Several members of IASSIST have been invited and the work of the group
 will be presented in order to keep promoting the organization to
 colleagues in Spain, Portugal and Latin-America.
 
-2\. Preparation of a Latin-American session in next IASSIST annual
+2. Preparation of a Latin-American session in next IASSIST annual
 conference in collaboration with outreach committee
 
 Organise another Latin-American session at IASSIST 2012 (complete with
@@ -48,7 +48,7 @@ NGO representation) led by Bobray Bordelan (Princeton). Liaise with the
 outreach to fund and invite data professional colleagues from Latin
 America to participate in this session.
 
-3\. Spanish and Portuguese translation of the main pages of the IASSIST
+3. Spanish and Portuguese translation of the main pages of the IASSIST
 site - May 2012
 
 Working with the IASSIST web editor Robin Rice to scope and implement

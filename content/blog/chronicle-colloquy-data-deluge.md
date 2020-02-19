@@ -35,4 +35,4 @@ Deluge](http://chronicle.com/colloquy/2006/06/data/)
 > p.m., U.S. Eastern time. Readers are welcome to post questions and
 > comments now.
 
-\-- jim jacobs
+-- jim jacobs

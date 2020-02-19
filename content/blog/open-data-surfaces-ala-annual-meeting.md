@@ -23,7 +23,7 @@ address issues related to ***Open Data***.
 > scholarly communication system evolves in a way that supports the
 > needs of scholars and the academic enterprise as a whole.
 
-> \
+> 
 > As Open Data moves to the forefront of scholarly communication,
 > librarians, administrators, and researchers will be responsible for
 > considering new access policies for data and data curation issues.

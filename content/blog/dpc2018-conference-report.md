@@ -41,12 +41,12 @@ The Comptroller-General of the Nigerian Immigration Service was also
 represented at the opening ceremony. The Director of the FCT Archives
 and History Bureau, Ms. Cyril Jogai and the Librarian of the Nigerian
 National Petroleum Company (NNPC) were also in attendance. The high
-point of the opening ceremony was the unveiling of the Section\'s
+point of the opening ceremony was the unveiling of the Section's
 website which participants at the opening ceremony instantly logged on
 to using the link <https://nlapac.ng> to gain access. The role of the
 International Association for Social Science Information Science and
 Technology (IASSIST) in sponsoring the conference, was acknowledged and
-emphasized and IASSIST\'s relevance in digital preservation was
+emphasized and IASSIST's relevance in digital preservation was
 highlighted. Group photographs were taken and refreshments served.
 
 Immediately after the opening ceremony, 3 paper presentations by Prof.
@@ -58,7 +58,7 @@ University, Ede, and the Federal University of Technology, Owerri
 Library respectively. The session was chaired by Prof Yacob Haliso of
 Babcock University, Ilisan-Remo, Ogun State, Nigeria.
 
-**Day 2: **Three Posters were presented by Grace Ikenna; Dr D\'Anna
+**Day 2: **Three Posters were presented by Grace Ikenna; Dr D'Anna
 Shotts and Anthonia Ahima; and Adetoun Oyelude on different aspects of
 digital preservation. The first was on the state of digital preservation
 in the Kenneth Dike Library, University of Ibadan, Nigeria; the second
@@ -77,7 +77,7 @@ Jacob Igwe & Chidinma; Ifeyinwa Okafor & Olalekan Awujoola and Aishat
 Egbunu/ Adeyinka Koiki-Owoyele & Adefunke Alabi presenting on preserving
 cultural heritage through digital preservation. After each session
 activities, lots of networking, exchange of ideas, international
-perspectives\... name it!
+perspectives... name it!
 
 **Day 3**- even more exciting! Four papers by Dr. Benedict Oladele;
 Titilayo Ilesanmi; Christopher Okiki & Racheal Odunlade; and Adetoun
@@ -86,16 +86,16 @@ sparked stimulating discussions.
 
 One needed to be there to listen to the afternoon session by Abass
 Mustapha on Audio-Visual Digital Preservation of Yoruba Indigenous
-Knowledge and its economic benefits, as well as the Busicon Exhibitor\'s
+Knowledge and its economic benefits, as well as the Busicon Exhibitor's
 presentation on equipment for Digital Preservation and methods for it,
 presented by Lola Akanbi, the CEO of the company. Quite a package!
-Participants were practically \'chased out\' from the venue at 5.45pm,
+Participants were practically 'chased out' from the venue at 5.45pm,
 almost two hours beyond target, not due to lateness, but to the lively
 discussions that kept coming. See!
 
-And\... without doubt, NLA-PACS is creating a networking family that say
+And... without doubt, NLA-PACS is creating a networking family that say
 nothing to each other, but come out with a colour code, simply
-coincidental! \*Code purple!\*. It was fun!
+coincidental! *Code purple!*. It was fun!
 
 **Day 4: **The Grand finale was grand! The three papers that ended the
 conference were information packed, by Isaac Ajibola; Rachael Odunlade &
@@ -116,10 +116,10 @@ membership and also contribute to the next IASSIST conference in Sydney,
 Australia. The support from IASSIST ensured that the NLA-PACS website is
 up and running; making the Section the 3rd Section of the Nigerian
 Library Association to have a website (in spite of being almost the
-newest Section); and also producing \"a most exciting conference which
+newest Section); and also producing "a most exciting conference which
 even though the first of its kind, is already giving the NLA Cataloguing
 Classification and Indexing Section (the best Section for the year 2017)
-a hot competition as the best,\" as described by a participant. The
+a hot competition as the best," as described by a participant. The
 conference evaluation forms gave lots more comments, even on the
 innovative conference bags favoured by many participants!  The Section
 is already looking forward to NLA-PACS 2019, the best yet to come!

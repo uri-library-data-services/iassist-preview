@@ -71,13 +71,13 @@ session participants and will be readily available on the IASSIST
 website at http://www.iassistdata.org.
 
 Authors are very welcome to take a look at the description for layout
-and sending papers to the IQ:\
-http://iassistdata.org/iq/instructions-authors\
-Authors can also contact me via e-mail: kbr\@sam.sdu.dk. Should you be
+and sending papers to the IQ:
+http://iassistdata.org/iq/instructions-authors
+Authors can also contact me via e-mail: kbr@sam.sdu.dk. Should you be
 interested in compiling a special issue for the IQ as guest editor
 (editors) I will also delighted to hear from you.
 
-Karsten Boye Rasmussen\
+Karsten Boye Rasmussen
 Editor August 2011
 
 *Image Credit:* by mitko-denev on flickr

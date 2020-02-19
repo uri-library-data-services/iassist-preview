@@ -23,13 +23,13 @@ available on the web: The issue has articles about the following topics:
     Program Library Service (DPLS) at University of Wisconsin Madison,
     United States. She reports from a workshop on Statistical Disclosure
     Control for Data Confidentiality and the ARGUS software with the
-    function of being able to \"modify unsafe data in such a way that
-    safe (enough) data emerge, with minimum information loss\". A main
+    function of being able to "modify unsafe data in such a way that
+    safe (enough) data emerge, with minimum information loss". A main
     concern is balancing the need for data and the need for
     confidentiality.
 -   At the IASSIST conference in Edinburgh 2005 there was a session on
-    \"New Insights in Providing Data Services: A Variety of Evidence\".
-    The presentation on \"Data archiving at the US Central Bank\" was
+    "New Insights in Providing Data Services: A Variety of Evidence".
+    The presentation on "Data archiving at the US Central Bank" was
     given by Linda Powell, who works at the Board of Governors of the
     Federal Reserve System. Her article demonstrates and discusses
     several challenges in connection with the diverse pool of data, user

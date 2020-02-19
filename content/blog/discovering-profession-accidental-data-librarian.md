@@ -15,7 +15,7 @@ general, is there a profession of data librarianship?An interesting
 question was presented on the IASSIST email discussion list earlier this
 year asking how one becomes a data librarian. Several people replied by
 relating personal accounts about their entry into this profession. Out
-of this discussion came the observation that many were \'accidental\'
+of this discussion came the observation that many were 'accidental'
 data librarians, that is, they had not pursued a career as a data
 librarian but by happenstance discovered the profession.
 

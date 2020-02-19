@@ -20,7 +20,7 @@ course of his career.
 width="200" height="200"}]{.image-left}Friends and family have created a
 scholarship at the University of Michigan-Dearborn in his memory.  At
 the suggestion of the several members and with the approval of the
-Administrative Committee, IASSIST has contributed \$1000 to the
+Administrative Committee, IASSIST has contributed $1000 to the
 scholarship to recognize the numerous contributions Darrell made to the
 data community right up to the time of his premature passing.
 

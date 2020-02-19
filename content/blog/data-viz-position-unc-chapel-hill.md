@@ -19,7 +19,7 @@ know if I can answer any questions.
 
 Michele Hayslett
 
-michele\_hayslett\@unc.edu
+michele_hayslett@unc.edu
 
 ======================
 

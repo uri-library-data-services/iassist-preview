@@ -33,6 +33,6 @@ subject for a special issue of the IQ.
 Authors are very welcome to [take a look at the
 instructions](http://iassistdata.org/iq/instructions-authors) and
 article template on the IASSIST website. Authors and guest editors can
-also contact the editor via e-mail: kbr\@sam.sdu.dk.
+also contact the editor via e-mail: kbr@sam.sdu.dk.
 
 Karsten Boye Rasmussen     -    March 2013

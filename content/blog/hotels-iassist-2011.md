@@ -18,7 +18,7 @@ cancellations).
 
 Important!  We encourage you to book as soon as possible, even before
 you have permission from your institution (you can always cancel if it
-turns out you can\'t attend).
+turns out you can't attend).
 
 For the latest information on the latest listing of accommodations visit
 the [conference

@@ -13,26 +13,26 @@ abuse my roll as managing editor of the IASSIST Communique to assist me
 in my roll as Program Chair of IASSIST 2008! I just want to let everyone
 know that we are off to a booming start. The submission deadline,
 although a full month earlier than in previous years, has provided a
-bumper crop of proposals! It seems that we\'re all technologists
-(geeks?) at heart and the theme for this year\'s conference has provided
+bumper crop of proposals! It seems that we're all technologists
+(geeks?) at heart and the theme for this year's conference has provided
 a spotlight for this!
 
-I mention this because we really can\'t take any late submissions -
+I mention this because we really can't take any late submissions -
 unless you can come up with a **really** good bribe that is based in a
-currency other than the sinking U.S. dollar! - so please don\'t send any
+currency other than the sinking U.S. dollar! - so please don't send any
 pleading requests. I also need to point out there is a non-zero
-probability that we won\'t be able to use all the submissions we have.
+probability that we won't be able to use all the submissions we have.
 Please be aware that the Program Committee will work very hard to
 accommodate as many presentations as possible but there may be some
 disappointment. For this, I apologize in advance. I may also be
-contacting author\'s over the coming weeks for further information or to
-discuss issues that may arise during the Committee\'s deliberations. So
+contacting author's over the coming weeks for further information or to
+discuss issues that may arise during the Committee's deliberations. So
 make sure that
-[iassist08\@gmail.com](mailto:%20iassist08@gmail.com "iassist08@gmail.com")
-doesn\'t get caught by your spam blocker! Finally, in case you didn\'t
+[iassist08@gmail.com](mailto:%20iassist08@gmail.com "iassist08@gmail.com")
+doesn't get caught by your spam blocker! Finally, in case you didn't
 notice the announcement, the [conference
 website](http://iassist08.stanford.edu "IASSIST 2008 Conference site")
-is up and running! Please check it regularly as we\'ll be updating
+is up and running! Please check it regularly as we'll be updating
 things as necessary.
 
 Suggestions, questions and comments are always welcome! The more

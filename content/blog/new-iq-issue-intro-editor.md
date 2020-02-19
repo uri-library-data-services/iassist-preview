@@ -15,15 +15,15 @@ the web:
 
 Winter came late in Denmark, but suddenly the situation was normal: snow
 came and traffic stopped. And now 14 days after spring was here in
-March. I sat outside in the sun reading articles. Still it\'s more
+March. I sat outside in the sun reading articles. Still it's more
 difficult to write articles outside, we are waiting for the improvements
 of the computer screens. However, some people have stayed inside to
 write articles for the IASSIST Quarterly. They are presented below.
 
-The first article \"Microdata Information System - MISSY\" is written by
+The first article "Microdata Information System - MISSY" is written by
 Andrea Janssen and Jeanette Bohr from Centre for Survey Research and
 Methodology, ZUMA at Mannheim in Germany. The MISSY was presented at the
-session on \"Effective Strategies for Metadata Management\" by Andrea
+session on "Effective Strategies for Metadata Management" by Andrea
 Janssen, Jeanette Bohr, and Joachim Wackerow at the IASSIST conference
 in April 2006 in Ann Arbor. The data behind or in the system is the
 German microcensus for 1995 and 1997 containing a sample of one percent
@@ -40,26 +40,26 @@ for researchers in Germany. However, all are free to gain from the
 experiences presented in the article.
 
 This second article was also presented at the IASSIST 2006 conference in
-Ann Arbor, Michigan, at the session \"Innovations in Data
-Dissemination\". The title of the article is \"User-Centered Design and
+Ann Arbor, Michigan, at the session "Innovations in Data
+Dissemination". The title of the article is "User-Centered Design and
 Innovation in the Sociometrics Social Science Electronic Data Library
-(SSEDL)\". The authors Josefina J. Card, Tamara Kuhn, and Thomas Wells
+(SSEDL)". The authors Josefina J. Card, Tamara Kuhn, and Thomas Wells
 are all at Sociometrics Corporation. The article describes the
 Sociometrics Data Archives SSEDL (the Social Science Electronic Data
 Library) as being a rich source of data for those in the public health,
 medical, nursing, social work, and social science professions. Datasets
 comes with several description files for SAS and SPSS. This is the
-\"product package\". Purchasers can acquire data on CD-ROM or download
+"product package". Purchasers can acquire data on CD-ROM or download
 from a web site and downloading have had high rise in usage. In order to
 help users identify relevant datasets Sociometics have launched a topic
-based drill down system showing \"areas of richness\" which helps users
+based drill down system showing "areas of richness" which helps users
 identify and reach datasets and variables and the documentation behind.
 
-The last pages are the \"Overview of a Proposed Standard for the
-Scholarly Citation of Quantitative Data\" by Micah Altman and Gary King.
+The last pages are the "Overview of a Proposed Standard for the
+Scholarly Citation of Quantitative Data" by Micah Altman and Gary King.
 This is an extended abstract summarizing a proposed standard for
 citation. This was presented at the IASSIST 2006 conference in Ann Arbor
-at the session \"New Standards in Statistics and Data Citations\" by
+at the session "New Standards in Statistics and Data Citations" by
 Micah Altman, Harvard University. Micah Altman is Associate Director,
 Harvard-MIT Data Center & Senior Research Scientist , Institute for
 Quantitative Social Science; Harvard University. Gary King is David
@@ -69,9 +69,9 @@ citations should include author(s), date of publishing the data set, and
 the data set title. These fields have been discussed earlier during the
 last close to 50 years of documentation of data sets; and the fields are
 not so unambiguous now not to be discussed further. For instance a great
-many people can be called \"authors\" in the production of a data set,
+many people can be called "authors" in the production of a data set,
 and the same data set can have several other relevant dates attached
-besides \"publishing date\". The authors recommend using the DDI
+besides "publishing date". The authors recommend using the DDI
 elements but their main business is to propose some novel fields that
 are directly linked to the use of modern technology. First of all a
 Unique Global Identifier. The authors mention a naming resolution

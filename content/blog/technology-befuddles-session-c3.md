@@ -15,17 +15,17 @@ managed to kill **3** laptops and still do **4** outstanding
 presentations. The room was too hot and too crowded but the attendees
 were patient, enthusiastic and even provided some tech support!!
 
-Paul Bern was the lucky presenter - the laptop didn\'t reallly crash
+Paul Bern was the lucky presenter - the laptop didn't reallly crash
 until he was done explaining how to make Google work better for us and
 help us to help other folks find data. I propose that IASSISTers who do
 create CSEs for data exploration link their CSEs together to really
 harness the power of our community. Good job Paul!
 
-The meltdown began with the next presenter\....ME! Apparently it is true
-that \"everything is San\'s fault\" because the chaos begin in the
+The meltdown began with the next presenter....ME! Apparently it is true
+that "everything is San's fault" because the chaos begin in the
 middle of my presentation and plagued us the rest of the session! I
-killed the first laptop and didn\'t even get to show off the cool RSS
-stuff we\'ve been working on. Therefore, I will totally abuse my postion
+killed the first laptop and didn't even get to show off the cool RSS
+stuff we've been working on. Therefore, I will totally abuse my postion
 as blog editor and give the links for interested folks to check out for
 themselves. Unless you really like looking at XML, I recommend using
 IE7, Firefox 2.0 or an RSS reader to check these out but here they are:
@@ -58,7 +58,7 @@ developed in separate languages rather than multiple translations of a
 single language site. This was also the first IASSIST presentation that
 I can recall that emphasized usability in a website - which made my
 colleague, Meredith the Usability Guru, very happy. We were also
-reminded that users are IMPATIENT and that we can\'t give them what they
+reminded that users are IMPATIENT and that we can't give them what they
 want fast enough no matter the delivery speed. The powerpoint eventually
 guided us to the end of the talk - good tech support Tuomas!!
 
@@ -82,7 +82,7 @@ do some assisting!
 So a major round of applause for all of us who made through the 3 laptop
 circus that was session C3. A standing ovation to our session chair Anna
 Bombak who kept her cool, kept us on track and made the best use of our
-technology downtime to handle questions and comments. I\'m learning
+technology downtime to handle questions and comments. I'm learning
 **lots** of things to pay attention to as program chair for next year!
 
 Submitted by San Cannon

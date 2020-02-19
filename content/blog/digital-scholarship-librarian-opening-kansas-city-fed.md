@@ -19,7 +19,7 @@ answer any questions.
 
 San Cannon
 
-sandra.cannon\@kc.frb.org
+sandra.cannon@kc.frb.org
 
 To apply:  https://frb.taleo.net/careersection/jobdetail.ftl?job=244803
 

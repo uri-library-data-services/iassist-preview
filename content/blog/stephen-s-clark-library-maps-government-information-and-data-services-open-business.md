@@ -19,7 +19,7 @@ Check out the announcement of the grand opening festivities in the
 [Record
 Update](http://www.ur.umich.edu/update/archives/111130/clark "UMich Record") (a
 publication of the Office of the Vice President for Communications at
-the University of Michigan) and don\'t miss the brand new website of the
+the University of Michigan) and don't miss the brand new website of the
 [Setphen S. Clark
 Library](http://www.lib.umich.edu/clark-library "UMich Clark Library")! 
 

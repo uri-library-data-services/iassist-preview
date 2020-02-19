@@ -17,7 +17,7 @@ from each other. Patterned after the successful European DDI conference
 contributed presentations. This conference should be of interest to both
 researchers and data professionals in the social sciences and other
 disciplines. Training sessions will follow the conference. One focus of
-the first year\'s conference will be on the use of DDI by individual
+the first year's conference will be on the use of DDI by individual
 research teams through the data lifecycle.  
 
 Please note that thanks to the generous support of the [Alfred P. Sloan
@@ -29,7 +29,7 @@ registrations for graduate students are available.
 Our keynote speaker will be Dr. [Jay
 Greenfield](http://www.ipsr.ku.edu/naddi/JayGreenfield.shtml) of Booz
 Allen Hamilton where he is the semantic architect for a DDI Lifecycle
-based metadata system that supports the National Children\'s Study
+based metadata system that supports the National Children's Study
 (NCS).
 
  

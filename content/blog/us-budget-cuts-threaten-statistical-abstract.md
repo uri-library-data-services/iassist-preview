@@ -13,7 +13,7 @@ When the big news broke last month that the US Census Bureau is
 cuts](http://www.psc.isr.umich.edu/pscinfoserv/?p=1814) that would lead
 to the demise of the Statistical Compendia Branch, including the beloved
 *Statistical Abstract*, the library listservs lit up with concern. 
-It\'s not too late to take action if you haven\'t already notified your
+It's not too late to take action if you haven't already notified your
 representatives about this issue.  There are now several venues where
 you can add your voice:
 
@@ -32,5 +32,5 @@ Journal](http://www.libraryjournal.com/lj/home/889924-264/statistical_abstract_f
 Interestingly, the LJ article references commentators who believe that
 Data.gov could be a viable replacement for the *Stat Ab* (which I
 refuted), but even the [future of
-Data.gov](http://sunlightfoundation.com/savethedata/) isn\'t necessarily
+Data.gov](http://sunlightfoundation.com/savethedata/) isn't necessarily
 secure.

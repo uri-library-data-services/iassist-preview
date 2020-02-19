@@ -10,7 +10,7 @@ draft = "false"
 +++
 The IASSIST Fellows Program is now accepting applications for financial
 support to attend the IASSIST 2012 conference in Washington
-\[[http://www.iassist2012.org/\]](http://www.iassist2012.org/%5d), from
+[[http://www.iassist2012.org/]](http://www.iassist2012.org/%5d), from
 data professionals from countries with emerging economies who are
 developing and managing data infrastructures at their home institutions.
 

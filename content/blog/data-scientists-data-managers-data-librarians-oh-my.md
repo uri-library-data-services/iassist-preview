@@ -30,8 +30,8 @@ they do for researchers vis a vis working with data.
 
  
 
-It was the NSF/NSB who first drew attention to the plight of \"data
-scientists\" and the poorly developed career paths of researchers who
+It was the NSF/NSB who first drew attention to the plight of "data
+scientists" and the poorly developed career paths of researchers who
 specialise in working with data within research groups in their
 *Long-Lived Digital Data Collections* report in 2005. This study also
 examined the situation of specialists working in domain-specific data
@@ -44,7 +44,7 @@ libraries to get further involved with research data curation.
 
  
 
-The current report draws on that as well as Liz Lyon\'s UK
+The current report draws on that as well as Liz Lyon's UK
 JISC-commissioned report in 2007 on *Dealing with data: roles,
 responsibilities and relationships*.
 

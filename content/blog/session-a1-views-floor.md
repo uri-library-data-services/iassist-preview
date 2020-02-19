@@ -81,7 +81,7 @@ include creating bookmark lists accessible from anywhere, using tag
 tagged the same items and access to their lists. (Major presenter tip
 here: Think about all those neat links sent to you by colleagues that
 are just languishing in your mail inboxes when you could be really
-\*using\* them. Now why didn't \*I\* think of that?) The presenters
+*using* them. Now why didn't *I* think of that?) The presenters
 emphasized the value of these resources for collaborative work among
 students. Trinity College [www.trincoll.edu](http://www.trincoll.edu/)
 has incorporated the ability to post items to a user's del.icio.us

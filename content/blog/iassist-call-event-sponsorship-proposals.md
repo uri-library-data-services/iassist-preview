@@ -58,7 +58,7 @@ Form](https://docs.google.com/forms/d/e/1FAIpQLSdMVdYNWBzt-OS0BPb3E2KZkrJRIUcMhL
 Notification of sponsorship awards will be by Friday, Feb 3 2017. The
 number and monetary extent of awarded sponsorships will depend on the
 number and quality of applications received. Individual sponsorship
-requests may range from \$0 USD (request for mentorship only) to \$2,000
+requests may range from $0 USD (request for mentorship only) to $2,000
 USD.
 
 Please direct questions to Hailey Mooney, IASSIST Membership Chair

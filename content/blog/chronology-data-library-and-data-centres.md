@@ -26,8 +26,8 @@ obsession comes with the trade. ; )
 
 There were many colleagues that asked for all the information to be
 compiled and shared. Thus I have prepared an initial google sheet titled
-\"[Chronology of data libraries and data
-services](https://docs.google.com/spreadsheets/d/1qmC_z50UDHh3Jwdlu6wGrtz1xjdfumBaad6P6cUpBdY/edit?usp=sharing "Chronology of data libraries and data centres")\"
+"[Chronology of data libraries and data
+services](https://docs.google.com/spreadsheets/d/1qmC_z50UDHh3Jwdlu6wGrtz1xjdfumBaad6P6cUpBdY/edit?usp=sharing "Chronology of data libraries and data centres")"
 with the information from all responses.
 
 I have added a few extra fields such as country or type of service but

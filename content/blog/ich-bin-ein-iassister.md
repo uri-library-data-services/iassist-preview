@@ -14,21 +14,21 @@ hosted the [39th Annual Conference of the International Association for
 Social Science Information Service and
 Technology](http://www.iassist2013.org/iassist-2013-home/ "IASSIST 2013"),
 aka
-[\#iassist2013](https://twitter.com/search?q=%23iassist2013&src=typd "IASSIST 2013 tweets")
+[#iassist2013](https://twitter.com/search?q=%23iassist2013&src=typd "IASSIST 2013 tweets")
 
 IASSIST conferences provide an overview of what's happening in
 information technology and data services and allow exchange of ideas
 between participants working in different backgrounds - from social
 science and humanities to information and computer science. The aim of
-this year\'s event was to help us move closer to the dream of technical
+this year's event was to help us move closer to the dream of technical
 and organizational measures that make research data discoverable and
 accessible.
 
 Two-hundred and eighty five participants were welcomed to Cologne by
 GESIS President York Sure-Vetter ahead of a program of workshops,
 presentations, posters and discussions around this year's topic of
-\"Data Innovation: Increasing Accessibility, Visibility, and
-Sustainability\".
+"Data Innovation: Increasing Accessibility, Visibility, and
+Sustainability".
 
 The first day of the conference offered eight
 [workshops](http://www.iassist2013.org/program/workshops/ "IASSIST 2013 Workshops"),
@@ -44,8 +44,8 @@ Over the following three days there were a total of three plenaries and
 sessions](http://www.iassist2013.org/program/sessions/ "IASSIST 2013 Concurrent Sessions") organized
 in three tracks.
 
-Presentations and discussions were concentrated in the track \"Research
-Data Management\" (RDM). This embraced a spectrum of topics related to
+Presentations and discussions were concentrated in the track "Research
+Data Management" (RDM). This embraced a spectrum of topics related to
 all aspects of the data lifecycle. Emphasis was on policies, strategies
 and tools to support researchers in managing their research data. In
 addition presentations demonstrated various supporting collaborative
@@ -57,7 +57,7 @@ of how responsible use of complex or sensitive data can be facilitated.
 Finally sessions in the RDM track dedicated themselves to the subject of
 data curation and long-term preservation.
 
-The track \"Data Developers and Tools\" presented a technical point of
+The track "Data Developers and Tools" presented a technical point of
 view with offerings from those working in application development --
 seasoning their work with a good dash of metadata. Questions were asked
 and solutions presented on the topics of interoperability,
@@ -67,7 +67,7 @@ applications have been introduced to simplify the creation and
 management of DDI metadata or provide value-added services on setting
 the standard up.
 
-The track \"Data Public Services/Librarianship\" confronted aspects of
+The track "Data Public Services/Librarianship" confronted aspects of
 access to research data. Here, development of data services from
 country-specific perspective (Bosnia and Herzegovina, Serbia, Croatia)
 was highlighted, but the track also managed to look at specific data
@@ -78,7 +78,7 @@ be published in the coming weeks on the IASSIST website providing you an
 opportunity to plunge into the world IASSIST 2013. Let's do it all again
 in Toronto for IASSIST 2014!
 
-Astrid Recker, Laurence Horton, Alexia Katsanidou\
+Astrid Recker, Laurence Horton, Alexia Katsanidou
 [GESIS Archive and Data Management Training
 Center ](http://www.gesis.org/en/archive-and-data-management-training-and-information-centre/training-center-home/ "GESIS Archive and Data Management Training Center")
 

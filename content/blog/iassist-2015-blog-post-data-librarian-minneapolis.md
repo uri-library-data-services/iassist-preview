@@ -8,7 +8,7 @@ oldpath = "/blog/iassist-2015-blog-post-data-librarian-minneapolis"
 date = "2015-06-15 08:23:30 -0700"
 draft = "false"
 +++
-"Hey Charlie I\'m pregnant and living on 9th Street". Wait. I don't know
+"Hey Charlie I'm pregnant and living on 9th Street". Wait. I don't know
 anyone called Charlie. I'm not pregnant and this isn't 9th Street. I'm
 living in a dorm room at University of Minnesota contemplating how I
 managed to end up back in dorm living before succumbing to assisted
@@ -54,11 +54,11 @@ goals of supporting high quality meaningful data.
 [Andrew Johnson](http://iassist2015.pop.umn.edu/program/plenaries#p3),
 Minneapolis city councillor and assuredly not the [17th President of the
 United States](https://en.wikipedia.org/?title=Andrew_Johnson),
-recounted his campaign platform of using open data in government \--
+recounted his campaign platform of using open data in government --
 another bridge built, and one I hope connects governments to electorates
 and - ultimately - better governance. Cllr. Johnson's session also
 revealed a set of cultural challenges familiar to anyone who's
-interviewed researchers on data sharing: "\[It\] will be used to make us
+interviewed researchers on data sharing: "[It] will be used to make us
 look bad", "people could do anything with it", and one I haven't seen
 yet in data sharing excuses
 [bingo](http://data.dev8d.org/devbingo/bingo.php?n=1&w=4&h=4&title=%22Open+Data+Excuse%22+Bingo&tag=%23openDataExcuses&statements=Terrorists+will+use+it%0D%0AData+Protection%0D%0ALawyers+want+a+custom+License%0D%0APoor+Quality%0D%0AThieves+will+use+it%0D%0AWe%27ll+get+spam%0D%0AIt%27s+not+very+interesting%0D%0AIt%27s+too+complicated%0D%0AThere%27s+no+API%0D%0AWhat+if+we+want+to+sell+it+later%0D%0AI+don%27t+mind%2C+but+someone+else+might%0D%0AIt%27s+too+big%0D%0AThere%27s+already+a+project+to...%0D%0APeople+may+misinterpret+the+data%0D%0AWe+might+want+to+use+it+in+a+paper%0D%0AWe+will+get+too+many+enquiries&rules=%3Cp%3EFor+open+data+teams%3B+print+out+a+copy+and+put+it+on+your+office+wall.+Cross+out+each+excuse+people+give+you.+There+are+no+prizes%2C+but+you+can+tweet+%22bingo!+%23openDataExcuses%22+if+you+think+it+might+make+you+feel+better*.%3C%2Fp%3E%0D%0A%0D%0A%3Cp+style%3D%27font-size%3A80%25%27%3E*+it+won%27t%3C%2Fp%3E):
@@ -137,7 +137,7 @@ knowledge and experience in these areas.
 
 Reasons a secure data room was requested are essentially a) graduate
 students do not have their own space in which to work with sensitive
-data, and b) the supplier\'s request data only be provided with a
+data, and b) the supplier's request data only be provided with a
 consummate level of security provided.
 
 Researchers need help with restricted data: facilities to ensure data
@@ -188,10 +188,10 @@ I'm sure they were great. I just didn't go to
 
 ### **And finally...**
 
-Amy West did the data viz job in capturing \#iassist15
+Amy West did the data viz job in capturing #iassist15
 [tweets](http://hawksey.info/tagsexplorer/?key=1P_gqaUTLhGucZXBJFTskuCzsHqO-RrARnfPwecg-7Kc&gid=400689247)
 While Kristin Briney's session notes became a work of
-[art](http://dx.doi.org/10.6084/m9.figshare.1439792)\*.
+[art](http://dx.doi.org/10.6084/m9.figshare.1439792)*.
 
 Slowly, surely, presentations will start to appear on the conference or
 IASSIST website. And of course in the end there was a
@@ -202,6 +202,6 @@ IASSIST website. And of course in the end there was a
 Next [year](http://iassist2016.org/) we move the show to Bergen, Norway.
 Oil, fish, Black Metal, and data. Join us!
 
-\* Briney, Kristin (2015): IASSIST 2015 - Whole Notebook of Sketchnotes.
+* Briney, Kristin (2015): IASSIST 2015 - Whole Notebook of Sketchnotes.
 figshare. <http://dx.doi.org/10.6084/m9.figshare.1439792> Retrieved
 10:55, Jun 11, 2015 (GMT)

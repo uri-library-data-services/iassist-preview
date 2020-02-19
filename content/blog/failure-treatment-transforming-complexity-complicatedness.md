@@ -99,7 +99,7 @@ turning your one-time presentation into a lasting contribution. Doing
 that after the event also gives you the opportunity of improving your
 work after feedback. We encourage you to login or create an author login
 to https://www.iassistquarterly.com (our Open Journal System
-application). We permit authors \'deep links\' into the IQ as well as
+application). We permit authors 'deep links' into the IQ as well as
 deposition of the paper in your local repository. Chairing a conference
 session with the purpose of aggregating and integrating papers for a
 special issue IQ is also much appreciated as the information reaches
@@ -110,7 +110,7 @@ look at the instructions and layout:
 
 <https://www.iassistquarterly.com/index.php/iassist/about/submissions>
 
-Authors can also contact me directly via e-mail: kbr\@sam.sdu.dk. Should
+Authors can also contact me directly via e-mail: kbr@sam.sdu.dk. Should
 you be interested in compiling a special issue for the IQ as guest
 editor(s) I will also be delighted to hear from you.
 

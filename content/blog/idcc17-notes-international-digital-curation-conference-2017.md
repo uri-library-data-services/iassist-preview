@@ -11,8 +11,8 @@ draft = "false"
 For the third time IASSIST sponsored the International Digital Curation
 Conference. This time allowing three students, one each from
 Switzerland, Korea, and Canada to attend the conference, which titled
-itself \"Upstream, Downstream: embedding digital curation workflows for
-data science, scholarship and society\".
+itself "Upstream, Downstream: embedding digital curation workflows for
+data science, scholarship and society".
 
 Data science was a strong theme of the three keynote presentations, in
 particular how curation and data management are an active, integrated,
@@ -28,7 +28,7 @@ manage and find data. [Alice
 Daish](http://www.dcc.ac.uk/files/blog/DataDrivenMuseumsAliceDaishIDCC17.pdf)
 showed her work as a data scientist at the British Museum, with the goal
 of enabling data informed decision-making. This involved identifying
-data \"silos\" and \"wrangling\" data in to exportable formats, along
+data "silos" and "wrangling" data in to exportable formats, along
 with zealous use and promotion of R, but also thinking about the way
 data is communicated to management. [Chris
 Williams](http://www.dcc.ac.uk/files/blog/idcc17williams.pdf)
@@ -40,13 +40,13 @@ anomalies to cleaning untidy and inconsistent metadata and coding. The
 aim is to automate as much of this as possible with the [Automatic
 Statistician](https://www.automaticstatistician.com/index/) project.
 
-In a session on data policies, University of Toronto\'s [Dylanne
+In a session on data policies, University of Toronto's [Dylanne
 Dearborn and Leanne
 Trimble](http://www.dcc.ac.uk/files/blog/TrimbleDearbornIDCC2017-2.pdf)
 showed how libraries can use creative thinking to matching publication
 patterns against journal data policies in providing support. [Fieke
 Schoots](http://www.dcc.ac.uk/files/blog/IDCC17_Schoots_20170222.pdf)
-outlined the approach at Leiden which includes requirements from PhD\'s
+outlined the approach at Leiden which includes requirements from PhD's
 to state location of research data before their defence can take place
 and twenty year retention for Data Management Plans. Switching to
 journals, [Ian
@@ -91,15 +91,15 @@ Darch](http://www.dcc.ac.uk/files/blog/Darch%20IDCC.pdf)
 also hit on the theme of controlling groups in curating data. The
 [Galaxy Zoo](https://www.galaxyzoo.org/) project found there were
 lessons to learn about the behaviour of volunteers, particularly the
-negative impact of a \"league table\" credit system in retaining
+negative impact of a "league table" credit system in retaining
 contributors, and how volunteers expected to only contribute
 classifications were in some cases doing data science work in noticing
 unusual objects.
 
 A topic of relevance to social science focused curation is sensitive
 data. [Debra Hiom](http://www.dcc.ac.uk/webfm_send/2451) introduced
-University of Bristol\'s method of providing safe access to sensitive
-data. Once again, it\'s resource intensive - requiring a committee
+University of Bristol's method of providing safe access to sensitive
+data. Once again, it's resource intensive - requiring a committee
 classification of data into levels of access and process reviews to
 ensure applications are genuine. However the result is that data that
 cannot be open can be shared responsibly. [Sebastian
@@ -110,9 +110,9 @@ States. [Elizabeth Hull](http://www.dcc.ac.uk/webfm_send/2450) (Dryad)
 presented on developing an ethical framework for curating social media
 data. A common perception is social media posts are fair use, if made
 public. However, from an ethical perspective posters may not understand
-their \"data\" is being collected for research purposes and users need
-to know that use of @ or \# on Twitter means they are inviting
-involvement and sharing in wider discussions. Hull offered a \"STEP\"
+their "data" is being collected for research purposes and users need
+to know that use of @ or # on Twitter means they are inviting
+involvement and sharing in wider discussions. Hull offered a "STEP"
 approach as way to deal with social media data, balancing benefit of
 preservation and sharing against risk of harm and reasonable consent
 from research subjects.

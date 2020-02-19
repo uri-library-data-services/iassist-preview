@@ -8,7 +8,7 @@ oldpath = "/blog/icpsrs-myron-gutmann-head-nsf-social-behavioral-and-economic-sc
 date = "2009-07-28 12:11:03 -0700"
 draft = "false"
 +++
-[U-M\'s Gutmann to head NSF Social, Behavioral and Economic Sciences
+[U-M's Gutmann to head NSF Social, Behavioral and Economic Sciences
 Directorate,](http://www.ns.umich.edu/htdocs/releases/story.php?id=7250)
 University of Michigan News Service, July 27, 2009.
 
@@ -18,4 +18,4 @@ University of Michigan News Service, July 27, 2009.
 > U-M Institute for Social Research (ISR). He begins his NSF position
 > Nov. 2.
 
-\- Jim Jacobs
+- Jim Jacobs

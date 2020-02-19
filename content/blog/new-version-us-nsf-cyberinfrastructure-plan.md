@@ -8,9 +8,9 @@ oldpath = "/blog/new-version-us-nsf-cyberinfrastructure-plan"
 date = "2006-02-04 11:41:29 -0700"
 draft = "false"
 +++
-NSF\'S CYBERINFRASTRUCTURE VISION FOR 21ST CENTURY DISCOVERY See:
+NSF'S CYBERINFRASTRUCTURE VISION FOR 21ST CENTURY DISCOVERY See:
 
-http://www.nsf.gov/od/oci/ci\_v5.pdf
+http://www.nsf.gov/od/oci/ci_v5.pdf
 
 Some sections of interest: p. 8: Support the development of the
 computing professionals, interdisciplinary teams and new organizational
@@ -21,7 +21,7 @@ underrepresented groups. NSF will continue to invest in understanding
 how participants in its research and education communities, as well as
 the scientific workforce, can use CI. For example, virtual organizations
 empower communities of users to interact, exchange information and
-access and share resources through tailored interfaces. Some of NSF\'s
+access and share resources through tailored interfaces. Some of NSF's
 investments will focus on appropriate mechanisms or structures for use,
 while others will focus on how best to train future users of CI. NSF
 will take advantage of the emerging communities associated with CI that
@@ -64,12 +64,12 @@ implementation. Data collections are managed by organizations and
 individuals with the necessary expertise to structure them and to
 support their effective use.
 
-p\. 17-19 Also contains references to ICPSR, RLG and NARA, etc. and
+p. 17-19 Also contains references to ICPSR, RLG and NARA, etc. and
 relationship to CI.
 
-p\. 20 Principles stated
+p. 20 Principles stated
 
-and so on\....
+and so on....
 
 This May at our conference we will have a number of sessions, including
 an opening plenary address by Dan Atkins, related to the issues raised

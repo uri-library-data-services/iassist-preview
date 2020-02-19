@@ -9,12 +9,12 @@ date = "2005-08-16 11:22:59 -0700"
 draft = "false"
 +++
 **Freakonomics** by Steven Levitt and Stephen Dubner provides an
-economist\'s analysis of some social issues not normally associated with
+economist's analysis of some social issues not normally associated with
 economics, such as, the causes of crime, the impact of parenting on
 child development, and the power of information in combating racial
 discrimination. This review identifies four common themes running
 throughout the book and offers a critical assessment of the strenghts
-and weaknesses of this book from one data librarian\'s
+and weaknesses of this book from one data librarian's
 perspective.Following the suggestion of two IASSIST friends, I added
 **Freakonomics: A Rogue Economist Explores the Hidden Side of
 Everything** by Steven Levitt and Stephan Dubner to my vacation reading
@@ -28,7 +28,7 @@ who in 2003 wrote an article about Levitt for **The New York Times
 Magazine**. Together they tell several stories based on economic
 analyses that challenge conventional wisdom regarding these social
 issues. What is freakonomics? They use this term to describe their
-application of economic analysis to any \'freakish\' curiosity that
+application of economic analysis to any 'freakish' curiosity that
 catches their attention.
 
  
@@ -49,10 +49,10 @@ causality.
 
  
 
-> \[I\]f you just look at raw correlations between police and crime, you
+> [I]f you just look at raw correlations between police and crime, you
 > will find that when there are more police, there tends to be more
-> crime. That doesn\'t mean, of course, that the police are causing the
-> crime \... (p. 126)
+> crime. That doesn't mean, of course, that the police are causing the
+> crime ... (p. 126)
 
  
 
@@ -82,19 +82,19 @@ schools that exemplifies in their eyes an ideal for social research.
 > a natural experiment on a grand scale. This is hardly the goal in the
 > mind of the Chicago school officials who conceived the lottery. But
 > when viewed in this way, the lottery offers a wonderful means of
-> measuring just how much school choice \-- or, really, a better school
-> \-- truly matters (p. 158).
+> measuring just how much school choice -- or, really, a better school
+> -- truly matters (p. 158).
 
  
 
-A final interwoven theme is the authors\' reliance on data, although at
+A final interwoven theme is the authors' reliance on data, although at
 times they mistakenly use information and data interchangeably. They
-assert, \"*If you learn to look at data in the right way, you can
-explain riddles that otherwise might have seemed impossible* (p. 14).\"
-You find them often asking, \"*What do the data reveal*?\" In the
+assert, "*If you learn to look at data in the right way, you can
+explain riddles that otherwise might have seemed impossible* (p. 14)."
+You find them often asking, "*What do the data reveal*?" In the
 tradition of one tribe of economists, measurement is paramount:
-\"*Knowing what to measure and how to measure it makes a complicated
-world much less* (p. 14).\"
+"*Knowing what to measure and how to measure it makes a complicated
+world much less* (p. 14)."
 
  
 

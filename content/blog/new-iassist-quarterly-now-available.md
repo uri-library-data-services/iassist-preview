@@ -95,7 +95,7 @@ as the information reaches many more people than the session
 participants, and will be readily available on the IASSIST website at
 <http://www.iassistdata.org>.
 
-Authors are very welcome to take a look at the instructions and layout:\
+Authors are very welcome to take a look at the instructions and layout:
 <http://iassistdata.org/iq/instructions-authors>.
 
 Authors can also contact me via e-mail: <kbr@sam.sdu.dk>. Should you be

@@ -8,13 +8,13 @@ oldpath = "/blog/data-related-webinars-available"
 date = "2015-07-27 11:08:45 -0700"
 draft = "false"
 +++
-The [North Carolina Library Association\'s Government Resources
+The [North Carolina Library Association's Government Resources
 Section](http://www.nclaonline.org/government-resources) runs a webinar
 series. In addition to having [some data-related webinars on
 YouTube](https://www.youtube.com/playlist?list=PLB4ehI6iUJT7jFAEZJ7S7BizGQ93idnQ5),
 our upcoming August webinar may be of interest to IASSIST members.
 
-**Help! I'm an Accidental Government Information Librarian presents \...
+**Help! I'm an Accidental Government Information Librarian presents ...
 Accessing Datasets for the Data Curious**
 
 The Government Resources Section of the North Carolina Library
@@ -40,7 +40,7 @@ especially enjoys looking for connections between research data services
 and other areas of librarianship. Her MA of LIS is from the University
 of Wisconsin, Madison.
 
-We will meet for Session \#49, online on Wednesday, August 12 from 12:00
+We will meet for Session #49, online on Wednesday, August 12 from 12:00
 -- 1:00 p.m. (Eastern). Please RSVP for the session by August 12 at
 10:00 am using this link:  <http://tinyurl.com/grs-session49>
 

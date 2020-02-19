@@ -56,7 +56,7 @@ DDI Version 3 model and incorporates a Knowledge Transfer Cycle as a
 distinct stage within the research cycle. The data life cycle occurs
 throughout the stages of the research cycle. Source: Humphrey, Charles.
 "e-Science and the Life Cycle of Research" (2006)
-[http://datalib.library.ualberta.ca/\~humphrey/lifecycle-science060308.doc](http://datalib.library.ualberta.ca/%7Ehumphrey/lifecycle-science060308.doc)
+[http://datalib.library.ualberta.ca/~humphrey/lifecycle-science060308.doc](http://datalib.library.ualberta.ca/%7Ehumphrey/lifecycle-science060308.doc)
 
  
 
@@ -106,10 +106,10 @@ life cycle diagrams in: "Information Life Cycle and Curation." (2005).
 Liz Lyon writes about the "concept that research and learning processes
 are cyclical in nature, and that subsequent outputs which contribute to
 knowledge, are based on the continuous use and reuse of data and
-information." \"eBank UK: Building the links between research data,
-scholarly communication and learning\" Ariadne, July 2003.
+information." "eBank UK: Building the links between research data,
+scholarly communication and learning" Ariadne, July 2003.
 <http://www.ariadne.ac.uk/issue36/lyon/intro.html>
 
  
 
-\- Contributed by Ann Green
+- Contributed by Ann Green

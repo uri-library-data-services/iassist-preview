@@ -13,7 +13,7 @@ By, Ms. Winny Nekesa Akullo
 ![](/files/blog/screenshot_2019-05-24_at_11.36.33.png "Some of the Participants at the Data Literacy Training Workshop held on 4 th May 2019, Kampala, Uganda"){.imagecache-inline_horizontal
 width="481" height="200"}
 
-Through its Membership Committee\'s event sponsorship program, IASSIST
+Through its Membership Committee's event sponsorship program, IASSIST
 recently sponsored a one day pre- Conference Training Workshop on Data
 Literacy for the Association of Parliamentary Libraries of Eastern and
 Southern Africa (APLESA). The workshop aimed to help librarians acquire

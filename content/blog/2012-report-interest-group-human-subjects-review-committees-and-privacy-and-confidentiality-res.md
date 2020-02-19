@@ -8,19 +8,19 @@ oldpath = "/blog/2012-report-interest-group-human-subjects-review-committees-and
 date = "2012-06-19 16:02:15 -0700"
 draft = "false"
 +++
-For those of you exploring issues of human subjects, privacy and confidentiality, this group may be of interest.  In the coming year we hope to put together some resources and guides for those working with confidential data or human subjects related work.  Please contact libbie\@ucla.edu if you are \"interested\"!\
-**\
-**\
+For those of you exploring issues of human subjects, privacy and confidentiality, this group may be of interest.  In the coming year we hope to put together some resources and guides for those working with confidential data or human subjects related work.  Please contact libbie@ucla.edu if you are "interested"!
+**
+**
 **Interest Group on Human Subjects Review Committees and Privacy and Confidentiality in Research**
 :   This group will focus on issues related to conducting research using
     human subjects in the social sciences. Particular areas of focus and
     discussion will include, but are not limited to the following:
 :   **·** The role and function of the human subjects review board as
-    social science research enters the digital age.\
+    social science research enters the digital age.
     **·** The human subject review influences and effects on data
-    management, dissemination, curation and preservation practices.\
+    management, dissemination, curation and preservation practices.
     **·** Issues related to protection of human subjects laws and
-    policies established in [IASSIST]{.il} member countries.\
+    policies established in [IASSIST]{.il} member countries.
     **·** Issues related to privacy and confidentiality of human
     subjects in research.
 :   We will seek out and take advantage of opportunities for education,
@@ -61,5 +61,5 @@ there is someone else who would like to become Chair, the current Chair
 is willing to continue in this role.  The Interest Group would welcome
 suggestions for further activities from the AC if any are forthcoming.
 
-Respectfully submitted,\
+Respectfully submitted,
 Libbie Stephenson, Chair

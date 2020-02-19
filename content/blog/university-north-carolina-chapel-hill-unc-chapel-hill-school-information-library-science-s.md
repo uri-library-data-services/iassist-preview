@@ -8,7 +8,7 @@ oldpath = "/resources/university-north-carolina-chapel-hill-unc-chapel-hill-scho
 date = "2011-04-27 08:12:44 -0700"
 draft = "false"
 +++
-[UNC-Chapel Hill\'s Digital Curation Curriculum
+[UNC-Chapel Hill's Digital Curation Curriculum
 (DigCCurr)](http://www.ils.unc.edu/digccurr/) offers intensive training
 and symposia on digital curation for researchers and other
 professionals. The current funded project, DigCCurr II, will host three

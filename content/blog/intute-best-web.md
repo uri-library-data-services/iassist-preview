@@ -15,14 +15,14 @@ and students to discover and access quality Internet resources. Intute
 exists to advance education and research by promoting the most
 intelligent use of the Internet.
 
-Caroline Williams, Executive Director of Intute said, \"the environment
+Caroline Williams, Executive Director of Intute said, "the environment
 in which we operate is rapidly changing. Issues of trust and quality are
 real concerns for our users, and we have responded to this by creating a
 new service which takes the best of the RDN and streamlines it into one
-easy to use interface.\" She explains, \"the Intute database makes it
+easy to use interface." She explains, "the Intute database makes it
 possible to discover the best and most relevant resources on the
 Internet. You can explore and discover trusted information, assured that
-it has been evaluated by subject specialists.\"
+it has been evaluated by subject specialists."
 
 Intute is hosted by MIMAS at The University of Manchester, and is a
 collaboration between a whole host of partners and contributors. At the
@@ -36,4 +36,4 @@ Intute is freely available at
 
 <http://www.intute.ac.uk>
 
-\- Contributed by Stuart Macdonald
+- Contributed by Stuart Macdonald

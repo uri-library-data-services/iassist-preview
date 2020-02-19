@@ -8,7 +8,7 @@ oldpath = "/resources/united-states-national-center-education-statistics-datalab
 date = "2010-08-02 09:36:52 -0700"
 draft = "false"
 +++
-The National Center for Education Statistics\'
+The National Center for Education Statistics'
 (NCES) [Datalab](http://nces.ed.gov/datalab/), introduced earlier this
 year by the United States Department of Education, provides a
 user-friendly entry to NCES data.  The home page, linked above, links to

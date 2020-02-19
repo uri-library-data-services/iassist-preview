@@ -14,7 +14,7 @@ University of Cincinnati. The theme of the conference was [Sharing
 Practices and Actions for Making Best Use of Organizational Knowledge in
 Libraries](https://sites.google.com/site/ifla2016km/).The conference
 took place as part of the International Federation of Library
-Associations\' (IFLA) annual conference held this year in Columbus,
+Associations' (IFLA) annual conference held this year in Columbus,
 Ohio, USA.
 
 The KM conference featured two keynote speakers: Valerie Forrestal,

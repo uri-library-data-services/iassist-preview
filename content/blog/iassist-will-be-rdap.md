@@ -15,6 +15,6 @@ post](http://www.asis.org/rdap/thank-you-iassist-2016/) from RDAP.
 
 Our VP, Jen Green, will be on the scene with promoting IASSIST at the
 [poster session](http://www.asis.org/rdap/program-2016/#poster). Be sure
-to stop by to say \"hi\" and pick up your very own IASSIST logo button. 
+to stop by to say "hi" and pick up your very own IASSIST logo button. 
 
 Looking forward to hearing the report back from RDAP!

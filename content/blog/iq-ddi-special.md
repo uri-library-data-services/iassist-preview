@@ -17,7 +17,7 @@ articles, which explore various projects related to DDI 3 and its
 enhanced features.
 
 The articles draw on previous presentations and papers created in
-connection with the 2009 "Expert Workshop on Implementation of DDI3 \--
+connection with the 2009 "Expert Workshop on Implementation of DDI3 --
 Advanced Topics" held in Wadern, Germany; the 2009 European DDI Users
 Group (EDDI) meeting held in Bonn, Germany; and the IASSIST conferences
 held in Tampere, Finland (2009) and Ithaca, New York, USA (2010).

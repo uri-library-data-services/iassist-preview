@@ -9,11 +9,11 @@ date = "2006-06-19 14:55:30 -0700"
 draft = "false"
 +++
 In their never ending quest for information, Jen, Tiffani and Paula
-would like to know about people\'s experiences cataloging data. Do you
+would like to know about people's experiences cataloging data. Do you
 use MARC format? Have you tried using DDI? At what level do you tend to
 catalog collections? How does it depart from cataloging traditional
 library matter? Enquiring minds want to know.
 
  
 
-\- Contributed by Jen Darragh
+- Contributed by Jen Darragh

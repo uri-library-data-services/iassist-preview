@@ -19,7 +19,7 @@ IASSIST will be emailed by the end of the day Monday, May 21.
 
  
 
-Please fill out in Google forms:\
-[https://docs.google.com/forms/d/e/1FAIpQLScyW2B9m8o5-6Z0D0FPdsTcqkOpUDk\_w\_u4WwuyIpDWgjAQJQ/viewform](https://owa.princeton.edu/owa/redir.aspx?C=iWbeCtaAAy3T4uWqAruft73WO4FK3gi53R5zm_G1r4GxUhuwXLrVCA..&URL=https%3a%2f%2fdocs.google.com%2fforms%2fd%2fe%2f1FAIpQLScyW2B9m8o5-6Z0D0FPdsTcqkOpUDk_w_u4WwuyIpDWgjAQJQ%2fviewform)
+Please fill out in Google forms:
+[https://docs.google.com/forms/d/e/1FAIpQLScyW2B9m8o5-6Z0D0FPdsTcqkOpUDk_w_u4WwuyIpDWgjAQJQ/viewform](https://owa.princeton.edu/owa/redir.aspx?C=iWbeCtaAAy3T4uWqAruft73WO4FK3gi53R5zm_G1r4GxUhuwXLrVCA..&URL=https%3a%2f%2fdocs.google.com%2fforms%2fd%2fe%2f1FAIpQLScyW2B9m8o5-6Z0D0FPdsTcqkOpUDk_w_u4WwuyIpDWgjAQJQ%2fviewform)
 Looking forward to the best IASSIST ever!   Bobray Bordelon
-bordelon\@Princeton.edu IASSIST 2018 Mentor Coordinator
+bordelon@Princeton.edu IASSIST 2018 Mentor Coordinator

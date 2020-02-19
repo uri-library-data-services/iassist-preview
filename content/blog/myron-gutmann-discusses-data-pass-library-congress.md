@@ -18,10 +18,10 @@ Alliance for the Social Sciences) project . (Running Time: 60 minutes)
 > Myron P. Gutmann, professor of history and director of the
 > Inter-university Consortium for Political and Social Research (ICPSR)
 > at the University of Michigan and the principal investigator of the
-> Data-PASS partnership with the Library\'s National Digital Information
+> Data-PASS partnership with the Library's National Digital Information
 > Infrastructure and Preservation Program (www.digitalpreservation.gov),
 > gives a briefing on how the project is acquiring and preserving
 > at-risk digital opinion polls, voting records, large-scale surveys and
 > other social science research data.
 
-\- jim jacobs
+- jim jacobs

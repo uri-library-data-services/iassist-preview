@@ -9,22 +9,22 @@ date = "2008-02-28 13:32:08 -0700"
 draft = "false"
 +++
 I took a long look at **[UNData](http://data.un.org/ "UNdata")** the
-other day and came away thinking \"pretty; looks functional; how does it
-relate to other UN products, esp. the ones we\'re paying for\". I sent
+other day and came away thinking "pretty; looks functional; how does it
+relate to other UN products, esp. the ones we're paying for". I sent
 those questions to the feedback address and Mr. Zoltan Nagy responded
-with the following helpful information. Thought I\'d share in case
-others had the same questions\...
+with the following helpful information. Thought I'd share in case
+others had the same questions...
 
 I took a long look at **[UNData](http://data.un.org/ "UNdata")** the
-other day and came away thinking \"pretty; looks functional; how does it
-relate to other UN products, esp. the ones we\'re paying for\". I sent
+other day and came away thinking "pretty; looks functional; how does it
+relate to other UN products, esp. the ones we're paying for". I sent
 those questions to the feedback address and Mr. Zoltan Nagy responded
-with the following helpful information. Thought I\'d share in case
-others had the same questions\...
+with the following helpful information. Thought I'd share in case
+others had the same questions...
 
  
 
-\"UNdata is the United Nations Data Access System which gives access to
+"UNdata is the United Nations Data Access System which gives access to
 current, relevant and reliable statistics for free. The service is
 provided by the United Nations to users of data around the world. It
 offers easy access to data compiled and produced by United Nations
@@ -32,7 +32,7 @@ agencies as well as other organizations.
 
  
 
-UNdata\'s main features are: - accessing different data sources through
+UNdata's main features are: - accessing different data sources through
 one interface, - searching data with keywords and browsing databases, -
 refining search results by filtering, and - customizing tables with
 features such as sorting, column selection and pivoting.
@@ -42,14 +42,14 @@ features such as sorting, column selection and pivoting.
 **UNdata and the UN Common Database (UNCDB)** UNdata is replacing the
 UNCDB. The new system goes beyond the concept of the UNCDB, starting
 from the way the data is stored and searched to the data presentation.
-Furthermore, the UNCDB only includes a small selection of UNSD\'s
+Furthermore, the UNCDB only includes a small selection of UNSD's
 extensive data collection, whereas UNdata will have broader data
 coverage from various international and national sources.
 
  
 
 The UNCDB series are currently available through UNdata under the new
-name \"Key indicators\". Please note that the Key indicator\'s scope has
+name "Key indicators". Please note that the Key indicator's scope has
 already been reduced, as some of the series have been included from the
 original data provider.
 
@@ -70,7 +70,7 @@ the search by partners and reporters to create mirror images.
  
 
 UNdata contains only around 40 million trade records only in 2 digit HS
-1992 classification and searchable only by reporters. \"
+1992 classification and searchable only by reporters. "
 
  
 

@@ -20,20 +20,20 @@ has been around for some time, the Google CSE has several nice features:
 -   Exclude sites from search results.
 -   Collaborate on the selection of the sites to search and exclude
 -   Customize the search results page
--   Add \"refinements\" that make it easy for users to refine search
+-   Add "refinements" that make it easy for users to refine search
     results
 -   Eliminate Google ads if hosted by a university, government agency,
     or non-profit
 
-There is a story about the service on eWeek: [Google Copies Rollyo\'s
+There is a story about the service on eWeek: [Google Copies Rollyo's
 Business Plan, Inserts
 AdSense](http://oraclewatch.eweek.com/blogs/google_watch/archive/2006/10/24/14133.aspx)
 (October 24, 2006 4:01 AM) by Steve Bryant. There will surely be lots
 more in the news soon.
 
-Has anyone else started experimenting with this? I\'d be interested in
+Has anyone else started experimenting with this? I'd be interested in
 working with a small group to start experimenting. If you are already
 doing something or would like to start, let me know. (jajacobs at
 ucsd.edu)
 
-\- Jim Jacobs
+- Jim Jacobs

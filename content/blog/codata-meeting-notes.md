@@ -10,7 +10,7 @@ draft = "false"
 +++
 The US National Committee for CODATA and its subgroup on Permanent
 Access to Scientific Data met on July 13 and 14 at the National
-Academies in Washington, D.C. I \[Gretchen Gano\] was invited to
+Academies in Washington, D.C. I [Gretchen Gano] was invited to
 participate as a guest. Below are links, a background on the committee,
 and some meeting highlights from my perspective with proposed follow-on
 IASSIST activities. I will forward a list of the proposed activities to
@@ -50,10 +50,10 @@ activities:**
 
 Notes from Archiving subgroup meeting:
 
-1.  CODATA/ICSTI Portal on Permanent Access\
+1.  CODATA/ICSTI Portal on Permanent Access
     The planned portal will provide information on data archiving
-    specifically targeted toward those in developing nations.\
-    ***PROPOSED IASSIST ACTIVITY*** \-- Dr. Anderson, chair of the
+    specifically targeted toward those in developing nations.
+    ***PROPOSED IASSIST ACTIVITY*** -- Dr. Anderson, chair of the
     archiving subgroup, could be invited to make a presentation on
     CODATA initiatives and the CODATA/ICSTI Portal on Permanent Access.
 2.  The archiving group is planning two workshops for the coming year --
@@ -64,21 +64,21 @@ Notes from the Main Committee Meeting:
 
 1.  The next CODATA conference will be held in Beijing, Oct 23-25, 2006.
     Organizers would like to expand the attendance by including
-    ancillary workshops.\
-    ***PROPOSED IASSIST ACTIVITY*** \-- IASSIST could organize an
+    ancillary workshops.
+    ***PROPOSED IASSIST ACTIVITY*** -- IASSIST could organize an
     ancillary workshop for the Beijing, China, CODATA meeting in the
     fall of 2006 on archiving in the social sciences.
 2.  Update on World Summit on the Information Society
     [WSIS](http://www.itu.int/wsis/)-related CODATA activities and
-    USNC/CODATA support\
-    \
+    USNC/CODATA support
+    
     Paul Uhlir, Director, U.S. National Committee for CODATA, is
     conducting an inventory of US activities related to WSIS goals. The
     intent is to provide concrete evidence of activities that support
     WSIS goals in the United States. The inventory will become an
-    on-line resource at [WSIS on-line](http://www.wsis-online.net/).\
-    \
-    ***PROPOSED IASSIST ACTIVITY*** \-- An on-line form for submitting
+    on-line resource at [WSIS on-line](http://www.wsis-online.net/).
+    
+    ***PROPOSED IASSIST ACTIVITY*** -- An on-line form for submitting
     descriptions of activities for the inventory is being developed at
     the National Academies. I will forward a link to the survey to the
     IASSIST list when it is ready. IASSIST members are encouraged to
@@ -89,12 +89,12 @@ Notes from the Main Committee Meeting:
 4.  The committee meeting included a forum on [NSB report on Long-Lived
     Digital Data
     Collections](http://www.nsf.gov/nsb/documents/2005/LLDDC_report.pdf)
-    \[pdf\].
+    [pdf].
 
-    \
+    
     Select points from the discussion:
 
-    \
+    
 
     -   There should be a cross-agency review to establish policy and
         articulate level of commitment toward data preservation at US

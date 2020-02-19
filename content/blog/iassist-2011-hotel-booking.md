@@ -14,10 +14,10 @@ room shortages due to other conferences that same week and a general
 pickup in tourism.
 
 **The Delta Vancouver Suites** reported today that there are only two
-rooms left at the special \$199 rate; rooms are still available in the
-Premier category at a rate of \$224.00 per night per room and in the
-Deluxe category rate of \$239.00 per night per room. 
+rooms left at the special $199 rate; rooms are still available in the
+Premier category at a rate of $224.00 per night per room and in the
+Deluxe category rate of $239.00 per night per room. 
 
 [for more
 information](http://www.rdl.sfu.ca/IASSIST/index.php/Accommodations/category/other_hotels/ "hotels")
-\..... 
+..... 

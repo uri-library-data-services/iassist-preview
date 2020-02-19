@@ -10,8 +10,8 @@ draft = "false"
 +++
 NC State University Libraries is seeking a talented individual for the
 position of **Collections & Research Librarian for Agricultural &
-Environmental Sciences**. \
-\
+Environmental Sciences**. 
+
 The ideal candidate for this position will be an individual who has the
 ability to engage deeply with agricultural and environmental sciences
 researchers and students at all levels. This position will be primarily

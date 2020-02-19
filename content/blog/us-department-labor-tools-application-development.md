@@ -8,7 +8,7 @@ oldpath = "/resources/us-department-labor-tools-application-development"
 date = "2011-07-18 07:39:58 -0700"
 draft = "false"
 +++
-From the US Department of Labor\'s
+From the US Department of Labor's
 [developer.dol.gov](http://developer.dol.gov) website comes an initial
 set of datasets and mobile SDKs to support the creation of 3rd party
 interfaces for Department of Labor data.
@@ -36,16 +36,16 @@ The Department of Labor has also released SDKs for all of the major
 mobile platforms:
 
 -   Blackberry: [SDK
-    Documentation](http://developer.dol.gov/blackberry.htm)\|[Download
+    Documentation](http://developer.dol.gov/blackberry.htm)|[Download
     SDK](http://developer.dol.gov/sdks/BlackBerry_DOLDataSDK.zip)
 -   Android: [SDK
-    Documentation](http://developer.dol.gov/android-sdk.htm)\|[Download
+    Documentation](http://developer.dol.gov/android-sdk.htm)|[Download
     SDK](http://developer.dol.gov/sdks/Android_DOLDataSDK.zip)
 -   iOS: [SDK
-    Documentation](http://developer.dol.gov/ios.htm)\|[Download
+    Documentation](http://developer.dol.gov/ios.htm)|[Download
     SDK](http://developer.dol.gov/sdks/iOS_DOLDataSDK.zip)
 -   Dotnet:[SDK
-    Documentation](http://developer.dol.gov/dotnetdel.htm)\|[Download
+    Documentation](http://developer.dol.gov/dotnetdel.htm)|[Download
     SDK](http://developer.dol.gov/sdks/DotNet_DOLDataSDK.zip)
 
 The Department says that they will be releasing additional datasets as

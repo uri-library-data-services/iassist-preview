@@ -18,17 +18,17 @@ draft = "false"
 
 The 43rd annual conference of the International Association for Social
 Science Information Services and Technology (IASSIST) will be held in
-Lawrence, Kansas from May 23-26, 2017. \#iassist17
+Lawrence, Kansas from May 23-26, 2017. #iassist17
 
 Many issues around data (sources, strategies, and tools) are similar
 across disciplines. While IASSIST has its roots in social science data,
-it has also welcomed discussions over the years of other disciplines\'
+it has also welcomed discussions over the years of other disciplines'
 issues as they relate to data, data management, and support of users. So
 again this year, in line with this tradition, we are arranging a
 conference that will benefit those who support researchers across all
 disciplines: social sciences, health and natural sciences, and
 humanities. Please join the international data community in Lawrence,
-KS, \"in the middle\" of the U.S., for insights and discussion on how
+KS, "in the middle" of the U.S., for insights and discussion on how
 data in all disciplines are found, shared, used, and managed. Join us
 and draw inspiration from this diverse gathering! 
 

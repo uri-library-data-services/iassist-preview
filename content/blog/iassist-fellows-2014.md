@@ -12,13 +12,13 @@ The IASSIST Fellows Committee is glad to announce through this post the
 four recipients of the 2014 IASSIST Fellowship award. We are extremely
 excited to have such a diverse and interesting group with different
 backgrounds and experience and encourage IASSISTers to welcome them at
-our conference in Toronto, Canada.\
+our conference in Toronto, Canada.
 Please find below their names, countries and brief bios:
 
 ***Antonin Benoit, Head Librarian at the African Institute for Economic
 Development and Planning. Dakar, Senegal.***
 
- \"As the head Librarian I am the manager of our Online Database called
+ "As the head Librarian I am the manager of our Online Database called
 IDEP document server (http://www.unidep.org/library). We provide via
 this tool an access to bibliographical and textual references. In
 another hand I am the a focal point of IDEP to work with African Centre
@@ -33,12 +33,12 @@ to make our Institute the first African Library catalog to enter the
 Open Linked Data project. So, attending the IASSIST conference could
 improve my capacities on data management, because my initial
 professional background is Librarianship and I still have some
-weaknesses on data management\"
+weaknesses on data management"
 
 ***Fei Yu, Acting Manager of Research Data Collections  at the
 University of Queensland Library. Brisbane, Australia.***
 
- \"Fei has gained a wide range of experience in academic libraries
+ "Fei has gained a wide range of experience in academic libraries
 including bibliometrics and research data management.  She was recently
 successful in being appointed as Manager, Research Data Collections.
  This has involved drafting  the Research Data Management Procedures
@@ -55,14 +55,14 @@ easy and accessible tool to create their data management plans.  The
 Research Data Collections team lead by Fei created the Research Data
 Management Guide  - a one stop shop -- containing detailed information
 on all aspects of data management.  Fei also works collaboratively with
-the University\'s Research Computing Centres and the Queensland Cyber
+the University's Research Computing Centres and the Queensland Cyber
 Infrastructure to ensure that staff are aware of the many data storage
-options. \"
+options. "
 
-***Aileen O\'Carroll, Policy Manager of the Digital Repository at the
+***Aileen O'Carroll, Policy Manager of the Digital Repository at the
 Digital Repository of Ireland. Dublin, Ireland.***
 
- \"I am currently Policy Manager of the Digital Repository of Ireland
+ "I am currently Policy Manager of the Digital Repository of Ireland
 (DRI). DRI is a newly established national organisation (the project was
 established in September 2011) whose remit is to link together and
 preserve the rich and varied cultural, historical, and qualitative
@@ -76,12 +76,12 @@ stalk-holders and users. It is of key importance that this emerging
 national infrastructure is aligned both with European and International
 best practice along with practice and policy already in place in a
 diverse field of Irish cultural, educational and social scientific
-organisations.\"
+organisations."
 
 ***Winny Nekesa, Senior Library and Documentation Officer at the Public
 Procurement and Disposal of Assets Authority. Kampala, Uganda.***
 
- \"Winny Nekesa Akullo obtained a Bachelors degree in Library and
+ "Winny Nekesa Akullo obtained a Bachelors degree in Library and
 Information Science in 2003, Postgraduate Diploma in Demography in 2014
 from Makerere University and finalized her thesis for the  Masters
 Degree in Information Science. Before joining the Public Procurement and
@@ -103,4 +103,4 @@ access repositories. She presented at the 2013 IASSIST Conference
 Challenges and Opportunities"  she got a lot of exposure, and new ideas
 about data and information management. This year, I hope to gain more
 information which I can apply to my new institution especially in the
-area of data management which is still virgin.\"
+area of data management which is still virgin."

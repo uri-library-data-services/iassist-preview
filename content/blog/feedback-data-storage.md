@@ -10,26 +10,26 @@ draft = "false"
 +++
 I posted the following question to the listserv:
 
-\"I\'m in the early days of exploring what I and our library can do for
-our faculty and grad students. In my case I\'m particularity interested
-in the social sciences.\
-\
-It seems there are three main choices:\
-\
-1. ICPSR(or other domain-specific site)\
-\
-2. Dataverse with my own school\'s branding\
-\
+"I'm in the early days of exploring what I and our library can do for
+our faculty and grad students. In my case I'm particularity interested
+in the social sciences.
+
+It seems there are three main choices:
+
+1. ICPSR(or other domain-specific site)
+
+2. Dataverse with my own school's branding
+
 3. Local, campus funded storage through an Institutional Repository or
-something else that can handle larger amounts of data.\
-\
-\
+something else that can handle larger amounts of data.
+
+
 Our university is kind of in the vast middle as far as flagship state
-universities go in budgets and research activity.\
-\
+universities go in budgets and research activity.
+
 What are the pros and cons of these archiving choices? What would best
 suit a non-wealthy institution? Which requires more training and
-expertise?\"
+expertise?"
 
 From the very informative feedback I received from my IASSIST
 colleagues, I concluded that it is best to keep open to all kinds of
@@ -46,8 +46,8 @@ expertise and the longevity that ICPSR can provide are out there. In
 addition, ICPSR is launching "openICPSR," a new open access repository
 for researchers and institutions that need to comply with Federal
 requirements to make data publicly available.  Data deposited in
-\"openICPSR\" will be discoverable in the ICPSR catalog, but not
-restricted to ICPSR members \-- anyone will be able to download.  ICPSR
+"openICPSR" will be discoverable in the ICPSR catalog, but not
+restricted to ICPSR members -- anyone will be able to download.  ICPSR
 staff will edit the metadata appearing in the catalog, and depositors
 can commission full curation of their collections (e.g. full codebooks,
 variable-level metadata for searching) by ICPSR staff. In addition to
@@ -55,7 +55,7 @@ accepting individual projects, openICPSR will also offer packages to
 meet institutional needs.  They are planning at least two options: 1) A
 multiple deposit option whereby an entity can purchase several project
 deposits (fees will be discounted for member institutions), and 2) A
-branded repository page that will list datasets under an institution\'s
+branded repository page that will list datasets under an institution's
 own logo and color scheme.
 
 Many others outlined the Dataverse picture. If you can get a good match

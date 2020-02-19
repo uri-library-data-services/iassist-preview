@@ -41,16 +41,16 @@ submission, and if accepted, we will find an appropriate fit.
 
 Online submission forms and guidelines for BOTH conference content and
 workshops are be found here:
-<http://www.iassist2013.org/conference/calls/>\
-\
+<http://www.iassist2013.org/conference/calls/>
+
 NOTE: The **top** of the page is for sessions/papers/posters/round
 tables/pecha kuchas the **bottom** is for workshops -- please note that
-the submission forms are completely separate.\
-\
+the submission forms are completely separate.
+
 All submissions are **due** by December 5, 2012.  Notification of
 **acceptance** will be made by February 5, 2012
 
 Questions about session/paper submissions may be sent to
-[iassist.twentythirteen\@gmail.com](mailto:iassisttwentythirteen@gmail.com)\
+[iassist.twentythirteen@gmail.com](mailto:iassisttwentythirteen@gmail.com)
 Questions about workshop submission may be sent to the Workshop
 Coordinator, Lynda Kellam at <lmkellam@uncg.edu>

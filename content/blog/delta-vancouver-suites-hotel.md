@@ -15,10 +15,10 @@ Call +1-604-689-8188 or 1-888-890-3222 (Toll Free)or email
 vancouversuite (When booking by phone, please quote block code
 "EH1105IASS" ).
 
-\
+
 More information is on the [conference
-website](http://www.rdl.sfu.ca/IASSIST/index.php/Accommodations/category/hotel_registration/).\
-\
+website](http://www.rdl.sfu.ca/IASSIST/index.php/Accommodations/category/hotel_registration/).
+
 Mary and Walter
 
 Local Arrangements

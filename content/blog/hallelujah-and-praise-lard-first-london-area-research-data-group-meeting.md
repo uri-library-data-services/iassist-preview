@@ -14,8 +14,8 @@ institutions (and as far away as Reading) who are charged in some way
 with Research Data Management (RDM) - be it research support or
 repository work.
 
-These are my notes, which lack attribution partly because I couldn\'t
-remember where every person was from, and also it wasn\'t clear if the
+These are my notes, which lack attribution partly because I couldn't
+remember where every person was from, and also it wasn't clear if the
 meeting was on or off the record. Nonetheless, I felt there were some
 interesting points that deserve sharing as an insight into how UK
 universities (and one research centre) are dealing with RDM less than a
@@ -64,7 +64,7 @@ that institutions are working towards or trying to improve storage,
 support, and data discovery and access. Nonetheless, there is no doubt
 the EPSRC policy has focused knowledge and effort in institutions
 towards RDM. Then training was mentioned. When the "T" word is mentioned
-I often think of that line about if people don\'t want to come how are
+I often think of that line about if people don't want to come how are
 you going to stop them? To save us from preparing to teach to empty
 rooms, the thinking now seems to be towards providing support when
 people need it and building up a directory of experts to refer to when
@@ -93,8 +93,8 @@ storage until a DMP has been completed, another institution reported on
 how there is a checkbox in the research office to signify that the DMP
 has been looked at by the data management officer.
 
-The RDM equivalent of [Godwin\'s
-law](http://en.wikipedia.org/wiki/Godwin's_law) (or Godwin\'s Rule of
+The RDM equivalent of [Godwin's
+law](http://en.wikipedia.org/wiki/Godwin's_law) (or Godwin's Rule of
 Nazi Analogies), is that at some point cost will be mentioned. How to
 cost RDM is an ongoing problem. Given the problem of identifying costs
 that specifically relate to RDM activity, as opposed to to typical
@@ -133,4 +133,4 @@ there was enthusiasm for follow-up meetings including those based around
 structured themes. If you work in a big city, and there are people doing
 similar things to you in that city, take advantage and get together to
 talk. So, thanks to Gareth Knight (LSHTM), Stephen Grace (UEL), and
-Veronica Howe (KCL) for organising, facilitating, and hosting LARD \#1.
+Veronica Howe (KCL) for organising, facilitating, and hosting LARD #1.

@@ -11,10 +11,10 @@ draft = "false"
 As some of you may know, Dan Tsang and Wendy Watkins have been named the
 2013 ICSPR Flanagan Award winners for distinguished service as an ICPSR
 OR,
-http://www.icpsr.umich.edu/icpsrweb/ICPSR/support/announcements/2013/07/icpsr-announces-2013-warren-e-miller\
-\
+http://www.icpsr.umich.edu/icpsrweb/ICPSR/support/announcements/2013/07/icpsr-announces-2013-warren-e-miller
+
 UC-Irvine recognizes Dan here,
-<http://www.lib.uci.edu//features/spotlights/dt-award.html>\
-Perhaps a Canadian colleague has a similar link for Wendy.\
-\
+<http://www.lib.uci.edu//features/spotlights/dt-award.html>
+Perhaps a Canadian colleague has a similar link for Wendy.
+
 Congratulations to both Dan and Wendy!

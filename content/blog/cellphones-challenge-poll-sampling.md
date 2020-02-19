@@ -24,7 +24,7 @@ Interview Statistics, National Center for Health Statistics.)
     (14.3%) were less likely than Hispanic adults (18.0%) to be living
     in households with only wireless telephones.
 
-> \...the inability to reach households with only wireless telephones
+> ...the inability to reach households with only wireless telephones
 > (or with no telephone service) has potential implications for results
 > from health surveys, political polls, and other research conducted
 > using random-digit-dial telephone surveys.
@@ -38,4 +38,4 @@ News coverage:
     Phones](http://ap.google.com/article/ALeqM5gdmC4QL0gqIxS2sopb2IU9Y0DBgQD8TEODH00),
     By Alan Fram, Associated Press, Dec 10, 2007
 
-\- Jim Jacobs
+- Jim Jacobs

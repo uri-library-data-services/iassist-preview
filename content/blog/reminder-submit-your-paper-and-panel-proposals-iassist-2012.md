@@ -19,7 +19,7 @@ Call for Papers
 **Data Science for a Connected World: Unlocking and Harnessing the Power
 of Information**
 
-The theme of this year\'s conference is Data Science for a Connected
+The theme of this year's conference is Data Science for a Connected
 World: Unlocking and Harnessing the Power of Information. This theme
 reflects the growing desire of research communities, government agencies
 and other organizations to build connections and benefit from the better
@@ -69,19 +69,19 @@ Topics:
 Papers will be selected from a wide range of subjects to ensure a broad
 balance of topics.
 
-The Program Committee welcomes proposals for:\
-Individual presentations (typically 15-20 minutes)\
+The Program Committee welcomes proposals for:
+Individual presentations (typically 15-20 minutes)
 Complete sessions, which could take a variety of formats (e.g. a set of
 three to four individual presentations on a theme, a discussion panel, a
-discussion with the audience, etc.)\
-Posters/demonstrations for the poster session\
+discussion with the audience, etc.)
+Posters/demonstrations for the poster session
 Pecha Kucha (a presentation of 20 slides shown for 20 seconds each,
 heavy emphasis on visual content)
-<http://www.wired.com/techbiz/media/magazine/15-09/st_pechakucha>\
+<http://www.wired.com/techbiz/media/magazine/15-09/st_pechakucha>
 Round table discussions (as these are likely to have limited spaces, an
 explanation of how the discussion will be shared with the wider group
-should form part of the proposal).\
-\[Note: A separate call for workshops is forthcoming\].
+should form part of the proposal).
+[Note: A separate call for workshops is forthcoming].
 
 Session formats are not limited to the ideas above and session
 organizers are welcome to suggest other formats.

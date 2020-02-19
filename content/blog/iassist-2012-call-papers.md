@@ -22,11 +22,11 @@ running.  Thanks.
 
  
 
-===========================\
-\
+===========================
+
 **Data Science for a Connected World: Unlocking and Harnessing the Power
-of Information\
-**\
+of Information
+**
 The 38th International Association for Social Science Information
 Services
 
@@ -35,13 +35,13 @@ DC, June 4 - 8, 2012.
 
  
 
-The theme of this year\'s conference is Data Science for a Connected
+The theme of this year's conference is Data Science for a Connected
 World: Unlocking and Harnessing the Power of Information. This theme
 reflects the growing desire of research communities, government agencies
 and other organizations to build connections and benefit from the better
 use of data through practicing good management, dissemination and
-preservation techniques.\
-\
+preservation techniques.
+
 The theme is intended to stimulate discussions on building connections
 across all scholarly disciplines, governments, organizations, and
 individuals who are engaged in working with data.  IASSIST as a
@@ -51,13 +51,13 @@ and teaching in the social sciences.  What can we as data professionals
 with shared interests and concerns learn from others going forward and
 what can they learn from us?  How can data professionals of all kinds
 build the connections that will be needed to address shared concerns and
-leverage strengths to better manage, share, curate and preserve data? \
-\
+leverage strengths to better manage, share, curate and preserve data? 
+
 We welcome submissions on the theme outlined above, and encourage
 conference participants to propose papers and sessions that would be of
 interest to a diverse audience. Any paper related to the conference
-theme will be considered; below is a sample of possible topics\
-\
+theme will be considered; below is a sample of possible topics
+
 Topics:
 
 -   Innovative/disruptive technologies for data management and
@@ -95,36 +95,36 @@ balance of topics.
 -   Round table discussions (as these are likely to have limited spaces,
     an explanation of how the discussion will be shared with the wider
     group should form part of the proposal).
--   \[Note: A separate call for workshops is forthcoming\].
+-   [Note: A separate call for workshops is forthcoming].
 
-\
+
 Session formats are not limited to the ideas above and session
-organizers are welcome to suggest other formats.\
-\
+organizers are welcome to suggest other formats.
+
 Proposals for complete sessions should list the organizer or moderator
 and possible participants; the session organizer will be responsible for
-securing both session participants and a chair.\
-\
+securing both session participants and a chair.
+
 All submissions should include the proposed title and an abstract no
 longer than 200 words (note: longer abstracts will be returned to be
 shortened before being considered).  Abstracts submitted for complete
 sessions should provide titles and a brief description for each of the
 individual presentations.  Abstracts for complete session proposals
 should be no longer than 300 words if information about individual
-presentations are needed.  \
-\
+presentations are needed.  
+
 Please note that all presenters are required to register and pay the
 registration fee for the conference; registration for individual days
-will be available.\
-\
+will be available.
+
 **Deadline for submission of individual presentations and sessions: 5
-December 2011.\
-\
+December 2011.
+
 Deadline for submission of posters, Pecha Kucha sessions and round table
-discussions: 16 January 2012.\
-\
+discussions: 16 January 2012.
+
 Notification of acceptance for individual presentations and sessions: 3
-February 2012.\
-\
+February 2012.
+
 Notification of acceptance for posters, Pecha Kucha sessions and round
 table discussions: 24 February 2012.**

@@ -15,4 +15,4 @@ and easy to use resource for finding quick answers to common data
 (particularly aggregate data and time series data) and statistical
 reference questions.
 
-\- jajacobs
+- jajacobs

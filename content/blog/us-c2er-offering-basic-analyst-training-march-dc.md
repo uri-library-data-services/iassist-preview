@@ -61,23 +61,23 @@ interesting.
 | -   Primary Data Collection & Survey Methodologies                    |
 | -   Key Customers & Their Information Needs                           |
 |                                                                       |
-| Instructors:\                                                         |
-| **Patty Silverstein**, President, Development Research Partners\      |
+| Instructors:                                                         |
+| **Patty Silverstein**, President, Development Research Partners      |
 | **Martin Romitti**, Senior Vice President, Center for Regional        |
 | Economic Competitiveness                                              |
 |                                                                       |
-| Registration Fees:\                                                   |
-| **Before March 1, 2012**\                                             |
-| C2er Members/LMI Training Institute Member States\* - \$650\          |
-| Non-Members - \$780                                                   |
+| Registration Fees:                                                   |
+| **Before March 1, 2012**                                             |
+| C2er Members/LMI Training Institute Member States* - $650          |
+| Non-Members - $780                                                   |
 |                                                                       |
-| **After March 1, 2012**\                                              |
-| C2er/LMI Training Institute Members\* - \$780\                        |
-| Non-Members - \$935                                                   |
+| **After March 1, 2012**                                              |
+| C2er/LMI Training Institute Members* - $780                        |
+| Non-Members - $935                                                   |
 +-----------------------------------------------------------------------+
 
 +-----------------------------------------------------------------------+
-| \*Member rates are available to LMI Training Institute Member State   |
+| *Member rates are available to LMI Training Institute Member State   |
 | staff and C2ER Members.                                               |
 |                                                                       |
 | New members may obtain member rates by including their membership     |

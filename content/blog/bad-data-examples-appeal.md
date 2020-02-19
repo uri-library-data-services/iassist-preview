@@ -16,9 +16,9 @@ message:
 misuse numeric data?  I have a faculty member who would like to use such
 examples to demonstrate to her students the importance of numeracy in
 real life.  I have a few examples but suspect others of you may stash
-this kind of thing in a \"Can you believe this?!\" kind of folder.  If
+this kind of thing in a "Can you believe this?!" kind of folder.  If
 you would be willing to share citations with me, I would very much
-appreciate it.  This could be opening a floodgate, I realize, so let\'s
+appreciate it.  This could be opening a floodgate, I realize, so let's
 say English-language stories that have appeared in the last year.
 
 Thanks!"
@@ -28,7 +28,7 @@ but below is a summary of the responses I received.
 
 =========================================
 
-Book:  \"The Obesity Myth\" by Paul Campos might be worth looking at.
+Book:  "The Obesity Myth" by Paul Campos might be worth looking at.
 The first few chapters are all about how questionable studies with
 relatively small samples have been used to shape health care policy
 regarding obesity, while larger studies whose methods are less
@@ -36,18 +36,18 @@ controversial are ignored.
 
 Sources for Such Stories
 
-1\. One very nice resource for this sort of thing is the Statistical
+1. One very nice resource for this sort of thing is the Statistical
 Assessment Service at George Mason University (STATS) at:
 <http://www.stats.org/>          (2 people suggested)
 
-2\. (the following two are more about visualizations of data)
+2. (the following two are more about visualizations of data)
 <http://junkcharts.typepad.com/junk_charts/>      (2 people suggested)
 <http://statisticalgraphics.blog.com/>
 
-3\. Many sessions at the annual conference of the American Association
+3. Many sessions at the annual conference of the American Association
 for Public Opinion Research (AAPOR) have touched on this topic over the
 years.  You might take a look at past conference programs for sessions
-dealing with \"The Media and Public Opinion Research\" (or similar
+dealing with "The Media and Public Opinion Research" (or similar
 titles) to identify specific panelists who could provide numerous
 examples.  The AAPOR web site is <http://aapor.org/>.
 

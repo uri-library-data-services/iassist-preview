@@ -11,7 +11,7 @@ draft = "false"
 The June 23, 2008 issue of WIRED MAGAZINE (issue 16.07) has several
 stories about large datasets.
 
-[The Petabyte Age: Because More Isn\'t Just More \-- More Is
+[The Petabyte Age: Because More Isn't Just More -- More Is
 Different](http://www.wired.com/science/discoveries/magazine/16-07/pb_intro)
 
 > Sensors everywhere. Infinite storage. Clouds of processors. Our
@@ -19,7 +19,7 @@ Different](http://www.wired.com/science/discoveries/magazine/16-07/pb_intro)
 > is changing science, medicine, business, and technology. As our
 > collection of facts and figures grows, so will the opportunity to find
 > answers to fundamental questions. Because in the era of big data, more
-> isn\'t just more. More is different.
+> isn't just more. More is different.
 
 [The End of Theory The Data Deluge Makes the Scientific Method
 Obsolete](http://www.wired.com/science/discoveries/magazine/16-07/pb_theory)
@@ -37,7 +37,7 @@ Hour](http://www.wired.com/science/discoveries/magazine/16-07/pb_hotzones)
 
 [Sorting the World: Google Invents New Way to Manage
 Data](http://www.wired.com/science/discoveries/magazine/16-07/pb_sorting)
-[Watching the Skies: Space Is Big \-- But Not Too Big to
+[Watching the Skies: Space Is Big -- But Not Too Big to
 Map](http://www.wired.com/science/discoveries/magazine/16-07/pb_asteroids)
 [Scanning Our Skeletons: Bone Images Show Wear and
 Tear](http://www.wired.com/science/discoveries/magazine/16-07/pb_skeleton)
@@ -49,4 +49,4 @@ Blocs](http://www.wired.com/science/discoveries/magazine/16-07/pb_vote)
 Costs](http://www.wired.com/science/discoveries/magazine/16-07/pb_terrorism)
 [Visualizing Big Data: Bar Charts for
 Words](http://www.wired.com/science/discoveries/magazine/16-07/pb_visualizing)
-\-- jim jacobs
+-- jim jacobs

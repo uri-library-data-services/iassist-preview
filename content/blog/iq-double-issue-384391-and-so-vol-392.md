@@ -17,11 +17,11 @@ focuses on the Data Documentation Initiative (DDI) and how it makes
 meta-analysis possible.  The second issue is 39(2), and is all about
 data:  avoiding statistical disclosure, using data, and improving
 digital preservation.  Although we usually post the full text of the
-Editor\'s Notes in the blog post, it seems lengthy to do that for both
-issues.  You will find them, though, on the web site: the [Editor\'s
+Editor's Notes in the blog post, it seems lengthy to do that for both
+issues.  You will find them, though, on the web site: the [Editor's
 Notes for the double
 issue](http://www.iassistdata.org/iq/issue/38/4 "Editor's Notes for Issue 38(4)/39(1)"),
-and the [Editor\'s Notes for issue
+and the [Editor's Notes for issue
 39(2)](http://www.iassistdata.org/iq/editor%E2%80%99s-notes-avoiding-disclosure-using-data-and-improving-digital-preservation "Editor's Notes for Issue 39(2)").
 
 Michele Hayslett, for the IQ Publications Committee

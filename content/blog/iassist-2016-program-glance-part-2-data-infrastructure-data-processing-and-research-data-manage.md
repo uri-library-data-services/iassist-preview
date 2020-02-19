@@ -10,7 +10,7 @@ draft = "false"
 +++
  
 
-Here\'s another list of highlights from IASSIST2016 which is focusing on
+Here's another list of highlights from IASSIST2016 which is focusing on
 the data revolution. For previous highlights, see
 [here](http://www.iassistdata.org/blog/interested-“data-revolution”-and-what-it-means-research-here’s-why-you-should-attend-iassist201).
 
@@ -27,8 +27,8 @@ the data revolution. For previous highlights, see
 
 -   The [UK Data
     Service](https://www.openconf.org/IASSIST16/modules/request.php?module=oc_program&action=summary.php&id=103)
-    will present the following panel \"The CESSDA Technical Framework -
-    what is it and why is it needed?\", which elaborates how the CESSDA
+    will present the following panel "The CESSDA Technical Framework -
+    what is it and why is it needed?", which elaborates how the CESSDA
     Research Infrastructure should have modern data curation techniques
     rooted in sophisticated IT capabilities at its core, in order to
     better serve its community.
@@ -160,8 +160,8 @@ restricted access, or documentation, here's a quick list of highlights:
     Standard](https://www.openconf.org/IASSIST16/modules/request.php?module=oc_program&action=summary.php&id=97)
     (3 June), where participants will be introduced to the work of the
     DDI Developers Community and get an overview of tools available from
-    the community.\
-    \
+    the community.
+    
 
 ### Open-access  {#open-access dir="ltr"}
 
@@ -229,12 +229,12 @@ are many offerings, with a quick list of highlights below:
 -   [The Metadata Model Of The Dataverse Project: Helping More Data
     Become
     Discoverable](https://www.openconf.org/IASSIST16/modules/request.php?module=oc_program&action=summary.php&id=130)
-    (June 2), with Eleni Castro, Harvard University\
+    (June 2), with Eleni Castro, Harvard University
      
 
 Spread the word
-on [Twitter](https://twitter.com/ICPSR/status/728604290240151553){.ico-twitter} using \#IASSIST16. 
+on [Twitter](https://twitter.com/ICPSR/status/728604290240151553){.ico-twitter} using #IASSIST16. 
 
-\
+
 A story by Dory Knight-Ingram
-([ICPSR](http://www.icpsr.umich.edu/icpsrweb/landing.jsp))\
+([ICPSR](http://www.icpsr.umich.edu/icpsrweb/landing.jsp))

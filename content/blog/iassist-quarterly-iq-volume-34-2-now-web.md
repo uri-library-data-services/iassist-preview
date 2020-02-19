@@ -26,14 +26,14 @@ This issue of the IQ features the following papers:
 
 Rein Murakas and Andu Rämmer from the Estonian Social Science Data
 Archive (ESSDA) at the University of Tartu describe in their paper
-\"Social Science Data Archiving and Needs of the Public Sector: the Case
-of Estonia\" how the archive had a historical background in the
+"Social Science Data Archiving and Needs of the Public Sector: the Case
+of Estonia" how the archive had a historical background in the
 empirical research of the Soviet Union.
 
 From the historical background we move to web 2.0 in a paper  by Angela
-Hariche, Estelle Loiseau and Philippa Lysaght on \"Wikiprogress and
-Wikigender: a way forward for online collaboration\". The authors are
-working at the OECD and the paper\'s statement is that \"collaborative
+Hariche, Estelle Loiseau and Philippa Lysaght on "Wikiprogress and
+Wikigender: a way forward for online collaboration". The authors are
+working at the OECD and the paper's statement is that "collaborative
 platforms such as wikis along with advances in data visualisation are a
 way forward for the collection, analysis and dissemination of data
 across countries and societies".
@@ -42,13 +42,13 @@ The third paper addresses an issue of central importance for most data
 archives. The question concerns balancing data confidentiality and the
 legitimate requirements of data users. This is a key problem of the
 Secure Data Service (SDS) at the UK Data Archive, University of Essex.
-The paper \"Secure Data Service: an improved access to disclosive data\"
+The paper "Secure Data Service: an improved access to disclosive data"
 by Reza Afkhami, Melanie Wright, and Mus Ahmet shows how the SDS will
 allow researchers remote access to secure servers at the UK Data
 Archive.
 
-The last article has the title \"A user-driven and flexible procedure
-for data linking\". The authors are Cees van der Eijk and Eliyahu V.
+The last article has the title "A user-driven and flexible procedure
+for data linking". The authors are Cees van der Eijk and Eliyahu V.
 Sapir from the Methods and Data Institute at the University of
 Nottingham. The data linking relates to research combining several
 different datasets. The implementation is developed for the PIREDEU

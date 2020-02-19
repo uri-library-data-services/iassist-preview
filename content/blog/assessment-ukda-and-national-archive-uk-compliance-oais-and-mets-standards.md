@@ -62,8 +62,8 @@ Data Archive.
 
  
 
-Contact: digital-archive\@nationalarchives.gov.uk\
-or publicity\@esds.ac.uk
+Contact: digital-archive@nationalarchives.gov.uk
+or publicity@esds.ac.uk
 
  
 
@@ -74,7 +74,7 @@ Archives, please see:
  
 
 Press Enquiries: Contact Stuart Brennan in The National Archives Press
-Office on 0208 8392 5277 or stuart.brennan\@nationalarchives.gov.uk
+Office on 0208 8392 5277 or stuart.brennan@nationalarchives.gov.uk
 
  
 

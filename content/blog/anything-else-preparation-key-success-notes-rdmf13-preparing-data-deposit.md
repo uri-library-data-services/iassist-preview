@@ -51,7 +51,7 @@ statistical area.
 
 IASSIST's own web editor Robin Rice directed us through data deposit at
 the University of Edinburgh guided by former IASSIST president Peter
-Burnhill's refrain of \"helping researchers to do the right thing\".
+Burnhill's refrain of "helping researchers to do the right thing".
 Edinburgh provide support throughout the data lifecycle with strong
 training resources ([Research Data
 MANTRA](http://datalib.edina.ac.uk/mantra/)), plus face-to-face sessions
@@ -75,5 +75,5 @@ problem, demand related to institutional awareness.
 
 [Presentations](http://www.dcc.ac.uk/events/research-data-management-forum-rdmf/rdmf13-preparing-data-deposit)
 from the event are available from the DCC, and tweets with the hashtag
-[\#rdmf13](https://twitter.com/search?q=%23rdmf13). The DCC will be
+[#rdmf13](https://twitter.com/search?q=%23rdmf13). The DCC will be
 blogging about the discussion group sessions.

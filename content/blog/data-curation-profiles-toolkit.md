@@ -10,5 +10,5 @@ draft = "false"
 +++
 The [Data Curation Profiles
 Toolkit](http://www.datacurationprofiles.org) enables librarians,
-archivists, and others to deepen their understanding of researchers\'
+archivists, and others to deepen their understanding of researchers'
 practices and needs regarding research data.

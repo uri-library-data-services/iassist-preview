@@ -14,7 +14,7 @@ present a suite of flexible training materials for people who are
 charged with training researchers and research support staff in how to
 look after research data.
 
-The Training Resources are modularised following the UK Data Archive\'s
+The Training Resources are modularised following the UK Data Archive's
 seven key areas of managing and sharing data:
 
 -   sharing data - why and how
@@ -29,7 +29,7 @@ seven key areas of managing and sharing data:
 Each section contains:
 
 -   introductory powerpoint(s)
--   presenter\'s guide - where necessary
+-   presenter's guide - where necessary
 -   exercises and introduction to exercises
 -   quizzes
 -   answers

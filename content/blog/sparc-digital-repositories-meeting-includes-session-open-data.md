@@ -37,7 +37,7 @@ digital repositories could collaborate among themselves and other
 players in the data landscape.
 
 Both Gail and Chuck mentioned the importance of Ann Green and Myron
-Gutmann\'s seminal work on relationships among domain archives and
+Gutmann's seminal work on relationships among domain archives and
 digital repositories (see Ann Green and Myron Gutmann, "Building
 partnerships among social science researchers, institution-based
 repositories and domain specific data arrchives," **OCLC Systems &

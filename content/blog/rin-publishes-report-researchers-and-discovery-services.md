@@ -8,10 +8,10 @@ oldpath = "/blog/rin-publishes-report-researchers-and-discovery-services"
 date = "2006-12-07 15:46:30 -0700"
 draft = "false"
 +++
-The UK Research Information Network \"has published a
+The UK Research Information Network "has published a
 [report](http://www.rin.ac.uk/researchers-discovery-services) on the
 behaviour, perceptions and needs of researchers as users of discovery
-services.\"
+services."
 
 [Researchers and discovery services Behaviour, perceptions and
 needs](http://www.rin.ac.uk/files/Report%20-%20final.pdf) (pdf)
@@ -27,4 +27,4 @@ One interesting quote:
 > that more focused tools are not providing the detail that researchers
 > need.
 
-\- jajacobs
+- jajacobs

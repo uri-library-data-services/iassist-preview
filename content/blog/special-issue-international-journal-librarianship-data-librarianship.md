@@ -8,7 +8,7 @@ oldpath = "/blog/special-issue-international-journal-librarianship-data-libraria
 date = "2017-07-30 10:43:37 -0700"
 draft = "false"
 +++
-\[Posted on behalf of Kristi Thompson\]
+[Posted on behalf of Kristi Thompson]
 
 The special issue of the International Journal of Librarianship on Data
 Librarianship I guest edited has been published. One feature in
@@ -21,7 +21,7 @@ well as advice for newbies.
 Our interviewees include IASSIST President Tuomas J. Alaterä, as well as
 Ann Green, Guangjing Li (China), Jian Qin, Wendy Watkins, and Lynn
 Woolfrey. Hopefully it will help spread the IASSIST word to some
-audiences we don\'t always reach! (Readership for this journal is
+audiences we don't always reach! (Readership for this journal is
 largely in Asia so far.)
 
 Article (open access): <https://doi.org/10.23974/ijol.2017.vol2.1.35>

@@ -22,7 +22,7 @@ Please find below their names, countries and brief bios:
 
 Chifundo currently works as a Data Manager and data documentalist for an
 HIV research group called ALPHA network based at London School of
-Hygiene and Tropical Medicine\'s department of Population Health,
+Hygiene and Tropical Medicine's department of Population Health,
 Chifundo spends most of his time in Mwanza, Tanzania but do travel from
 time around Southern and Eastern Africa to work with colleagues in the
 ALPHA network.Before joining the London School of Hygiene and Tropical
@@ -32,7 +32,7 @@ Hygiene and Tropical Medicine. He has an MPhil in Demography from
 university of Cape Town, South Africa and a BSc Statistics Honours
 degree from University of Zimbabwe.
 
-\
+
 **Judit Gárdos (Hungary) **
 
 Judit Gárdos studied Sociology and German Language and Literature in
@@ -40,13 +40,13 @@ Budapest, Vienna and Berlin. She is PhD-candidate in sociology, with a
 topic on the philosophy, sociology and anthropology of quantitative
 sociology. She is young researcher at the Institute of Sociology of the
 Hungarian Academy of Sciences. Judit has been working at the digital
-archive and research group called \"voicesofthe20century.hu\" that is
+archive and research group called "voicesofthe20century.hu" that is
 collecting qualitative, interview-based sociological research
 collections of the last 50 years. She is coordinating the work at the
 newly-funded Research Documentation Center of the Center for Social
 Sciences at the Hungarian Academy of Sciences.
 
-\
+
 **Cristina Ribeiro (Portugal) **
 
 Cristina Ribeiro is an Assistant Professor in Informatics Engineering at
@@ -60,7 +60,7 @@ multimedia databases and information retrieval. Currently her main
 research interests are information retrieval, digital preservation and
 the management of research data.
 
-\
+
 **Aleksandra Bradić-Martinović (Serbia) **
 
 Aleksandra Bradić-Martinović, PhD is the Research Fellow at the
@@ -73,7 +73,7 @@ Payment Systems, Stock Market Dealings and Management Information
 Systems. She was engaged at several projects in the field of education.
 At the FP7 SERSCIDA project she is a Serbia team coordinator.
 
-\
+
 **Anis Miladi (Tunisia) **
 
 Anis Miladi earned his Bachelor degree in computer sciences and
@@ -87,7 +87,7 @@ Area of expertise includes managing computer assisted surveys
 CAPI,CATI(Blaise surveying system)  in addition to Enterprise Document
 Management Systems, Enterprise Portals (SharePoint).
 
-\
+
 **Lejla Somun-Krupalija (Sarajevo) **
 
 Lejla currently serves as the Senior Program and Research Officer at the
@@ -100,5 +100,5 @@ previously, particularly on issues of capacity building and policy
 development in the areas of gender equality, the rights of persons with
 disabilities and issues of social inclusion and forced migration. She
 teaches academic writing, qualitative research, and gender and
-nationalism at the University of Sarajevo. \
-\
+nationalism at the University of Sarajevo. 
+

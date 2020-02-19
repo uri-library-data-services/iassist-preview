@@ -8,7 +8,7 @@ oldpath = "/blog/iassist-quarterly-volume-421-available"
 date = "2018-05-24 08:33:10 -0700"
 draft = "false"
 +++
-**Editor\'s notes:  Rebuilding, Preserving and Reproducing**
+**Editor's notes:  Rebuilding, Preserving and Reproducing**
 
 Welcome to the first issue of Volume 42 of the IASSIST Quarterly (IQ
 42:1, 2018).
@@ -27,11 +27,11 @@ establishment of the data as a resource and the subsequent reproduction,
 the preservation process secures the data for future use. The middle
 paper brings special attention to preservation of 3D digital data.
 
-At the IASSIST 2017 conference the presentation \'Reproducing and
-Preserving Research with ReproZip\' was given at the session \'E3: Tools
-for Reproducible Workflows Across the Research Lifecycle\'. This is
-presented here as a paper with the title \'Using ReproZip for
-Reproducibility and Library Services\' by Vicky Steeves, Rémi Rampin,
+At the IASSIST 2017 conference the presentation 'Reproducing and
+Preserving Research with ReproZip' was given at the session 'E3: Tools
+for Reproducible Workflows Across the Research Lifecycle'. This is
+presented here as a paper with the title 'Using ReproZip for
+Reproducibility and Library Services' by Vicky Steeves, Rémi Rampin,
 and Fernando Chirigati. The authors work at New York University as
 Librarian for Research Data Management and Reproducibility, Research
 Engineer, and PhD candidate. They present ReproZip, an open source tool
@@ -46,10 +46,10 @@ dependencies - in order to achieve reproducibility. The authors state
 that ReproZip can be used to reproduce and preserve research
 holistically.
 
-At the same conference in the session \'E1: Preservation Matters\'
+At the same conference in the session 'E1: Preservation Matters'
 Jennifer Moore of Washington University Libraries in St. Louis and
 Hannah Scates Kettler of University of Iowa Libraries presented their
-paper \'Who cares about 3D data preservation?\'. Well, the IQ does! 3D
+paper 'Who cares about 3D data preservation?'. Well, the IQ does! 3D
 digital data preservation is necessary when for example an
 anthropologist produces digital 3D data as a preservation and
 presentation mechanism for an artefact. The 3D digital data has - like
@@ -60,8 +60,8 @@ Augmented Asbury Park app that projects lost - and now virtual -
 buildings and attractions upon their earlier physical space using
 augmented reality.
 
-The last paper in this issue is \'Retirement in the 1950s: Rebuilding a
-Longitudinal Research Database\' by Amy M. Pienta and Jared Lyle,
+The last paper in this issue is 'Retirement in the 1950s: Rebuilding a
+Longitudinal Research Database' by Amy M. Pienta and Jared Lyle,
 respectively Associate Research Scientist and Director of Curation at
 ICPSR at the University of Michigan. This tells the story of the
 successful recovery of the important data from Gordon Streib's Cornell
@@ -84,7 +84,7 @@ We encourage you to login or create an author login to
 conferences or other conferences and workshops, from local presentations
 or papers especially written for the IQ. When you are preparing a
 presentation, give a thought to turning your one-time presentation into
-a lasting contribution. We permit authors \'deep links\' into the IQ as
+a lasting contribution. We permit authors 'deep links' into the IQ as
 well as deposition of the paper in your local repository. Chairing a
 conference session with the purpose of aggregating and integrating
 papers for a special issue IQ is also much appreciated as the
@@ -96,7 +96,7 @@ Authors are very welcome to take a look at the instructions and layout:
 
 <https://www.iassistquarterly.com/index.php/iassist/about/submissions>
 
-Authors can also contact me directly via e-mail: kbr\@sam.sdu.dk. Should
+Authors can also contact me directly via e-mail: kbr@sam.sdu.dk. Should
 you be interested in compiling a special issue for the IQ as guest
 editor(s) I will also be delighted to hear from you.
 

@@ -19,7 +19,7 @@ Environmental Data & Governance Initiative (EDGI) developed a [data
 rescue toolkit](https://envirodatagov.org/event-toolkit/), which
 apportioned the challenge of saving data by distinct federal agency. 
 
-We\'ve had a number of conversations at NYU and with other members of
+We've had a number of conversations at NYU and with other members of
 the library community about the implications of preserving federal data
 and providing access to it. The efforts, while important, call attention
 to a problem of organization that is very large in scope and likely
@@ -29,15 +29,15 @@ cannot be solved in full by libraries.
 :   *Also a metaphor for preserving federal data*
 
 Thus far, the divide-and-conquer model has postulated that individual
-institutions can \"claim\" a specific federal agency, do a deep dive to
+institutions can "claim" a specific federal agency, do a deep dive to
 root around its websites, download data, and then mark the agency off
-a list as \"preserved.\" The process raises many questions, for
+a list as "preserved." The process raises many questions, for
 libraries and for the data refuge movement. What does it mean to
-\"claim\" a federal agency? How can one institution reasonably develop a
-\"chain of custody\" for an agency\'s comprehensive collection of data
+"claim" a federal agency? How can one institution reasonably develop a
+"chain of custody" for an agency's comprehensive collection of data
 (and how do we define chain of custody)?
 
-How do we avoid duplicated labor? Overlap is inevitable and isn\'t
+How do we avoid duplicated labor? Overlap is inevitable and isn't
 necessarily a bad thing, but given the scope of the challenge, it would
 be ideal to distribute efforts so as to benefit from the hard work of
 metadata remediation that all of us will inevitably do.
@@ -59,17 +59,17 @@ University's recent decision to preserve the [Housing and Urban
 Development spatial
 datasets](https://earthworks.stanford.edu/?page=1&per_page=100&q=United+States.+Department+of+Housing+and+Urban+Development),
 since they were directly attacked by Republican lawmakers. Early in the
-Spring 2017 semester, Stanford downloaded all of HUD\'s spatial data,
+Spring 2017 semester, Stanford downloaded all of HUD's spatial data,
 created metadata records for them, and loaded them into their spatial
 discovery environment ([EarthWorks](https://earthworks.stanford.edu/)).
 
 ![](http://data-services.hosting.nyu.edu/wp-content/uploads/2017/05/Public-Housing-Authorities-2016-in-EarthWorks-1024x1015.png){.wp-image-1008 .size-large width="840" height="833"}
-:   *A HUD dataset preserved in Stanford\'s Spatial Data Repository and
+:   *A HUD dataset preserved in Stanford's Spatial Data Repository and
     digital collections*
 
 We can see from the [timestamp on their metadata
 record](https://earthworks.stanford.edu/catalog/stanford-jp095bg5089.json) that
-the files were added on March 24, 2017. Stanford\'s collection process
+the files were added on March 24, 2017. Stanford's collection process
 is very robust and implies a level of curation and preservation that is
 impressive. As colleagues, we know that by adding a file, Stanford has
 committed to preserving it in its institutional repository,
@@ -82,22 +82,22 @@ granularity in description and access that often is not present at many
 other sources, including Data.gov.
 
 However, if I had not had conversations with colleagues who work at
-Stanford, I wouldn\'t have realized they preserved the files at all and
-likely would\'ve tried to make records for [NYU\'s Spatial Data
-Repository](https://geo.nyu.edu/). Even as they exist, it\'s difficult
+Stanford, I wouldn't have realized they preserved the files at all and
+likely would've tried to make records for [NYU's Spatial Data
+Repository](https://geo.nyu.edu/). Even as they exist, it's difficult
 for me to know that these files were in fact saved as part of the Data
 Refuge effort. Furthermore, Stanford has made no public claim or
-longterm \"chain of custody\" agreement for HUD data, simply because no
+longterm "chain of custody" agreement for HUD data, simply because no
 standards for doing so currently exist.
 
-Maybe it wouldn\'t be the worst thing for NYU to add these files to our
+Maybe it wouldn't be the worst thing for NYU to add these files to our
 repository, but it seems unnecessary, given the magnitude of federal
 data to be preserved. However, some redundancy is a part of the [goals
 that Data Refuge imagines](https://www.datarefuge.org/about):
 
-> Data collected as part of the \#DataRefuge initiative will be stored
+> Data collected as part of the #DataRefuge initiative will be stored
 > in multiple, trusted locations to help ensure continued accessibility.
-> \[\...\]DataRefuge acknowledges\--and in fact draws attention to\--the
+> [...]DataRefuge acknowledges--and in fact draws attention to--the
 > fact that there are no guarantees of perfectly safe information. But
 > there are ways that we can create safe and trustworthy copies.
 > DataRefuge is thus also a project to develop the best methods,
@@ -110,7 +110,7 @@ publishing practices from those who work with federal agencies. There
 has to be some flexibility between community efforts to preserve data,
 individual institutions and their respective curation practices.
 
-**\"That\'s Where the Librarians Come In\"**
+**"That's Where the Librarians Come In"**
 
 NYU imagines a model that dovetails with the Data Refuge effort in which
 individual institutions build upon their own strengths and existing
@@ -137,7 +137,7 @@ Anyone who has worked with Data.gov metadata knows that it's messy and
 inconsistent but is also a good starting place to develop better
 records. Furthermore, the concept of Data.gov serves as an effective
 registry or checklist [(this global metadata vault could be another
-starting place)](https://github.com/datproject/svalbard); it\'s not the
+starting place)](https://github.com/datproject/svalbard); it's not the
 only source of government data, nor is it necessarily authoritative.
 However, it is a good point of departure, a relatively centralized list
 of items that exist in a form that we can work with.
@@ -148,12 +148,12 @@ by reducing the set of Data.gov records to those which are likely to
 represent spatial data. We did this by searching only for files that
 meet the following conditions:
 
--   Record contains at least one download resource with a \'format\'
-    field that contains any of {\'shapefile\', \'geojson\', \'kml\',
-    \'kmz\'}
--   Record contains at least one resource with a \'url\' field that
-    contains any of {\'shapefile\', \'geojson\', \'kml\', \[\'original\'
-    followed by \'.zip\'\]}
+-   Record contains at least one download resource with a 'format'
+    field that contains any of {'shapefile', 'geojson', 'kml',
+    'kmz'}
+-   Record contains at least one resource with a 'url' field that
+    contains any of {'shapefile', 'geojson', 'kml', ['original'
+    followed by '.zip']}
 
 That search generated 6,353 records that are extremely likely to contain
 geospatial data. From that search we [yielded a subset of
@@ -175,9 +175,9 @@ record. For example, [this
 record](http://catalog.data.gov/dataset/23c7852d-9e9e-47e5-b215-47028c1f094a) is
 probably meant to represent the same [data as this
 record](http://catalog.data.gov/dataset/09d11982-4bb5-474e-a690-6874da1f6042).
-We can\'t know for sure, which means we immediately had to decide what
+We can't know for sure, which means we immediately had to decide what
 to do with potential gaps. We forged ahead with the records that were
-\"live\" in Data.gov.
+"live" in Data.gov.
 
 **About Metadata Cleaning**
 
@@ -220,7 +220,7 @@ different formats of what appeared to be the same data. In the case of
 the Forest Service, many of the records contained both a shapefile and a
 geodatabase, as well as other original metadata files. Our general
 approach was to save the shapefile and publish it in our collection
-environment, then bundle up all other \"data objects\" associated with a
+environment, then bundle up all other "data objects" associated with a
 discrete Data.gov record and include them in the preservation
 environment of our Spatial Data Repository.
 
@@ -255,29 +255,29 @@ referenced it to the original Data.gov UUID. 
 
 **Future Directions: Publishing Checksums**
 
-Libraries\' ability to represent precisely and accurately which
+Libraries' ability to represent precisely and accurately which
 datasets, or components of datasets, have been preserved is
 a serious impediment to embarking on a distributed repository /
 data-rescue project. Further, libraries need to know if data objects
 have been preserved and where they reside. To return to the earlier
 example, how is New York University to know that a particular government
-dataset has already been \"rescued\" and is being preserved (either via
+dataset has already been "rescued" and is being preserved (either via
 a publicly-accessible repository interface, or not)?
 
 Moreover, even if there is a venue for institutions to discuss which
-government datasets fall within their collection priorities (e.g. \"New
+government datasets fall within their collection priorities (e.g. "New
 York University cares about federal forestry data, and therefore will be
-responsible for the stewardship of that data\"), it\'s not clear that
+responsible for the stewardship of that data"), it's not clear that
 there is a good strategy for representing the myriad ways in which the
-data might exist in its \"rescued\" form. Perhaps the institution that
+data might exist in its "rescued" form. Perhaps the institution that
 elects to preserve a dataset wants to make a few curatorial decisions in
 order to better contextualize the data with the rest of the
-institution\'s offerings (as we did with the Forest Service data). These
+institution's offerings (as we did with the Forest Service data). These
 types of decisions are not abnormal in the context of library
 accessioning.
 
 The problem comes when data processing practices of an institution,
-which are often idiosyncratic and filled with \"local\" decisions to a
+which are often idiosyncratic and filled with "local" decisions to a
 certain degree, start to inhibit the ability for individuals to identify
 a copy of a dataset in the capacity of a copy. There is a potential
 tension between preservation ---- preserving the original file
@@ -292,7 +292,7 @@ data-rescue community, whereby the arbitrary or locally-specific
 mappings and organizational decisions can be related back to original
 checksums of individual, atomic, files. File checksums would be unique
 identifiers in such a datastore, and given a checksum, this service
-would display \"claims\" about institutions that hold the corresponding
+would display "claims" about institutions that hold the corresponding
 file, and the context in which that file is accessible.
 
 Consider this as an example:
@@ -315,7 +315,7 @@ Consider this as an example:
     rescued, how can it be represented (to others) that the files in the
     repository are indeed preserved copies of other datasets? If, for
     instance, Purdue University comes along and wants to verify that
-    everything on the Forest Service\'s site is preserved somewhere, it
+    everything on the Forest Service's site is preserved somewhere, it
     now becomes more difficult to do so, particularly since those
     documents never possessed a canonical or authoritative ID in the
     first place, and even could have been downloaded originally from

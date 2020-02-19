@@ -22,7 +22,7 @@ anti-institutionalism that exists in conjunction with the technology of
 the Internet. This has led me to write an essay in which I have
 constructed an argument exposing the anti-institutional values exhibited
 in the Internet and the threat that they pose to data archives. As an
-example, I discuss how the concept of \"self-archiving\" promoted
+example, I discuss how the concept of "self-archiving" promoted
 through digital repositories is a misconceived idea rooted in
 postmodernist values of individualism.
 

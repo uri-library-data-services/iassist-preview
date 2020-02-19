@@ -22,6 +22,6 @@ the Study of Labour (IZA) in Germany and the Open Data Foundation (ODaF)
 are also happy to announce that ODaF Europe 2009 will be hosted on the
 IZA campus in Bonn next spring (details to be announced in time).
 
-\[text taken from http://www.opendatafoundation.org/blog/?p=23\]
+[text taken from http://www.opendatafoundation.org/blog/?p=23]
 
 Submitted by Robin Rice

@@ -13,15 +13,15 @@ play one on TV but I have been spending a lot of time recently
 contemplating metadata issues. Granted they have been issues that deal
 with metadata in a time series world but it gave me an interesting frame
 of reference for attending several sessions on metadata-related issues.
-Here\'s my thoughts:
+Here's my thoughts:
 
 After attending three and a half session exploring metadata issues, the
-one clear idea that has emerged is that there don\'t seem to be any
+one clear idea that has emerged is that there don't seem to be any
 clear ideas. While we all seem to be comfortable with the idea of what
 metadata are, we seem to have a more tenuous grasp on other aspects:
 what to collect; how to collect it; who should do the collecting; why
 are we collecting it? The why question might seem out of place:
-obviously, it\'s the right thing to do to make the related data more
+obviously, it's the right thing to do to make the related data more
 useful/meaningful/accessible. But does the purpose of the metadata
 influence what we collect? Does the why affect the what, who, and how?
 
@@ -44,4 +44,4 @@ qualitative data? Are there enough metadata commonalities between German
 microcensus research data and the publication of official Ethiopian
 statistics? Does it matter?
 
-\- contributed by San Cannon, metadata novice
+- contributed by San Cannon, metadata novice

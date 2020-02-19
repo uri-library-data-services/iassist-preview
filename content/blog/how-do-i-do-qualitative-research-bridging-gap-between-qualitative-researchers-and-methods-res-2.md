@@ -86,11 +86,11 @@ directly to the authors, and/or comments in this ["Blog Conversations"
 doc](https://sites.google.com/uncg.edu/iassistqsshdig/blog-conversations)
 embedded in the QSSHDIG website.
 
-This is the last of our 4-part blog series, ["How Do I \*Do\*
+This is the last of our 4-part blog series, ["How Do I *Do*
 Qualitative Research? Bridging the Gap between Qualitative Researchers
 and Methods Training
 Resources."](http://iassistdata.org/blog/how-do-i-do-qualitative-research-bridging-gap-between-qualitative-researchers-and-methods-resou)
 QSSHDIG would love to get more conversations going on the IASSIST blog -
-there\'s a section at the bottom of our ["Blog Conversations"
+there's a section at the bottom of our ["Blog Conversations"
 doc](https://sites.google.com/uncg.edu/iassistqsshdig/blog-conversations)
 for suggesting future QSSDHIG posts - please do!

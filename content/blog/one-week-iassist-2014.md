@@ -18,8 +18,8 @@ before you get here:
 -   under
     '[Visitors](http://www.library.yorku.ca/cms/iassist/visitors/)' on
     the top menu (where you can find a map-based guide to Toronto
-    attractions);\
-    \
+    attractions);
+    
     -   "[How to get
         here](http://www.library.yorku.ca/cms/iassist/visitors/how-to-get-here/)"
         lists ways to get to the downtown core from the airport;
@@ -33,20 +33,20 @@ before you get here:
         games on June 1, 6, and 7; see the [June
         schedule](http://mlb.mlb.com/schedule/index.jsp?c_id=tor#y=2014&m=6)
         for details.
-    -   if, at any point, you want to pick up some groceries, there\'s a
-        huge grocery store \-- right next to the Mattamy Centre (site of
-        the Tuesday reception) \-- known as [Loblaws at Maple Leaf
+    -   if, at any point, you want to pick up some groceries, there's a
+        huge grocery store -- right next to the Mattamy Centre (site of
+        the Tuesday reception) -- known as [Loblaws at Maple Leaf
         Gardens](http://www.loblaws.ca/en_CA/60carlton.html); check out
-        the \'Wall of Cheese\"!
-    -   if your taste runs to reading, there\'s an
-        [Indigo](http://www.chapters.indigo.ca/home/) store (Canada\'s
+        the 'Wall of Cheese"!
+    -   if your taste runs to reading, there's an
+        [Indigo](http://www.chapters.indigo.ca/home/) store (Canada's
         major bookstore chain) about [10 min from the conference hotel
         by foot](http://goo.gl/aHCAM1), on Yonge St.
 
-As far as food and drink go, the variety you\'ll find in the city, even
+As far as food and drink go, the variety you'll find in the city, even
 restricted to the downtown area, is nothing short of remarkable;
-there\'s even a multicultural food court just down the street from the
-conference venue. Later this week we\'ll be adding to the above links a
+there's even a multicultural food court just down the street from the
+conference venue. Later this week we'll be adding to the above links a
 personal guide to eating and drinking establishments prepared by one of
 our volunteers.
 

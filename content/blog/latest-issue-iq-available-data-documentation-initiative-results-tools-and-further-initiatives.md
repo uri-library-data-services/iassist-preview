@@ -65,13 +65,13 @@ made this possible:
     University, USA.
 
 I hope you will enjoy their work in this issue, and I am certain that
-the contact authors will enjoy hearing from you\
+the contact authors will enjoy hearing from you
 about new potential results, tools, and initiatives.
 
 Articles for the IASSIST Quarterly are always very welcome. They can be
-papers from IASSIST conferences or other\
+papers from IASSIST conferences or other
 conferences and workshops, from local presentations or papers especially
-written for the IQ. When you are preparing\
+written for the IQ. When you are preparing
 a presentation, give a thought to turning your one-time presentation
 into a lasting contribution to continuing development. As an author you
 are permitted 'deep links' where you link directly to your paper
@@ -83,40 +83,40 @@ http://www.iassistdata.org.
 
 Authors are very welcome to take a look at the instructions and layout:
 http://iassistdata.org/iq/instructions-authors. Authors can also contact
-me via e-mail: kbr\@sam.sdu.dk.
+me via e-mail: kbr@sam.sdu.dk.
 
 Should you be interested in compiling a special issue for the IQ as
 guest editor(s) I will also be delighted to hear from you.
 
-Karsten Boye Rasmussen\
-September 2015\
+Karsten Boye Rasmussen
+September 2015
 Editor
 
 #### New Perspectives on DDI
 
 This issue features four papers that look at leveraging the structured
-metadata provided by DDI in\
+metadata provided by DDI in
 different ways. The first, "Design Considerations for DDI-Based Data
-Systems," aims to help decisionmakers\
+Systems," aims to help decisionmakers
 by highlighting the approach of using relational databases for data
-storage in contrast to\
+storage in contrast to
 representing DDI in its native XML format. The second paper, "DDI as a
-Common Format for Export\
+Common Format for Export
 and Import for Statistical Packages," describes an experiment using the
-program Stat/Transfer to\
+program Stat/Transfer to
 move datasets among five popular packages with DDI Lifecycle as an
-intermediary format. The paper\
+intermediary format. The paper
 "Protocol Development for Large-Scale Metadata Archiving Using DDI
-Lifecycle" discusses the use\
+Lifecycle" discusses the use
 of a DDI profile to document CLOSER (Cohorts and Longitudinal Studies
-Enhancement Resources,\
+Enhancement Resources,
 www.closer.ac.uk), which brings together nine of the UK's longitudinal
-cohort studies by producing a\
+cohort studies by producing a
 metadata discovery platform (MDP). And finally, "DDI and Enhanced Data
-Citation" reports on efforts in\
+Citation" reports on efforts in
 extend data citation information in DDI to include a larger set of
-elements and a taxonomy for the role\
+elements and a taxonomy for the role
 of research contributors.
 
-Mary Vardigan - vardigan\@umich.edu\
-Joachim Wackerow - Joachim.Wackerow\@gesis.org
+Mary Vardigan - vardigan@umich.edu
+Joachim Wackerow - Joachim.Wackerow@gesis.org

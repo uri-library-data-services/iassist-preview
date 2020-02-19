@@ -54,7 +54,7 @@ conference ever!
 
 If you have any questions or special requirements, especially concerning
 the registration process or payments, please contact our conference
-secretariat at Congreszon Ltd directly (iassist2009\@congreszon.fi),
+secretariat at Congreszon Ltd directly (iassist2009@congreszon.fi),
 before confirming your registration.
 
  
@@ -68,7 +68,7 @@ On behalf of Local Arrangements 2009,
 
  
 
--Tuomas \-\-- Tuomas J. Alaterä [Finnish Social Science Data
+-Tuomas --- Tuomas J. Alaterä [Finnish Social Science Data
 Archive](http://www.fsd.uta.fi) (FSD)
 
  

@@ -10,7 +10,7 @@ draft = "false"
 +++
 Conference website: <http://www.library.mcgill.ca/iassistcarto2018/>
 
-Conference hashtag: \#iassistcarto
+Conference hashtag: #iassistcarto
 
 The 44th annual conference of the International Association for Social
 Science Information Services and Technology
@@ -53,7 +53,7 @@ handle them.
 So bring us your data comedies, tragedies, epics, horror stories,
 mysteries, histories, thrillers, adventures, fables, fantasies, science
 fiction, and even romances if you've got them! We look forward to
-sharing, learning from, and adapting each other\'s stories.
+sharing, learning from, and adapting each other's stories.
 
  
 
@@ -82,7 +82,7 @@ Coordinators, Jenny Muilenburg (<jmuil@uw.edu>) and Andy Rutkowski
 
 **Notification of acceptance: February 2018**
 
-**\
+**
 **
 
 **Support for Attending the Conference**

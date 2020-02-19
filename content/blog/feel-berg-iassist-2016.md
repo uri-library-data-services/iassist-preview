@@ -10,7 +10,7 @@ draft = "false"
 +++
 The conference began with a reception from the Mayor of Bergen,
 beautifully performed Norwegian folk song, and dissent over the
-conference hashtag (it was \#iassist16).
+conference hashtag (it was #iassist16).
 
 The next morning data talk began with Gudmund Hernes. His plenary theme
 is data availability or the latest "revolution" is, as it always has,
@@ -132,9 +132,9 @@ ranging and (unrealistic?) expectations under which data librarian
 positions are advertised.
 
 A closing mention goes to this year's conference paper winners: Lafferty
-Hess and Christian (ODUM) for their paper \"[More Data, Less Process:
+Hess and Christian (ODUM) for their paper "[More Data, Less Process:
 The Applicability of MPLP to Research
-Data](https://www.openconf.org/IASSIST16/modules/request.php?module=oc_program&action=summary.php&id=125)\"
+Data](https://www.openconf.org/IASSIST16/modules/request.php?module=oc_program&action=summary.php&id=125)"
 in which they ask what the "golden minimum" is for archiving digital
 data.
 
@@ -144,8 +144,8 @@ post.
 
 The conference closed with a little less polished singing than the
 reception featured, hashtag wars resolved, and the IASSIST banner packed
-and headed for \#iassist17 in Lawrence, Kansas.
+and headed for #iassist17 in Lawrence, Kansas.
 
-\#iassist16 tweets are
+#iassist16 tweets are
 [Storified](https://storify.com/iassistdata/iassist-2016) (including
-\#iassist2016 tweets).
+#iassist2016 tweets).

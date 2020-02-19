@@ -28,11 +28,11 @@ Together with the authors a great issue has been made.
 
 Enjoy
 
-Karsten Boye Rasmussen, IQ editor, associate professor, kbr\@sam.sdu.dk,
+Karsten Boye Rasmussen, IQ editor, associate professor, kbr@sam.sdu.dk,
 Marketing & Management, SDU, University of Southern Denmark +45 6550
 2115
 
-**Guest Editor\'s Notes:**
+**Guest Editor's Notes:**
 
 The 2008 IASSIST Conference, "Technology of Data: Collection,
 Communication, Access and Preservation" included a session entitled
@@ -55,7 +55,7 @@ collaboration between the Universities of Edinburgh, Oxford and
 Southampton and the London School of Economics. Rice provides visual
 evidence in a compelling diagram of the data sharing continuum based on
 storage, discovery, and preservation conditions of the digital research
-materials at each level along the scale \-- from the lowly thumb drive
+materials at each level along the scale -- from the lowly thumb drive
 to the officious national archive. We see plainly that as one moves up
 the continuum, more and more human effort and intervention is required
 to craft the discovery, access, analytic and preservation environment.

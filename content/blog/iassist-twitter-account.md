@@ -10,7 +10,7 @@ draft = "false"
 +++
 Your friendly web editors have some news about the IASSIST web presence!
 
-We\'re happy to report that we now have an official organizational
+We're happy to report that we now have an official organizational
 Twitter account:
 [[http://twitter.com/iassistdata]{.s1}](http://twitter.com/iassistdata).
 We hope to use this account to facilitate additional communication among
@@ -20,7 +20,7 @@ Ways to view this Twitter account:
 
 -   [[http://www.iassistdata.org/](http://www.iassistdata.org)]{.s1} -
     Does not require Twitter account
--   follow [<http://twitter.com/iassistdata>]{.s1} (and we\'ll follow
+-   follow [<http://twitter.com/iassistdata>]{.s1} (and we'll follow
     you in return)
 -   subscribe to the RSS feed of [<http://twitter.com/iassistdata>]{.s1}
     at <http://twitter.com/statuses/user_timeline/156331061.rss> - Does
@@ -33,9 +33,9 @@ Please note, a post by
 can include 
 
 -   original statements,
--   republishing posts from other Twitter users (\"retweeting\" or RTs
-    because, yes, \"retweet\" is a very silly word) and
--   a reply to a specific Twitter user (an \"@ reply\" or a mention).
+-   republishing posts from other Twitter users ("retweeting" or RTs
+    because, yes, "retweet" is a very silly word) and
+-   a reply to a specific Twitter user (an "@ reply" or a mention).
 
 If you want to direct a post of your own to 
 
@@ -50,20 +50,20 @@ If you want to direct a post of your own to 
 
 then you should first follow
 [[http://twitter.com/iassistdata]{.s1}](http://twitter.com/iassistdata)
-and second include \"\@iassistdata\" somewhere in the post. Don\'t worry
-though - even if you forget the \"\@iassistdata\", interesting posts
-about data will very likely be RT\'d by
+and second include "@iassistdata" somewhere in the post. Don't worry
+though - even if you forget the "@iassistdata", interesting posts
+about data will very likely be RT'd by
 [[http://twitter.com/iassistdata]{.s1}](http://twitter.com/iassistdata).
 
 For any posts you wish to direct to
 [[http://twitter.com/iassistdata]{.s1}](http://twitter.com/iassistdata)
 that are about the upcoming conference, we request that you use the tag
-\"\#iassist2011\". An archive of these posts has already been set up at
+"#iassist2011". An archive of these posts has already been set up at
 [<http://twapperkeeper.com/hashtag/iassist2011>]{.s1}. An example of
 what we mean would be
 
- \"Hey, \@iassistdata - know of anyone in need of a ride to the airport
-at the end of \#iassist2011?\"
+ "Hey, @iassistdata - know of anyone in need of a ride to the airport
+at the end of #iassist2011?"
 
 For those not familiar with Twitter and interested in trying it: 
 

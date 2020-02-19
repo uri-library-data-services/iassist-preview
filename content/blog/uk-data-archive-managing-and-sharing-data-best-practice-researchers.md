@@ -8,7 +8,7 @@ oldpath = "/resources/uk-data-archive-managing-and-sharing-data-best-practice-re
 date = "2011-04-30 01:03:47 -0700"
 draft = "false"
 +++
-The UK Data Archive\'s guide [Managing and Sharing Data: Best Practice
+The UK Data Archive's guide [Managing and Sharing Data: Best Practice
 for Researchers
 (PDF)](http://www.data-archive.ac.uk/media/2894/managingsharing.pdf)
 provides guidance to support researchers in producing high quality

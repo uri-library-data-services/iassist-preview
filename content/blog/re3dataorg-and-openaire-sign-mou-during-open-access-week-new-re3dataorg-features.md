@@ -26,7 +26,7 @@ For more information, see the [OpenAIRE press release on the
 MoU](http://www.openaire.eu/component/content/article/9-news-events/481-re3data-and-openaire-sign-memorandum-of-understanding?lang=en).
 
 In addition, [re3data.org](http://re3data.org) is now mentioned in
-[Nature\'s Scientific data\'s deposition
+[Nature's Scientific data's deposition
 policy](http://www.nature.com/scientificdata/for-authors/data-deposition-policies/),
 which encourages the registration of repositories with the service, as
 well as a collaboration with [BioSharing](http://www.biosharing.org/).

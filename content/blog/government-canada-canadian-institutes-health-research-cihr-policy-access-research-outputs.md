@@ -10,6 +10,6 @@ draft = "false"
 +++
 The[CIHR Policy on Access to Research
 Outputs](http://www.cihr-irsc.gc.ca/e/32005.html) demonstrates the
-CIHR\'s belief that greater access to research publications and data
+CIHR's belief that greater access to research publications and data
 will promote the ability of researchers in Canada and abroad to use and
 build on the knowledge needed to address significant health challenges.

@@ -14,15 +14,15 @@ when the new search engine [WolframAlpha](http://www.wolframalpha.com/)
 was launched earlier this year.  An article in the current issue of
 *Technology Review* does a better job of explaining how it works and how
 it fits in with other search engines. It notes that the numeric
-information it uses is \"curated\" by Wolfram\|Alpha employees \-- by
+information it uses is "curated" by Wolfram|Alpha employees -- by
 which they mean the data are selected and acquired, not just contributed
 as with sites like [Swivel](http://www.swivel.com/). It also explains
 the human element of ingesting the data and assigning meaning to
 values.  Worth a read:
 
--   [Inside the launch of Stephen Wolfram\'s new \"computational
-    knowledge engine.\"](http://www.technologyreview.com/web/22834/) By
-    David Talbot. *Technology Review* (July/August 2009) \[subscription
-    required\]
+-   [Inside the launch of Stephen Wolfram's new "computational
+    knowledge engine."](http://www.technologyreview.com/web/22834/) By
+    David Talbot. *Technology Review* (July/August 2009) [subscription
+    required]
 
-\- Jim Jacobs
+- Jim Jacobs

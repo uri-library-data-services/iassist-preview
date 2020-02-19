@@ -13,5 +13,5 @@ Planning](http://www.arl.org/focus-areas/e-research/data-access-management-and-s
 pulls together resources for research libraries to support their
 researchers in complying with the NSF Data Sharing Policy. This portal
 represents a variety of sites containing examples, data management
-tools, and data repositories. Professionals can participate in ARL\'s
+tools, and data repositories. Professionals can participate in ARL's
 Group on Data Sharing Support.

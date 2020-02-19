@@ -14,6 +14,6 @@ reduced rate and register in the coming week.
 
 <http://www.rdl.sfu.ca/IASSIST/index.php/Register/>
 
-By registering early you save \$50 for the full conference or \$30 for a
-single day (\$40 and \$20 at student rates).  The cancellation deadline
+By registering early you save $50 for the full conference or $30 for a
+single day ($40 and $20 at student rates).  The cancellation deadline
 is April 22.

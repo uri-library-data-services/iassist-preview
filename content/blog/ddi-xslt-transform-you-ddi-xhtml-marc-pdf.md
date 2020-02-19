@@ -18,5 +18,5 @@ including:
 -   PDF codebooks
 
 [Demo site for
-transformations](http://xml.snd.gu.se/app/transform/index.html)\
+transformations](http://xml.snd.gu.se/app/transform/index.html)
 [Google code page](https://code.google.com/p/ddixslt/)

@@ -32,7 +32,7 @@ time![](http://iassistblog.org/wp-content/uploads/2008/05/iassistsl.wmf)
 
 The conference so far has been very interesting - what a fabulous job
 the program committee did!  Of course their job was made easier by the
-fantastic submissions that IASSISTERs provided!  I\'ll be canvassing
+fantastic submissions that IASSISTERs provided!  I'll be canvassing
 those at the conference (in real life!) to see if I can get more
 detailed session reports to post. 
 

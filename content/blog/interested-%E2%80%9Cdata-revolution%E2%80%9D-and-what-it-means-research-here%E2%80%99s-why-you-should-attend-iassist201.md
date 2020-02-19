@@ -25,8 +25,8 @@ revolution': opportunities and challenges for research"** and it is the
 42nd of its kind, taking place every year.
 [IASSIST2016](http://iassist2016.org) will take place in Bergen, Norway,
 from 31 May to 3 June, hosted by [NSD](http://www.nsd.uib.no) -
-Norwegian Centre for Research Data.\
-\
+Norwegian Centre for Research Data.
+
 Here is a first snapshot of what is there and why it is important.
 
 ### Data sharing {#data-sharing dir="ltr"}
@@ -104,9 +104,9 @@ as well as possible future applications.
 
 If you follow data protection issues, the panel on "Data protection:
 legal and ethical reviews" is for you, starting off with a presentation
-of the Administrative Data Research Network\'s
+of the Administrative Data Research Network's
 ([ADRN](https://www.openconf.org/IASSIST16/modules/request.php?module=oc_program&action=summary.php&id=43))
-Citizen\'s Panel, which look at public concerns about research using
+Citizen's Panel, which look at public concerns about research using
 administrative data, the content of which is both personal and
 confidential. The ADRN was set up as part of the UK Government's Big
 Data initiative as a UK-wide partnership between universities,
@@ -154,25 +154,25 @@ Empowering Communities with Data Technologies), another on -
 strengthening and widening the European infrastructure for social
 science data archives ([CESSDA
 SaW](http://cessda.net/CESSDA-Services/Projects/CESSDA-SaW)) and a third
-on synergies for Europe\'s Research Infrastructures in the Social
+on synergies for Europe's Research Infrastructures in the Social
 Sciences ([SERISS](http://cessda.net/CESSDA-Services/Projects/SERISS)),
 this panel is for you.  
 
-[\"Don\'t Hate the Player, Hate the Game\": Strategies for Discussing
+["Don't Hate the Player, Hate the Game": Strategies for Discussing
 and Communicating Data Services"
 ](https://www.openconf.org/IASSIST16/modules/request.php?module=oc_program&action=summary.php&id=70)considers
 how libraries might strategically reconsider communications about data
-services.\
-\
-Keep an eye on this blog for more news in the run-up to IASSIST2016.\
-\
-Find out more on the [IASSIST2016 website](http://iassist2016.org).\
-\
+services.
+
+Keep an eye on this blog for more news in the run-up to IASSIST2016.
+
+Find out more on the [IASSIST2016 website](http://iassist2016.org).
+
 Spread the word on
 [Twitter](https://twitter.com/CESSDA_Data/status/727430588286795776) using
-[\#IASSIST16](https://twitter.com/search?q=%23IASSIST16&src=typd).\
-\
-We are looking forward to seeing you in Bergen! \
-\
-\
+[#IASSIST16](https://twitter.com/search?q=%23IASSIST16&src=typd).
+
+We are looking forward to seeing you in Bergen! 
+
+
 A story by Eleanor Smith ([CESSDA](http://cessda.net/))

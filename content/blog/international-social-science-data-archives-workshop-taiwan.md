@@ -24,70 +24,70 @@ The finalized workshop agenda is listed in the following. We also had
 Taiwan. The topics of the presentations covered data curation,
 preservation, and dissemination services provided by each data archive. 
 
-09:00\~09:30
+09:00~09:30
 
 Registration
 
-09:30\~09:40
+09:30~09:40
 
 Opening Remarks
 
-Dr. Ching-Ching Chang\
-Chair Professor\
-Department of Advertising\
+Dr. Ching-Ching Chang
+Chair Professor
+Department of Advertising
 National Cheng-Chi University, Taiwan
 
 Morning Session
 
 Session Chair: Dr. Ching-ching Chang
 
-09:40\~10:20
+09:40~10:20
 
 Curating, Preserving, and Disseminating Social Science Micro Data at
 Social Science Japan Data Archive
 
-Dr. Yukio Maeda\
-Professor\
-Institute of Social Science\
+Dr. Yukio Maeda
+Professor
+Institute of Social Science
 University of Tokyo, JAPAN
 
-10:20\~11:00
+10:20~11:00
 
 Introduction to Korea Social Science Data Archive
 
-Dr. Won-ho Park\
-Associate Professor\
-Department of Political Science and International Relations\
+Dr. Won-ho Park
+Associate Professor
+Department of Political Science and International Relations
 Seoul National University, KOREA
 
-Dr. Seokho Kim\
-Associate Professor\
-Department of Sociology\
+Dr. Seokho Kim
+Associate Professor
+Department of Sociology
 Seoul National University, KOREA
 
-Dr. In Chol Shin\
+Dr. In Chol Shin
 [](http://web.skku.edu/~socioadmin/?page_id=457&lang=en)Senior
-Researcher\
-Korea Social Science Data Archive\
+Researcher
+Korea Social Science Data Archive
 Seoul National University Asia Center, KOREA
 
-11:00\~11:20
+11:00~11:20
 
 Tea Break
 
  
 
-11:20\~12:00
+11:20~12:00
 
 Introduction to Survey Research Data Archive of Taiwan
 
-Dr. Ruoh-Rong Yu\
-Research Fellow and Executive Director\
-Center for Survey Research\
+Dr. Ruoh-Rong Yu
+Research Fellow and Executive Director
+Center for Survey Research
 Research Center for Humanities and Social Sciences, Academia Sinica,
 TAIWAN
 
-12:00\~14:00
+12:00~14:00
 
 Lunch
 
@@ -98,22 +98,22 @@ Afternoon Session
 Session Chair: Dr. Chyi-In Wu. (Research Fellow, Institute of Sociology,
 Academia Sinica)
 
-14:00\~15:00
+14:00~15:00
 
 Services for Survey Data: The GESIS Perspective
 
-Dr. Christof Wolf\
-President\
+Dr. Christof Wolf
+President
 GESIS -- Leibniz Institute for the Social Sciences, GERMANY
 
-15:00\~15:20
+15:00~15:20
 
 Closing Remarks
 
  
 
 The registration of the workshop started May 1, 2017. The registration
-fee was NT\$200, which included conference printed materials, lunch and
+fee was NT$200, which included conference printed materials, lunch and
 light refreshments.  69 researchers attended the workshop. Most of the
 attendants were local scholars, while others were from Thailand, Turkey
 or other countries.
@@ -206,7 +206,7 @@ page](https://www.facebook.com/srda.taiwan/ "SRDA Facebook fan page"),
 and [SRDA blog](http://srdatw.blogspot.tw/ "SRDA Blog").
 
 SRDA has been constructing a data-based bibliography for years. Since
-2016, SRDA has begun to register DOI via da\|ra. One task in progress is
+2016, SRDA has begun to register DOI via da|ra. One task in progress is
 to construct a data integration platform for Taiwan Social Change Survey
 data of various years. Other main tasks include enlarging data storage,
 broadening membership, remodeling the website, developing data
@@ -228,9 +228,9 @@ programs. It is easy for PIs to upload datasets through the Datorium
 system, which is a self-deposit service for sharing data.
 
 Dr. Wolf stressed the importance of DOI (Digital Object Identifiers),
-and introduced the DOI registration service built by GESIS -- da\|ra.
-Da\|ra has 576,297 registered DOI names and 88 data providers worldwide,
-including ICPSR, SRDA, etc. In addition to hosting da\|ra, GESIS is
+and introduced the DOI registration service built by GESIS -- da|ra.
+Da|ra has 576,297 registered DOI names and 88 data providers worldwide,
+including ICPSR, SRDA, etc. In addition to hosting da|ra, GESIS is
 devoted to developing international standards for data documentation and
 data archiving, and providing training and consulting services to
 researchers.

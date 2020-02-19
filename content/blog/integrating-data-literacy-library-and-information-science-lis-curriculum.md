@@ -8,16 +8,16 @@ oldpath = "/blog/integrating-data-literacy-library-and-information-science-lis-c
 date = "2020-01-16 11:28:17 -0700"
 draft = "false"
 +++
-*IASSIST\'s Africa Regional Secretary Ms. Winny Nekesa Akullo and Prof.
+*IASSIST's Africa Regional Secretary Ms. Winny Nekesa Akullo and Prof.
 Constant Obura-Okello report on a data workshop at Makerere University,
 Kampala.*
 
-*If you\'re looking to orginise a similar regional or national data
+*If you're looking to orginise a similar regional or national data
 event, the IASSIST 2020 [Event Sponsorship Proposals
 call](https://docs.google.com/forms/d/e/1FAIpQLSfrB7tIrr-4l-sKhslZ6pfvnL3HD_amFvWeFE09_3lDirpPbw/viewform "IASSIST 2020 Event Sponsorship Proposal Call")
 is open until 26 January 2020.*
 
-IASSIST's Membership Committee\'s event sponsorship program recently
+IASSIST's Membership Committee's event sponsorship program recently
 sponsored a one day workshop on Integrating Data Literacy into Library
 and Information Science (LIS) Curriculum. The workshop aimed at bringing
 academicians in the field of library and information science to discuss

@@ -10,15 +10,15 @@ draft = "false"
 +++
  
 
-Hey IASSISTers (gents, pardon for the video pun - couldnt\' resist),
+Hey IASSISTers (gents, pardon for the video pun - couldnt' resist),
 
 Are librarians at your institutions struggling to get up to speed with
-research data management (RDM)? If they\'re not, they probably should
+research data management (RDM)? If they're not, they probably should
 be. Library organisations are publishing reports and issuing
 recommendations left and right, such as the LIBER (Association of
-European Research Libraries) 2012 report, \"[Ten Recommendations for
+European Research Libraries) 2012 report, "[Ten Recommendations for
 Libraries to Get Started with Research Data
-Management](http://www.libereurope.eu/files/blog/The%20research%20data%20group%202012%20v7%20final.pdf)\"
+Management](http://www.libereurope.eu/files/blog/The%20research%20data%20group%202012%20v7%20final.pdf)"
 (PDF). Just last week Nature published an article highlighting what the
 Great and the Good are doing in this area: [Publishing Frontiers: The
 Library
@@ -26,7 +26,7 @@ Reboot](https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rj
 
 So the next question is, as a data professional, what are you doing to
 help the librarians at your institution get up to speed with RDM?
-Imagine (it isn\'t that hard for some of us) having gotten your Library
+Imagine (it isn't that hard for some of us) having gotten your Library
 masters degree sometime in the last century and now being told your job
 includes helping researchers manage their data? Librarians are sturdy
 souls, but that notion could be a bitter pill for someone who went into
@@ -35,7 +35,7 @@ librarianship because of their love of books, right?
 So you are a local expert who can help them. No doubt there will be
 plenty of opportunities for them to return the favour.
 
-If you don\'t consider yourself a trainer, that\'s okay. Tell them about
+If you don't consider yourself a trainer, that's okay. Tell them about
 the Do-It-Yourself Research Data Management Training Kit for Librarians,
 from EDINA and Data Library, University of Edinburgh. They can train
 themselves in small groups, making use of reading assignments in MANTRA,
@@ -45,10 +45,10 @@ professional experience.
 
 And then you can step in as a local expert to give one or more of the
 short talks to lead off the two hour training sessions in your choice of
-five RDM topics.Or if you\'re really keen, you can offer to be a
-facilitator for the training as a whole.Either way it\'s a great chance
+five RDM topics.Or if you're really keen, you can offer to be a
+facilitator for the training as a whole.Either way it's a great chance
 to build relationships across the institution, review your own
-knowledge, and raise your local visibility. If you\'re with me so far,
+knowledge, and raise your local visibility. If you're with me so far,
 read on for the promotional message about the training kit.
 
 ### DIY Research Data Management Training Kit for Librarians
@@ -75,38 +75,38 @@ with short talks followed by group exercises from the UK Data Archive
 and long discussions, in a private collegiate setting. Emphasis is
 placed on facilitation and individual learning rather than long lectures
 and passive listening. MANTRA modules are used as reading assignments
-and reflective writing questions are designed to help librarians \'put
-themselves in the shoes of the researcher\'. Learning is reinforced and
+and reflective writing questions are designed to help librarians 'put
+themselves in the shoes of the researcher'. Learning is reinforced and
 put into practice through an independent study assignment of completing
 and publishing an interview with a researcher using the Data Curation
 Profile framework developed by D2C2 at Purdue University Libraries.
 
  The kit includes:
 
- \* Promotional slides for the RDM Training Kit
+ * Promotional slides for the RDM Training Kit
 
-\* Training schedule
+* Training schedule
 
-\* Research Data MANTRA online course by EDINA and Data Library,
+* Research Data MANTRA online course by EDINA and Data Library,
 University of Edinburgh: <http://datalib.edina.ac.uk/mantra>
 
-\* Reflective writing questions
+* Reflective writing questions
 
-\* Selected group exercises (with answers) from UK Data Archive,
+* Selected group exercises (with answers) from UK Data Archive,
 University of Essex - /Managing and sharing data: Training resources./
 September, 2011 (PDF). Complete RDM Resources Training Pack available:
 <http://data-archive.ac.uk/create-manage/training-resources>
 
-\* Podcasts (narrated presentations) for short talks by the original
+* Podcasts (narrated presentations) for short talks by the original
 Edinburgh speakers (including from the DCC) if running course without
 'live' speakers.
 
-\* Presentation files - if learners decide to take turns presenting each
+* Presentation files - if learners decide to take turns presenting each
 topic.
 
-\* Evaluation forms
+* Evaluation forms
 
-\* Independent study assignment: Data Curation Profile, from D2C2,
+* Independent study assignment: Data Curation Profile, from D2C2,
 Purdue University Libraries. Resources available:
 <http://datacurationprofiles.org/>
 

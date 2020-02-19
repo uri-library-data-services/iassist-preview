@@ -25,10 +25,10 @@ AnalyticBridge](http://www.analyticbridge.com/group/conferences){.rss-title}
 -   [Data Mining: Failure to Launch ( Live Predictive Analytics Web
     Event 8/15 & 9/6
     )](http://www.analyticbridge.com/xn/detail/2004291:Topic:207013){.rss-item}
--   [Predictive Analytics & Data Mining Vendor-Neutral Courses \[ Wash,
-    DC - Sept \| Las Vegas - Dec
-    \]](http://www.analyticbridge.com/xn/detail/2004291:Topic:207120){.rss-item}
--   [Join an exciting webinar on \"Data Science: The Next Rock Star\"
+-   [Predictive Analytics & Data Mining Vendor-Neutral Courses [ Wash,
+    DC - Sept | Las Vegas - Dec
+    ]](http://www.analyticbridge.com/xn/detail/2004291:Topic:207120){.rss-item}
+-   [Join an exciting webinar on "Data Science: The Next Rock Star"
     hosted by the President of International School of
     Engineering](http://www.analyticbridge.com/xn/detail/2004291:Topic:206864){.rss-item}
 -   [Big Data Innovators gather in

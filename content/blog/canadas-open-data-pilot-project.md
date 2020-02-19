@@ -20,11 +20,11 @@ and comes with an apparently very broad user license.
 
 The FAQ summarizes [user
 rights](http://www.data.gc.ca/default.asp?lang=En&n=C5DBADB8-1#ws2ADE6AC1 "Open Data User Rights Summary")
-this way: \"The [Licence
+this way: "The [Licence
 Agreement](http://www.data.gc.ca/default.asp?lang=En&n=46D15882-1 "Licence Agreement") allows
 the licensee to use, incorporate, grant end-user licences to modify,
 improve, develop and distribute the data. The licensees must, however,
-identify the source of the data on their derived products.\"
+identify the source of the data on their derived products."
 
 Portal users may search or browse to find datasets. Browse categories
 include department, subject and, interestingly, file format. Where
@@ -33,7 +33,7 @@ available, the portal also links to
 created by Canadian government agencies for use with datasets included
 in the portal.
 
-A search for \"employment\" in the general dataset section returns 163
+A search for "employment" in the general dataset section returns 163
 datasets, most of them relatively recent (mid-1990s-present), but there
 is at least one dataset included with a significant range. The [Atlantic
 Zone Monitoring Program (AZMP): Meteorological
